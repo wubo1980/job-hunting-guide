@@ -4,7 +4,7 @@ export const siteConfig = {
   url: "https://job-hunting-guide.vercel.app",
   description:
     "Practical guidance for laid-off tech workers, anxious graduates, and professionals navigating the AI-shaped job market in 2026.",
-  discordUrl: "https://discord.gg/job-hunting-guide",
+  discordUrl: "https://discord.gg/RdHhdgRhbc",
   navItems: [
     { href: "/ai-job-search", label: "AI Job Search" },
     { href: "/career-pivot", label: "Career Pivot" },
