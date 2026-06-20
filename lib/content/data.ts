@@ -616,4 +616,289 @@ export const articles: Article[] = [
       },
     ],
   },
+  {
+    slug: "how-to-network-for-a-job-in-2026",
+    category: "ai-job-search",
+    title: "How to Network for a Job in 2026 (When Cold Applying Stopped Working)",
+    description:
+      "Cold applications are failing more than ever. Use a structured networking system to reach the right people, earn referrals, and skip the volume game in a market where inbound is cooked.",
+    publishedAt: "2026-06-20",
+    readingTime: "8 min read",
+    tags: ["Networking", "Referrals", "2026 Job Market"],
+    sections: [
+      {
+        title: "Why inbound stopped working in 2026",
+        content: [
+          "On June 1, 2026, a thread on Hacker News captured what job seekers had been quietly noticing for months. Founders who were actually posting roles used their own comments to announce that the channel is broken. Inbound applications—cold resumes uploaded through the Apply button—had become noise. The founders said the only signal they trusted anymore was a warm referral or a direct inbound from someone they already respected.",
+          "The r/recruitinghell 2026 report analyzed 20,973 posts from the first half of 2026 and classified the top complaint. It is not rejection. It is how rejection is delivered. Candidates spend three hours tailoring a resume, hit submit, and then hear nothing for weeks. Meanwhile, some companies admit they never planned to fill the role. Those ghost jobs waste cognitive energy that should go toward real opportunities.",
+          "This is not a temporary correction. The volume-to-signal ratio has structurally worsened. AI screening tools increased the number of initial applications companies can accept, but did not improve the signal quality. The result is a market where cold inbound has become a low-probability bet. The people who land jobs fastest are not the ones who apply to the most jobs. They are the ones who build referral pipelines before they need them.",
+        ],
+      },
+      {
+        title: "Build a tiered contact system, not a giant spreadsheet",
+        content: [
+          "Most networking advice tells you to reach out to everyone you have ever met. That approach creates volume without focus. A more reliable system separates your contacts into three tiers based on relationship strength and ability to help.",
+          "Tier one is warm advocates. These are former managers, close colleagues, and mentors who know your work quality and would actively recommend you. They should get a specific, low-friction ask: a referral, an introduction to a hiring manager, or a recommendation on an internal system. Do not ask them to let you know if they hear of anything. That is too vague. Tell them exactly what role family you are targeting and at what companies.",
+          "Tier two is informed peers. These are current and former coworkers who work in the same industry or function. They may not have hiring authority, but they know which companies are actually moving, which listings are real, and which teams are quietly expanding. Ask them market intelligence questions: What is your company hiring for? How long is the hiring cycle? Is the role real or just a posting? Informed peers are your best early warning system.",
+          "Tier three is dormant contacts. Alumni networks, former classmates, and people you have met at conferences or past workplaces. These require a low-stakes reconnection message before you ask for anything. Something like: Hey, I am exploring next steps in my career and would love to hear what you are seeing in your space. Not every dormant contact responds, but the ones who do can open unexpected doors.",
+        ],
+        checklist: [
+          "Categorize your network into warm advocates, informed peers, and dormant contacts.",
+          "Give warm advocates a specific ask: referral, introduction, or internal recommendation.",
+          "Ask informed peers for market intelligence, not job leads.",
+          "Reconnect with dormant contacts before making any ask.",
+        ],
+      },
+      {
+        title: "The five message types that actually get responses",
+        content: [
+          "The content of your outreach matters as much as the contact list. Generic messages sound like spam even when sent to people who know you. A practical framework is to vary your message type based on your goal.",
+          "Type one is the intelligence request. I am looking at Company X for a Y role. Do you know anyone on that team or have a sense of how the group is structured? This is low pressure and often produces useful answers because people like sharing what they know.",
+          "Type two is the advice ask. I am deciding between two paths: staying in my current function vs pivoting into Z. Based on what you see, what would you weigh? Advice asks are flattering and low obligation. They rarely get ignored.",
+          "Type three is the introduction request. Would you be open to introducing me to Person A on your team? I have been following their work on Project B and think there could be alignment. Always make the introduction easy by explaining why the match makes sense.",
+          "Type four is the informational interview. Could I have 15 minutes to hear about what your day looks like in role X? Most employed professionals are willing to talk when the request is bounded and specific.",
+          "Type five is the referral ask. This should be reserved for your warmest connections. I am applying to Role Y at your company. If you are comfortable, could you submit an internal referral or mention my name to the recruiter? Referrals increase callback rates by 3x to 10x depending on the company, but they burn social capital. Use them sparingly.",
+        ],
+        bullets: [
+          "Intelligence requests get the best response rate because they cost nothing to answer.",
+          "Advice asks build relationships without making the other person feel used.",
+          "Referral asks work best when you have a specific role and can explain why you fit.",
+        ],
+      },
+      {
+        title: "Build a networking rhythm, not a networking push",
+        content: [
+          "The people who network well do not cram it into one panic week. They build a sustainable rhythm. A practical target is five high-quality outreach messages per week. Not fifty LinkedIn connection requests. Five messages that are specific, researched, and easy to respond to.",
+          "Track every conversation, response, and follow-up date in one simple sheet. Note what worked: which message types got replies, which companies responded fastest, which introductions led to interviews. Over time, you are not just networking. You are learning which channels produce the highest probability outcomes for your specific profile.",
+          "One common mistake is stopping networking after a rejection. The best time to send a follow-up to a warm contact is right after a setback, because you have regained some clarity about what you actually want. A rejection often sharpens your focus. Use it.",
+        ],
+      },
+      {
+        title: "How to network when you have no network",
+        content: [
+          "If you are early in your career, changing industries, or new to a geography, your network may not exist yet. That is normal. The solution is not to fake connections. It is to become discoverable.",
+          "Write about what you know. A short case study, a project walkthrough, an analysis of a market trend. Publish it on LinkedIn, a personal site, or a public GitHub repo. When someone searches for your name or your topic, they should find proof of your thinking, not just a resume. This creates inbound networking: people reach out to you because they found your work.",
+          "Join communities where hiring signals exist before jobs are posted. Discord servers for specific tech stacks, Slack groups for industry transitions, and curated forums for career changers all have channels where opportunities appear before they reach job boards. Presence in those spaces, without a hard sell, often leads to the warmest kind of referral: someone who already knows your work.",
+        ],
+      },
+    ],
+    cta: {
+      heading: "Build your networking system with others",
+      body: "Inside the Discord, members share outreach templates, referral strategies, and which companies respond to warm intros fastest.",
+      label: "Join The Network",
+      href: siteConfig.discordUrl,
+    },
+    sources: [
+      {
+        label: "Hacker News Ask HN: founders on inbound breaking down",
+        url: "https://news.ycombinator.com/item?id=48589357",
+      },
+      {
+        label: "Truffle: 20,973 r/recruitinghell posts reveal hiring complaints in 2026",
+        url: "https://www.hiretruffle.com/reports/recruiting-complaints-2026",
+      },
+      {
+        label: "Refolk: 94 Reddit threads on candidate ghosting",
+        url: "https://www.refolk.ai/blog/candidate-ghosting-2026-sourcing-signal-failure",
+      },
+      {
+        label: "LinkedIn Economic Graph hiring trend data",
+        url: "https://economicgraph.linkedin.com/",
+      },
+    ],
+  },
+  {
+    slug: "how-to-prepare-for-any-2026-interview-format",
+    category: "interview-prep",
+    title: "How to Prepare for Every Type of 2026 Interview (Behavioral, Case, Take-Home, and Portfolio Review)",
+    description:
+      "Employers use four distinct interview formats in 2026. Learn what each tests, how to prepare, and common traps that quietly lower your score across every format.",
+    publishedAt: "2026-06-20",
+    readingTime: "9 min read",
+    tags: ["Interview Prep", "Behavioral Interview", "Portfolio Review", "Case Interview"],
+    sections: [
+      {
+        title: "Why you need a format-specific strategy in 2026",
+        content: [
+          "Job interviews used to follow a reliable pattern: a phone screen, a behavioral round, and a hiring manager conversation. That uniformity has broken down in 2026. Companies now mix four distinct formats depending on role seniority, hiring urgency, and how much they trust skill-signaling proxies like degrees or years of experience.",
+          "The shift toward skills-based hiring has accelerated format fragmentation. Employers who no longer trust resume keywords as a signal of ability need other ways to assess candidates. Some use live coding or case studies. Others use portfolio reviews or timed work samples. Many combine two or three formats in a single pipeline. The problem for candidates is that preparing for one format does not prepare you for the others.",
+          "A behavioral STAR framework, for example, is almost useless in a case interview where the entire point is to watch your thinking unfold in real time. Similarly, a polished take-home assignment does not help you sell your work in a portfolio review. To clear modern hiring pipelines, you need a format-aware preparation strategy that shifts depending on what the employer is testing.",
+        ],
+      },
+      {
+        title: "Behavioral interviews: evidence density beats charisma",
+        content: [
+          "Behavioral interviews remain the most common format, but their weight has shifted. Interviewers in 2026 are less impressed by confident storytelling and more interested in evidence density. The question behind every question is: can you prove you did what you claim?",
+          "Use the STAR format with one modification: lead with the result. Instead of starting with the situation, start with the metric or outcome. I reduced CI pipeline time by 40 percent, which cut our deployment cycle from two weeks to four days. Then backfill the context. This signals that you value outcomes over process and keeps your answer tight.",
+          "Prepare five reusable stories that cover: a difficult technical or business problem, a conflict you resolved, a project with measurable impact, a failure you recovered from, and a high-pressure decision. Each story should be adaptable to different prompts. Practice delivering them in 60 seconds and in 3 minutes. The first proves you can be concise. The second proves you have depth.",
+          "One trap to avoid: generic leadership language. I am a strategic thinker who collaborates across teams communicates almost nothing. Replace self-description with specific evidence. Every sentence should either describe an action you took or a result you produced. If it does neither, cut it.",
+        ],
+        checklist: [
+          "Lead every answer with the outcome or metric.",
+          "Prepare five reusable stories with specific, verifiable results.",
+          "Practice delivering each story in 60 seconds and 3 minutes.",
+          "Eliminate any sentence that does not describe an action or a result.",
+        ],
+      },
+      {
+        title: "Case interviews: the format tests thinking, not knowledge",
+        content: [
+          "Case interviews are less common in pure engineering roles but standard in product management, consulting-adjacent positions, and senior individual contributor roles where strategic judgment matters. The key insight is that case interviews do not test your domain knowledge. They test your thinking process under uncertainty.",
+          "A strong case performance follows a repeatable structure. First, clarify the question. Restate the problem in your own words and confirm with the interviewer. Second, scope the problem. Identify what is in bounds and what is out of bounds. Third, build a framework. It does not need to be perfect. It needs to be organized. Fourth, do the math or analysis out loud. Fifth, state a conclusion with supporting reasoning.",
+          "The most common point loss in case interviews comes from jumping to a conclusion too fast. Interviewers want to see your structure, your assumptions, and how you handle missing information. If you do not know a number, estimate and state your assumption. That signals judgment, not guessing.",
+          "Practice with realistic prompts. Public case interview prep resources exist for product management and consulting roles. For engineering cases, a common format is: We need to build X. How would you approach it? Your job is to show a systematic evaluation of constraints, tradeoffs, team capacity, and timeline before proposing an approach.",
+        ],
+        bullets: [
+          "Restate the problem to confirm scope before diving into analysis.",
+          "Build a visible framework even if it is imperfect.",
+          "State assumptions when data is missing instead of guessing silently.",
+          "End every case with a clear conclusion and supporting reasoning.",
+        ],
+      },
+      {
+        title: "Take-home assignments: design for evaluation, not for perfection",
+        content: [
+          "Take-home assignments have become more common as companies shift to skills-based assessment. The trap is spending too much time on the deliverable and not enough on making it easy to evaluate. A take-home that is technically perfect but poorly documented will score worse than a solid submission with clear documentation.",
+          "Start by understanding the evaluation criteria. If the prompt says build an API, confirm whether they care about code structure, test coverage, documentation, deployment, or all four. Then prioritize accordingly. A README that explains your decisions, tradeoffs, and how to run the code is often worth more than an extra test.",
+          "Set a time budget before you start. Take-home assignments are not supposed to consume your week. If the prompt says it should take four hours, spend at most six. Use the remaining time to polish documentation, clean up code formatting, and write a short summary of what you built and why.",
+          "One often-missed opportunity: include a short retrospective in your submission. Describe what you would improve with more time, what assumptions you made, and what edge cases you did not handle. This demonstrates professional maturity and often converts a neutral submission into a strong pass.",
+        ],
+      },
+      {
+        title: "Portfolio reviews: the format that rewards judgment over volume",
+        content: [
+          "Portfolio reviews are increasingly common for design, engineering, and product roles where past work is the strongest signal of future performance. The rules are different from a behavioral interview because the interviewer has already seen your output. They want to know how you arrived at it.",
+          "For every project in your portfolio, be ready to explain three things: the problem, your specific role, and the key decisions you made. Do not describe features. Describe tradeoffs. We chose React over Svelte because our team had existing React expertise and the product timeline did not allow for a framework migration. That shows engineering judgment.",
+          "Prepare a 30-second elevator pitch and a 5-minute deep dive for your strongest project. Most portfolio reviews start with an open-ended prompt: Walk me through something you built. Your ability to tightly summarize before diving deep signals communication skill and self-awareness.",
+          "One common trap: presenting everything as a success. Interviewers value candidates who can analyze their own failures. If a project had technical debt, missed deadlines, or design flaws, acknowledge them honestly and explain what you learned. A portfolio that only shows wins is less credible than one that shows learning.",
+        ],
+        checklist: [
+          "For each project, prepare: the problem, your role, key decisions, and tradeoffs.",
+          "Have a 30-second summary and a 5-minute deep dive ready.",
+          "Include at least one failure or learning experience.",
+          "Organize portfolio by role type, not chronologically.",
+        ],
+      },
+    ],
+    cta: {
+      heading: "Practice interviews with people in similar pipelines",
+      body: "Inside the Discord, members share company-specific interview formats, take-home assignment tips, and portfolio review feedback from real hiring loops.",
+      label: "Find Interview Partners",
+      href: siteConfig.discordUrl,
+    },
+    sources: [
+      {
+        label: "Jobscan: ATS and interview prep guidance",
+        url: "https://www.jobscan.co/blog/",
+      },
+      {
+        label: "HireVue candidate preparation resources",
+        url: "https://www.hirevue.com/resources",
+      },
+      {
+        label: "SHRM recruiting technology and interview format research",
+        url: "https://www.shrm.org/topics-tools/topics/technology",
+      },
+      {
+        label: "Harvard Business Review on interview design",
+        url: "https://hbr.org/search?term=interview%20design",
+      },
+    ],
+  },
+  {
+    slug: "how-to-recover-from-job-search-burnout",
+    category: "job-search-mindset",
+    title: "How to Recover From Job Search Burnout (Without Stopping Your Search)",
+    description:
+      "Extended job searching causes mental exhaustion that compounds over time. Use five evidence-based strategies to recover decision quality, restore confidence, and keep moving without collapsing.",
+    publishedAt: "2026-06-20",
+    readingTime: "7 min read",
+    tags: ["Burnout", "Job Search", "Mental Health", "Recovery"],
+    sections: [
+      {
+        title: "Why job search burnout is worse than normal burnout",
+        content: [
+          "Burnout from a regular job comes with a known recovery cycle: vacation, reduced hours, or change in scope. Job search burnout is different because it carries a performance evaluation with no end date. Every rejection, every silence, and every application that goes nowhere is data your brain processes as failure. After enough repetitions, the system learns to expect failure before it even tries.",
+          "This is not a personality flaw. It is a natural response to a high-effort, low-reward environment. Research on learned helplessness shows that repeated exposure to uncontrollable negative outcomes produces passivity, reduced initiative, and emotional exhaustion. In a market where 66 percent of CEOs report freezing or reducing hiring, as seen in LayoffReady reporting on the 2026 silent layoff phenomenon, the objective conditions for burnout are structurally present.",
+          "The danger is that burnout and job search performance create a reinforcing loop. You apply less because you feel depleted. Fewer applications mean fewer responses. Fewer responses confirm your depletion was justified. That self-reinforcing cycle is why standard advice like just take a break rarely works. A break treats the symptom without changing the feedback loop.",
+        ],
+      },
+      {
+        title: "Strategy 1: Compress your search into bounded effort blocks",
+        content: [
+          "The most common burnout pattern is open-ended searching. You wake up, check email, browse job boards, tweak your resume, send a few applications, and repeat. The day has no structure, which means your brain never gets a signal that effort is complete. This creates chronic low-grade stress.",
+          "Compress your job search into bounded time blocks. Set a start time and an end time for search work each day. Outside those blocks, do not open job boards, email, or LinkedIn. This creates psychological closure. Your brain gets a clear signal: search work is done for today.",
+          "A practical structure is morning blocks for high-cognitive work (applications, networking messages, interview prep) and afternoon blocks for low-cognitive work (research, reading job descriptions, organizing notes). No job search work after 6 PM. The rule is not optional. It is how you protect your cognitive recovery window.",
+        ],
+        checklist: [
+          "Set fixed start and end times for job search work.",
+          "Do high-cognitive work in the morning and low-cognitive work in the afternoon.",
+          "No job search activity after 6 PM.",
+          "Use the evening to do something unrelated to job searching.",
+        ],
+      },
+      {
+        title: "Strategy 2: Switch from outcome goals to process goals",
+        content: [
+          "Outcome goals in a job search are things you cannot control. Get a job in six weeks. Land an interview with Company X. Every time you fail to meet an outcome goal, your brain registers a loss, even if you did everything right.",
+          "Process goals are things you can control. Send five tailored applications this week. Follow up with three warm contacts. Practice one interview answer every day. Process goals produce daily evidence of progress, which counters the helplessness loop. Even on weeks with no interview invitations, you can still complete your process goals and feel a sense of accomplishment.",
+          "The shift from outcome to process is not semantic. It is neurochemical. Completing a planned task releases dopamine. Doing it consistently creates a reward cycle that sustains effort. Outcome goals do not provide that because the reward is delayed and uncertain.",
+        ],
+        bullets: [
+          "Outcome goals: Get a job or Get an interview at Google. These are not fully controllable.",
+          "Process goals: Send 5 applications or Do 1 networking outreach. These are fully controllable.",
+          "Process goals produce evidence of progress on days when outcomes are absent.",
+        ],
+      },
+      {
+        title: "Strategy 3: Build an evidence log to counter negativity bias",
+        content: [
+          "Your brain has a negativity bias. It remembers rejection more vividly than progress. After several weeks of searching, your internal narrative can become entirely negative even if measurable progress exists.",
+          "Build a simple evidence log. Every day, write down one thing that went well: a response from a recruiter, a positive interview moment, a warm networking reply, a skill you improved. The log does not need to be long. It just needs to exist. When you feel defeated, read the last two weeks of entries. The evidence usually contradicts the feeling.",
+          "This is not toxic positivity. It is cognitive correction. Your brain will naturally weight negative events higher than positive ones. The log is a calibration tool, not a denial of difficulty.",
+        ],
+      },
+      {
+        title: "Strategy 4: Maintain one identity anchor outside the search",
+        content: [
+          "When job searching consumes your identity, every rejection feels like a judgment on your worth as a person. That is unsustainable. Having one identity anchor outside the search creates psychological insulation.",
+          "An identity anchor can be a creative project, a physical practice, a volunteer role, or a learning pursuit unrelated to your career. The specific anchor matters less than the rule: it is something you invest in consistently and that produces its own feedback loop of progress and satisfaction, independent of hiring outcomes.",
+          "People with a strong identity anchor recover from interview rejection faster because their sense of self does not entirely depend on the job search result. The anchor provides a separate source of self-worth that the search cannot touch.",
+        ],
+      },
+      {
+        title: "Strategy 5: Know when burnout needs more than self-management",
+        content: [
+          "If sleep is collapsing, concentration is severely impaired, you are unable to perform basic daily tasks, or you have been avoiding the search entirely for more than two weeks, this is no longer just motivation fatigue. It may be clinical depression or an anxiety disorder exacerbated by the search.",
+          "Professional support is not a failure. Therapy, medical advice, and career counseling services can all help in different ways. Many regions offer free or low-cost employment counseling that includes mental health support specifically for job seekers. The point is not to feel perfectly calm. The point is to stay functional enough to make good decisions while the market is hard.",
+          "A stable searcher with a slow strategy usually outperforms an intense, burned-out searcher over time. Protecting your mind is not separate from getting hired. It is part of how you keep going long enough to reach the right opportunity.",
+        ],
+      },
+    ],
+    cta: {
+      heading: "Search with people who understand the mental load",
+      body: "Join the Discord for weekly accountability, grounded support, and fewer panic-fueled takes about the job market.",
+      label: "Find Support",
+      href: siteConfig.discordUrl,
+    },
+    sources: [
+      {
+        label: "American Psychological Association stress and burnout resources",
+        url: "https://www.apa.org/topics/stress",
+      },
+      {
+        label: "NHS guidance on anxiety and self-help strategies",
+        url: "https://www.nhs.uk/mental-health/conditions/anxiety-disorders/",
+      },
+      {
+        label: "LayoffReady: the silent layoff and hiring freeze in 2026",
+        url: "https://layoffready.co/blog/ai-hiring-freeze-2026-why-job-applications-arent-getting-responses",
+      },
+      {
+        label: "Mind workplace and mental health resources",
+        url: "https://www.mind.org.uk/",
+      },
+    ],
+  }
+
 ];

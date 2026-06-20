@@ -67,7 +67,7 @@ export function getArticleMetadata(
 ): Metadata {
   return {
     ...createBaseMetadata(
-      `${article.title} | ${siteConfig.name}`,
+      article.title,
       article.description,
       `/articles/${article.slug}`,
       [...sharedKeywords, category.name, ...article.tags],
