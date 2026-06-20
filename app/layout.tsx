@@ -23,8 +23,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: siteConfig.name,
-    template: `%s | ${siteConfig.name}`,
+    default: "Job Hunting Guide: Beat AI Screening &amp; Land Offers 2026",
+    template: `%s | Job Hunting Guide`,
   },
   description: siteConfig.description,
   keywords: sharedKeywords,
