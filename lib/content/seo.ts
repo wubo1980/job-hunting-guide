@@ -60,7 +60,9 @@ export function getCategoryMetadata(category: Category): Metadata {
   );
 }
 
-/** Returns metadata for a specific article page. */
+/** Returns metadata for a specific article page.
+ *  Uses absolute title to bypass the root layout template suffix,
+ *  keeping the <title> tag exactly at the article title length (50-60 chars). */
 export function getArticleMetadata(
   article: Article,
   category: Category,
@@ -72,6 +74,9 @@ export function getArticleMetadata(
       `/articles/${article.slug}`,
       [...sharedKeywords, category.name, ...article.tags],
     ),
+    title: {
+      absolute: article.title,
+    },
     openGraph: {
       title: article.title,
       description: article.description,

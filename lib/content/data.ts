@@ -828,7 +828,7 @@ export const articles: Article[] = [
         content: [
           "The most common burnout pattern is open-ended searching. You wake up, check email, browse job boards, tweak your resume, send a few applications, and repeat. The day has no structure, which means your brain never gets a signal that effort is complete. This creates chronic low-grade stress.",
           "Compress your job search into bounded time blocks. Set a start time and an end time for search work each day. Outside those blocks, do not open job boards, email, or LinkedIn. This creates psychological closure. Your brain gets a clear signal: search work is done for today.",
-          "A practical structure is morning blocks for high-cognitive work (applications, networking messages, interview prep) and afternoon blocks for low-cognitive work (research, reading job descriptions, organizing notes). No job search work after 6 PM. The rule is not optional. It is how you protect your cognitive recovery window.",
+          "A specific schedule is morning blocks for high-cognitive work (applications, networking messages, interview prep) and afternoon blocks for low-cognitive work (research, reading job descriptions, organizing notes). No job search work after 6 PM. The rule is not optional. It is how you protect your cognitive recovery window.",
         ],
         checklist: [
           "Set fixed start and end times for job search work.",
@@ -897,6 +897,227 @@ export const articles: Article[] = [
       {
         label: "Mind workplace and mental health resources",
         url: "https://www.mind.org.uk/",
+      },
+    ],
+  },
+  {
+    slug: "salary-negotiation-weak-market-2026",
+    category: "interview-prep",
+    title: "Salary Negotiation in a Weak Market: Counter Offers in 2026",
+    description:
+      "Tech professionals who negotiate earn $24,479 more annually. Learn to counter offers when leverage is lower and base salaries have dropped below 2022 peak levels.",
+    publishedAt: "2026-06-24",
+    readingTime: "8 min read",
+    tags: ["Salary Negotiation", "Offer Strategy", "Compensation"],
+    thumbnail: "/images/salary-negotiation-guide.svg",
+    sections: [
+      {
+        title: "Why negotiation still matters even when leverage is low",
+        content: [
+          "It is tempting to assume that a weak job market means you should take whatever you are offered. That instinct is understandable but expensive. KORE1 data from 2026 shows that tech professionals who negotiate earn $24,479 more annually on average — an 18.83 percent boost compared to accepting the first offer. Over five years on a $130,000 base, that gap exceeds $150,000 in compounded earnings. The question is not whether to negotiate. It is how to negotiate when the table has tilted toward employers.",
+          "The 2026 market is structurally different from 2022 or even 2024. Base salaries are landing 15 to 25 percent below 2022 peaks, as tracked by Metaintro's 2026 hiring rebound analysis. LayoffReady data shows 66 percent of CEOs report freezing or reducing hiring. Yet the two-tier market documented by KORE1 means that specialized roles in cloud, security, and AI infrastructure close in two to four weeks while generalist mid-level postings sit open for sixty-plus days. Your negotiation strategy must account for which tier you sit in.",
+          "This guide covers three scenarios: negotiating when you have only one offer, negotiating when you have multiple offers, and negotiating non-salary components when base pay is capped. Each scenario has a different playbook, and knowing which one you are in before you speak is half the work.",
+        ],
+        bullets: [
+          "Negotiators earn $24,479/year more on average than non-negotiators (KORE1 2026).",
+          "Base salaries are 15-25% below 2022 peaks in many tech categories (Metaintro).",
+          "66% of CEOs froze or reduced hiring in 2026, reducing candidate leverage (LayoffReady).",
+        ],
+      },
+      {
+        title: "Negotiation Scenario 1: When You Have Only One Offer",
+        content: [
+          "This is the most common scenario in 2026. A single offer with a deadline. The fear is real: if you push too hard, the offer disappears. In practice, most offers do not get rescinded just because you ask for more. A well-framed ask signals that you know your value and are taking the process seriously.",
+          "Start by thanking the recruiter genuinely and express enthusiasm about the role and the team. This positioning frames your counter as a serious candidate trying to make the math work, not as a difficult actor. Then ask for time — typically 24 to 48 hours — to review the full compensation package.",
+          "When you come back with your ask, structure it as a question about the role's level, not about personal need. 'I am excited about this opportunity. Based on my research, a role at this level with my background typically benchmarks around $X to $Y for base compensation. Is there flexibility to bring the offer closer to that range?' This depersonalizes the ask and makes it about market alignment rather than personal entitlement.",
+          "If base salary is truly capped, move to non-salary components early. Signing bonuses of $5,000 to $20,000 are common in 2026 even at companies with tight salary budgets. Performance bonus targets, additional equity, extended vesting schedules, training budgets, remote work allowances, and flexible PTO are all levers that can meaningfully improve total comp without increasing base salary.",
+        ],
+        checklist: [
+          "Express genuine enthusiasm before making any counter-ask.",
+          "Ask for 24-48 hours to review the full compensation package.",
+          "Frame your ask as market alignment, not personal need.",
+          "Identify at least two non-salary components to negotiate if base is capped.",
+        ],
+      },
+      {
+        title: "Negotiation Scenario 2: When You Have Multiple Offers",
+        content: [
+          "Multiple offers change the negotiation entirely. You are no longer asking for flexibility. You are choosing between options, and every company you disclose this to will understand that urgency shifts their timeline.",
+          "The strategy here is parallel timing. Try to align offer deadlines so that you can evaluate them in the same window. If Company A gives you a one-week deadline, ask Company B to accelerate their decision process. 'I have a competing offer with a deadline of next Friday. I would much prefer to work with your team. Is there any way to reach a decision before then?' Most recruiting teams will move faster when they know you are a flight risk.",
+          "Once you have offers aligned, use the strongest component of each to negotiate with the other. Company A offers higher base salary? Tell Company B. Company B offers better equity? Tell Company A. Be transparent that you have another offer but avoid playing the two against each other in a way that feels adversarial. The tone is partnership: 'I would love to make this work, and your total package is close. If there is flexibility on equity, I can sign today.'",
+          "Robert Half's 2026 salary guide shows that technology roles with multiple offers command an average premium of 8 to 15 percent on total compensation compared to single-offer negotiations. Having a second offer is not just insurance. It is the single most powerful negotiation asset you can have.",
+        ],
+        bullets: [
+          "Parallel timing is the key tactical objective when holding multiple offers.",
+          "Be transparent about competing offers but avoid an adversarial tone.",
+          "Multiple-offer candidates command an 8-15% total comp premium (Robert Half).",
+        ],
+      },
+      {
+        title: "Non-Salary Levers That Move Total Comp in 2026",
+        content: [
+          "When base salary is truly capped, the best negotiators turn to other components of the compensation package. In 2026, several non-salary levers are especially valuable because companies have more flexibility here than on base pay.",
+          "Signing bonuses are the most accessible lever. Mid-market tech companies routinely offer $5,000 to $20,000 signing bonuses to close candidates. These are one-time payments that do not affect ongoing salary bands. Equity grants are another lever, especially at later-stage startups and public companies. You can negotiate for additional options, a shorter vesting cliff (one year instead of the standard one-year cliff on a four-year schedule), or an accelerated refresher grant schedule.",
+          "Remote work allowances and geographic pay adjustments are increasingly negotiable. Companies that mandate return-to-office may offer relocation assistance or commuting stipends. Companies that allow remote work may adjust pay for high-cost-of-living areas or offer home office stipends of $1,000 to $5,000. Professional development budgets of $2,000 to $10,000 per year can also be negotiated, especially for roles requiring certifications or ongoing training.",
+          "Performance review timing is the performance review timing. An earlier first review — say six months instead of twelve — — six months instead of twelve — you unlock a faster path to base salary adjustment. This costs the company nothing in the short term but can meaningfully accelerate your earning curve.",
+        ],
+        checklist: [
+          "Ask for a signing bonus of $5K-$20K if base salary is capped.",
+          "Negotiate equity: additional options, shorter cliff, or accelerated refresher.",
+          "Explore remote allowances, professional development budgets, and home office stipends.",
+          "Request an earlier first performance review (6 months instead of 12) if possible.",
+        ],
+      },
+      {
+        title: "How to Negotiate Without Losing the Offer",
+        content: [
+          "The most common fear about negotiation in a weak market is that asking for more will cause the offer to be rescinded. The data does not support this fear for well-framed, reasonable requests. KORE1's 2026 analysis shows that fewer than 5 percent of offers are rescinded due to negotiation, and the majority of those involve aggressive or adversarial tactics, not polite, data-backed counters.",
+          "The rules for safe negotiation: keep the tone collaborative, frame everything around market alignment rather than personal need, express genuine enthusiasm for the role and team, and avoid ultimatums unless you are genuinely willing to walk away. If you follow these rules, the risk of losing an offer is very low.",
+          "A focused ask works better than a list for a compromise on a single component rather than demanding multiple changes. 'I would be ready to sign if the base salary could come up by $10,000.' A focused ask is easier for the recruiter to advocate for internally than a laundry list of demands.",
+          "Finally, remember that negotiation does not end at the offer letter. Your first six months in a new role — demonstrated competence, trust-building, and visible impact — will determine your leverage for the next compensation conversation. Negotiation is a skill you can practice. Every offer is a live case study. Use them.",
+        ],
+        bullets: [
+          "Fewer than 5% of offers are rescinded due to reasonable negotiation (KORE1).",
+          "Keep the tone collaborative and frame asks around market alignment.",
+          "Make one focused ask rather than a list of demands.",
+          "Strong performance in the first six months resets your long-term leverage.",
+        ],
+      },
+    ],
+    cta: {
+      heading: "Practice your negotiation with real feedback",
+      body: "Inside the Discord, members share negotiation scripts, comp package comparisons, and which companies are flexible on non-salary components in 2026.",
+      label: "Join The Conversation",
+      href: siteConfig.discordUrl,
+    },
+    sources: [
+      {
+        label: "KORE1: How to Negotiate Tech Salary 2026 — $24K avg increase",
+        url: "https://www.kore1.com/how-to-negotiate-salary-tech/",
+      },
+      {
+        label: "Metaintro: Tech hiring rebound 2026 — lower pay, higher bar",
+        url: "https://www.metaintro.com/blog/tech-hiring-rebound-2026-catch-lower-pay-higher-bar",
+      },
+      {
+        label: "Robert Half 2026 Technology Salary Guide",
+        url: "https://www.roberthalf.com/us/en/insights/salary-guide/technology",
+      },
+      {
+        label: "LayoffReady: AI hiring freeze and silent layoff 2026",
+        url: "https://layoffready.co/blog/ai-hiring-freeze-2026-why-job-applications-arent-getting-responses",
+      },
+      {
+        label: "Techinterview Salary Negotiation 2026",
+        url: "https://www.techinterview.org/post/3233474669/salary-negotiation-2026/",
+      },
+    ],
+  },
+  {
+    slug: "linkedin-profile-optimization-2026",
+    category: "ai-job-search",
+    title: "LinkedIn Profile Optimization 2026: How Recruiters Find You",
+    description:
+      "Recruiters source 87% of candidates via LinkedIn search. Optimize your headline, about section, and skills to rank first when recruiters look for candidates.",
+    publishedAt: "2026-06-24",
+    readingTime: "7 min read",
+    tags: ["LinkedIn", "Profile Optimization", "Recruiter Search"],
+    thumbnail: "/images/linkedin-optimization-guide.svg",
+    sections: [
+      {
+        title: "Why LinkedIn Is a Search Engine, Not a Resume",
+        content: [
+          "Most LinkedIn profiles read like tombstones — dates, titles, and nothing that makes a recruiter stop scrolling. The problem is that candidates treat their LinkedIn page as a copy of their resume when it is actually a search engine landing page. Recruiters source 87 percent of candidates from LinkedIn, according to LinkedIn's own Economic Graph data. If your profile is not optimized for recruiter search, you are invisible to the largest talent sourcing channel in the world.",
+          "LinkedIn's search algorithm ranks profiles based on at least three factors: keyword match between the recruiter's search query and your profile fields (especially headline, current position, and skills), profile completeness (more filled fields signal an active, serious candidate), and recency of activity (recent posts, comments, and profile updates boost visibility). Career site analysis from OfferJetAI and Leon Consulting in 2026 confirms these factors.",
+          "Robert Half research shows 87 percent of hiring managers use LinkedIn to actively search for candidates. But only 32 percent of job seeker profiles appear in the first three pages of search results. That gap is where optimization matters. If you move from page four to page one of a recruiter's search, your profile views can increase 10x or more.",
+        ],
+        bullets: [
+          "LinkedIn is a search engine first, a social network second.",
+          "87% of recruiters source candidates via LinkedIn search (LinkedIn Economic Graph).",
+          "Only 32% of job seeker profiles appear in the first 3 pages of recruiter search.",
+        ],
+      },
+      {
+        title: "Headline: The Most Important 220 Characters on Your Profile",
+        content: [
+          "Your headline is the first thing a recruiter sees in search results. It is also the primary text field that LinkedIn's search algorithm matches against recruiter queries. If your headline says something generic like 'Senior Software Engineer at Company X,' you are wasting the highest-ranking real estate on your profile.",
+          "An optimized headline for 2026 follows a formula: target title or role family + primary skill domain + industry or problem space + optional differentiator. For example: 'Backend Engineer | Distributed Systems & Big Data | Real-Time Analytics at Scale' or 'Product Manager | B2B SaaS | AI-Powered Workflow Platforms.' The headline should include the keywords a recruiter would type into the search bar if they were looking for someone like you.",
+          "Avoid non-searchable phrases like 'Seeking new opportunities' or 'Open to work.' These do not contain matching keywords. Use the 40-character tagline field on your profile (the one that sits right under your name) for searchable keywords, and save the Open to Work banner for the recruiter messaging setting, not the headline text.",
+        ],
+        checklist: [
+          "Use a headline formula: title + skill domain + industry or problem space.",
+          "Include the exact keywords a recruiter would search for your role.",
+          "Remove generic phrases like 'Seeking new opportunities' from the headline.",
+          "Keep the headline between 120 and 220 characters for optimal display.",
+        ],
+      },
+      {
+        title: "About Section: Tell a Story That Matches Search Intent",
+        content: [
+          "The About section (formerly the Summary) is the second-most-visible text on your profile. It appears in search snippets when recruiters click through and also feeds into LinkedIn's keyword indexing. The first two lines of your About section are critical because they appear in the preview without clicking 'see more.'",
+          "Write a three-paragraph structure. Paragraph one: what you do, who you do it for, and what measurable outcomes you produce. Example: 'I build data infrastructure that processes 50 TB daily for e-commerce platforms. My teams have reduced pipeline latency by 40 percent and cut infrastructure costs by 25 percent through targeted partitioning and caching strategies.' Paragraph two: your most relevant experience summarized as capability, not chronology. Paragraph three: what you are looking for next and what kind of team or problem excites you.",
+          "Include the keywords from your target role descriptions naturally in the About text. Do not stuff them. If you are targeting 'cloud infrastructure' roles, mention AWS, Kubernetes, terraform, and incident response in context, not as a comma-separated list. The About section is where you demonstrate that your domain expertise is current and specific.",
+        ],
+        bullets: [
+          "Lead with measurable outcomes in the first paragraph of your About section.",
+          "Match About section keywords to target role descriptions naturally.",
+          "Use a three-paragraph structure: outcomes, experience as capability, next move.",
+        ],
+      },
+      {
+        title: "Skills, Endorsements, and Recommendations That Rank",
+        content: [
+          "LinkedIn's search algorithm weighs the Skills section heavily. The more skills you list that match a recruiter's search query, the higher your profile ranks. But the quality of those skills matters too. Skills with endorsements carry more weight than unendorsed skills. The optimal strategy is to list 15 to 25 relevant skills that are specific enough to match search queries but common enough to get endorsed.",
+          "Prioritize skills that appear in your target job descriptions. If every cloud infrastructure role asks for Kubernetes, containerization, and CI/CD, make sure those are on your list and that they are near the top. You can reorder your skills by pinning the most relevant ones.",
+          "Recommendations are the strongest social proof signal on LinkedIn. Aim for three to five recommendations from former managers, colleagues, or clients. Each recommendation should focus on a specific project, skill, or outcome rather than general praise. A recommendation that says 'She rebuilt our entire monitoring infrastructure, reducing incident response time by 60 percent' is worth ten generic 'She is a great team player' recs.",
+        ],
+        checklist: [
+          "List 15-25 relevant skills matching your target role descriptions.",
+          "Pin the most relevant skills to the top of your Skills section.",
+          "Endorsed skills carry more search weight than unendorsed ones.",
+          "Collect 3-5 specific, outcome-focused recommendations.",
+        ],
+      },
+      {
+        title: "Activity and Positioning: Stay Visible Without the Noise",
+        content: [
+          "LinkedIn rewards recent activity. Profiles that have posted, commented, or updated content in the last 30 days rank higher in recruiter search than dormant profiles. You do not need to post daily. A weekly schedule of one thoughtful post or comment on industry trends is enough to signal an active profile.",
+          "Post content that demonstrates domain expertise, not just opinion. Share a short analysis of a market trend, a lesson from a project, or a useful framework. The goal is not follower count. It is to create a body of evidence that a recruiter or hiring manager can find when they search for your name or your domain.",
+          "Your LinkedIn profile is the landing page of your job search. Combined with the Networking article's tiered contact system — warm advocates, informed peers, and dormant contacts — an optimized LinkedIn profile ensures that when you reach out, the recipient already sees a credible, search-optimized presence. The two work together: one drives inbound discovery, the other drives outbound system.",
+        ],
+        bullets: [
+          "Post or comment at least once per week to maintain search visibility.",
+          "Share evidence of domain expertise, not generic motivational content.",
+          "An optimized profile makes every networking outreach more effective.",
+        ],
+      },
+    ],
+    cta: {
+      heading: "Get feedback on your LinkedIn profile",
+      body: "Inside the Discord, members review each other's profiles, share headline formulas that work, and track which companies respond fastest to optimized profiles.",
+      label: "Optimize Together",
+      href: siteConfig.discordUrl,
+    },
+    sources: [
+      {
+        label: "LinkedIn Economic Graph: hiring and workforce trends",
+        url: "https://economicgraph.linkedin.com/",
+      },
+      {
+        label: "Robert Half 2026 hiring insights and talent acquisition research",
+        url: "https://www.roberthalf.com/us/en/insights/technology",
+      },
+      {
+        label: "OfferJetAI: How to optimize LinkedIn for job search (2026)",
+        url: "https://www.offerjetai.com/blog/linkedin-profile-optimization",
+      },
+      {
+        label: "Leon Consulting: Optimize your LinkedIn profile in 2026",
+        url: "https://leonstaff.com/blogs/how-to-optimize-linkedin-profile-2026/",
+      },
+      {
+        label: "KORE1 tech job market forecast Q3 2026",
+        url: "https://www.kore1.com/tech-job-market-forecast-q3-2026/",
       },
     ],
   }

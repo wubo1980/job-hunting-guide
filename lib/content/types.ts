@@ -42,6 +42,7 @@ export type Article = {
   readingTime: string;
   tags: string[];
   featured?: boolean;
+  thumbnail?: string;
   sections: ArticleSection[];
   cta: ArticleCta;
   sources: ArticleSource[];

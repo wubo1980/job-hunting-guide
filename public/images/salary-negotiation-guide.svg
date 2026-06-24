@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="600" y="220" text-anchor="middle" fill="#34d399" font-family="Arial,sans-serif" font-size="48" font-weight="bold">Salary Negotiation</text>
+  <text x="600" y="290" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="28">in a Weak Market</text>
+  <text x="600" y="350" text-anchor="middle" fill="#94a3b8" font-family="Arial,sans-serif" font-size="20">Negotiation Playbook for 2026 Tech Jobs</text>
+  <line x1="300" y1="400" x2="900" y2="400" stroke="#22d3ee" stroke-width="2" opacity="0.5"/>
+  <text x="600" y="460" text-anchor="middle" fill="#34d399" font-family="Arial,sans-serif" font-size="18">Know Your Market • Time the Ask • Build Leverage</text>
+</svg>

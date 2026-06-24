@@ -1,3 +1,4 @@
+import Image from "next/image";
 import type { Article } from "@/lib/content/types";
 
 type ArticleContentProps = {
@@ -8,6 +9,18 @@ type ArticleContentProps = {
 export function ArticleContent({ article }: ArticleContentProps) {
   return (
     <div className="space-y-12">
+      {article.thumbnail ? (
+        <div className="relative aspect-[1200/630] w-full overflow-hidden rounded-2xl">
+          <Image
+            src={article.thumbnail}
+            alt={`${article.title} - visual guide`}
+            fill
+            className="object-cover"
+            sizes="(max-width: 768px) 100vw, 800px"
+          />
+        </div>
+      ) : null}
+
       {article.sections.map((section) => (
         <section key={section.title} className="space-y-5">
           <h2 className="text-2xl font-semibold tracking-tight text-white">
