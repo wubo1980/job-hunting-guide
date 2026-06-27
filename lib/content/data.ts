@@ -68,6 +68,317 @@ export const homeHeroContent: HomeHeroContent = {
 /** Defines the full editorial article dataset used by the static site. */
 export const articles: Article[] = [
   {
+    slug: "technical-interview-prep-coding-system-design-2026",
+    category: "interview-prep",
+    title: "How to Prepare for Coding & System Design Interviews in 2026",
+    description: "Fifteen thousand tech professionals face coding interviews weekly. Use a structured framework combining LeetCode strategy, system design fundamentals, and behavioral preparation aligned with 2026 hiring trends.",
+    publishedAt: "2026-06-27",
+    readingTime: "10 min read",
+    featured: true,
+    tags: ["Technical Interview", "Coding Interview", "System Design", "Interview Prep"],
+    sections: [
+      {
+        title: "Why a structure-first approach beats hours-based preparation",
+        content: [
+          "Many candidates prepare by volume alone: grind 200 LeetCode problems, watch system design videos passively, and hope the interview matches what they studied. Market data from KORE1 shows that senior cloud, security, and AI infrastructure roles close in two to four weeks in 2026, meaning interview windows are compressed and preparation must be targeted.",
+          "A structure-first approach asks different questions. Instead of how many problems did you solve, it asks what patterns did you cover. Instead of reading system design primers linearly, it builds a reusable framework adaptable to any prompt. This guide walks through a four-phase preparation cycle aligned with the latest interview trends and hiring data."
+        ]
+      },
+      {
+        title: "Phase one: Map the interview landscape before you code",
+        content: [
+          "Not all technical interviews test the same things. A startup round may focus on practical architecture and shipping speed. A FAANG loop emphasizes algorithmic depth, behavioral density, and system design breadth. Before writing code, understand which type you are preparing for.",
+          "Search recent interview experiences on Blind and Levels.fyi filtered by company and level. The format mix changes quickly. Use the job-hunting Discord where candidates share real-time interview format updates from current hiring loops.",
+          "Once you know the format mix, allocate your preparation proportionally. If three of four rounds are system design, do not spend 80 percent of your time on LeetCode. A targeted allocation is more efficient than a generic one."
+        ]
+      },
+      {
+        title: "Phase two: Build a coding pattern library, not a problem count",
+        content: [
+          "The 2026 interview market still relies heavily on algorithmic problem-solving for mid-to-senior roles. But the scoring has shifted. Interviewers now value clarity of thought over speed of completion. A candidate who solves a medium problem in 30 minutes with clean explanations often scores higher than someone who finishes fast with an unreadable solution.",
+          "Build a pattern library around core data structure families: arrays and strings, hash maps, two pointers, sliding window, trees and graphs, dynamic programming, and intervals. For each family, learn one or two canonical problems deeply. The ability to recognize which pattern a new problem belongs to is more valuable than memorizing specific solutions.",
+          "Practice explaining your approach aloud before writing code. Read the problem, restate it, state your approach and time complexity, write code, then test with examples. This sequence mirrors what interviewers expect and builds structured communication muscle memory."
+        ]
+      },
+      {
+        title: "Phase three: System design is a conversation, not a presentation",
+        content: [
+          "System design rounds carry the highest weight at most senior-level loops yet are the least practiced. The common mistake is treating them as one-way presentations with candidate drawing boxes and waiting for the next prompt.",
+          "A stronger approach treats system design as a collaborative conversation. Start by clarifying requirements: scale, non-functional requirements, acceptable tradeoffs. Propose a high-level design before diving into components. The interviewer wants to see your process for handling ambiguity and identifying bottlenecks.",
+          "Resources like the System Design Primer on GitHub and Grokking courses provide structured frameworks. Build a reusable mental model covering DNS, load balancers, API gateways, service architecture, caching layers, database choices, async processing, and monitoring. Rehearse it across different prompts."
+        ]
+      },
+      {
+        title: "Phase four: Integrate behavioral answers with technical evidence",
+        content: [
+          "The companies that run separate behavioral rounds still evaluate you on technical judgment. A strong behavioral answer connects a past situation to a measurable technical outcome.",
+          "Prepare five stories linking a decision to a result. For example: I chose DynamoDB over PostgreSQL for a time-series workload because read patterns were write-heavy and we needed single-digit millisecond latency at 20K writes per second, cutting p99 latency by 60 percent. That demonstrates technical judgment and outcome awareness in one frame.",
+          "The interview format guide at /articles/how-to-prepare-for-any-2026-interview-format covers additional detail on tailoring preparation to each format type. The salary negotiation guide at /articles/salary-negotiation-weak-market-2026 explains how strong offer leverage starts with how you frame past impact."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Practice interviews with peers who know the 2026 market",
+      body: "Join the Discord to share interview experiences, format changes, and company-specific prep tips from active hiring loops.",
+      label: "Join Interview Prep",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "KORE1 tech job market forecast Q3 2026", url: "https://www.kore1.com/tech-job-market-forecast-q3-2026/" },
+      { label: "LeetCode interview preparation platform", url: "https://leetcode.com" },
+      { label: "System Design Primer on GitHub", url: "https://github.com/donnemartin/system-design-primer" }
+    ]
+  },
+
+  {
+    slug: "ai-tools-job-search-chatgpt-claude-2026",
+    category: "ai-job-search",
+    title: "How to Use ChatGPT & Claude to Accelerate Your 2026 Job Search",
+    description: "Job seekers who use AI tools effectively shorten their search cycle by weeks. Learn which parts of a job search AI can accelerate and where human judgment still decides the outcome.",
+    publishedAt: "2026-06-27",
+    readingTime: "9 min read",
+    featured: true,
+    tags: ["AI Tools", "ChatGPT", "Claude", "Job Search", "Resume Optimization"],
+    sections: [
+      {
+        title: "The right way to use AI in a job search",
+        content: [
+          "The wrong way is to let AI write everything for you. AI-generated cover letters are increasingly easy to spot, and recruiters report rejecting candidates whose materials clearly came from a generic prompt. The right way is to use AI as an accelerator for tasks that benefit from speed: keyword matching, resume tailoring, practice conversation, and market research.",
+          "The five-step AI resume optimization framework at /articles/ai-resume-optimization-5-step-framework walks through how to use AI to improve clarity and keyword alignment while preserving factual accuracy. The principle is simple: AI handles formatting and compression, while you own the truth, judgment, and final output."
+        ]
+      },
+      {
+        title: "Use AI for resume tailoring, not resume generation",
+        content: [
+          "A generic resume sent to fifty companies underperforms a tailored resume sent to ten. But manual tailoring of an entire resume for each application is unsustainable. AI is useful in the middle ground: maintain one comprehensive master resume and use AI to select and rephrase relevant bullets for each target role.",
+          "A practical workflow: paste the job description and your master resume into ChatGPT or Claude. Ask the model to recommend the top five to seven bullets to highlight for that specific application. Review each recommendation. Accept accurate and well-phrased ones. Reject or rewrite anything that exaggerates or distorts.",
+          "Never fabricate experience. AI can sharpen phrasing, but no amount of language polish survives a technical interview or reference check. Use Jobscan to verify ATS match rate after tailoring."
+        ]
+      },
+      {
+        title: "Use AI for interview practice with feedback loops",
+        content: [
+          "Human interview practice is the gold standard, but scheduling multiple rounds per week is hard. AI interview simulators fill the gap by playing the interviewer role and providing structured feedback.",
+          "A good practice session: share the job description and interview format with the AI, ask it to ask real questions in that format, answer verbally or by typing, then request feedback on structure, evidence density, and clarity. AI practice is judgment-free and available at any hour.",
+          "Update your LinkedIn profile at /articles/linkedin-profile-optimization-2026 before interview season begins. Many recruiters check your profile immediately after an interview, and an optimized presence reinforces the narrative you built during the conversation."
+        ]
+      },
+      {
+        title: "When AI hurts more than it helps",
+        content: [
+          "AI is not useful for every task. Cover letters written entirely by AI are easily detected. Cold outreach messages generated without human editing feel robotic and reduce response rates. Take-home assignments must be your own work.",
+          "Use AI for speed in draft tasks where you will edit the output. Trust your own judgment when authenticity is the evaluation criteria. The networking guide at /articles/how-to-network-for-a-job-in-2026 explains that human relationships, not AI-generated text, drive the highest-conversion job search outcomes."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Swap AI prompts and workflows with other job seekers",
+      body: "Inside the Discord, members share the prompts that actually work for resume tailoring, interview practice, and networking message drafting.",
+      label: "Join The AI Search Lab",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "ChatGPT by OpenAI", url: "https://chatgpt.com" },
+      { label: "Claude by Anthropic", url: "https://claude.ai" },
+      { label: "Jobscan ATS resume scanner", url: "https://www.jobscan.co" }
+    ]
+  },
+
+  {
+    slug: "financially-survive-tech-layoff-guide-2026",
+    category: "job-search-mindset",
+    title: "How to Financially Survive a Tech Layoff: COBRA, Cash Flow & Insurance",
+    description: "A seven-day financial survival plan for laid-off tech workers covering severance negotiation, COBRA insurance decisions, unemployment benefits, cash flow budgeting, and smart side income strategies.",
+    publishedAt: "2026-06-27",
+    readingTime: "8 min read",
+    featured: true,
+    tags: ["Layoff", "Financial Planning", "COBRA", "Unemployment", "Side Income"],
+    sections: [
+      {
+        title: "Day one: Understand your runway before making decisions",
+        content: [
+          "After a layoff, the first instinct is to scramble: update LinkedIn, message every contact, start applying. That instinct is wrong. The highest-leverage action in the first 24 hours is a clear-headed audit of your financial runway. Without that number, every decision is based on fear rather than data.",
+          "Calculate total cash available from checking, savings, severance, unused PTO payout, and liquid investments. Calculate monthly fixed expenses including rent, utilities, groceries, transportation, insurance, and loan payments. Divide cash by expenses to get your runway in months.",
+          "The 30-day post-layoff plan at /articles/30-day-post-layoff-action-plan covers emotional and career planning. This article focuses purely on financial mechanics, because cash buys you time, and time buys you good decisions."
+        ]
+      },
+      {
+        title: "COBRA versus ACA marketplace: the decision that costs or saves thousands",
+        content: [
+          "COBRA lets you keep your employer health plan for up to 18 months, but you pay the full premium plus a two percent administrative fee. In 2026, average COBRA premiums run six hundred to eight hundred dollars monthly for individuals and eighteen hundred to twenty-five hundred for families. ACA marketplace plans with subsidies are often cheaper.",
+          "The ACA offers subsidies based on projected annual income. If laid off mid-year, your remaining income is lower than your W-2 shows, qualifying you for significant premium tax credits. Silver plans with subsidies can cost as little as one hundred to three hundred dollars monthly.",
+          "If you have a pre-existing condition or complex healthcare needs, COBRA may be worth the premium to keep your provider network. If generally healthy, ACA is almost certainly cheaper. The healthcare.gov website shows marketplace plans available in your area, and the US Department of Labor provides a comprehensive COBRA rights guide."
+        ]
+      },
+      {
+        title: "Cash flow strategies for the search window",
+        content: [
+          "Severance is not a blank check. The median tech job search in 2026 runs three to six months for mid-level roles and six to twelve months for saturated senior categories. Plan for the longer end and treat faster outcomes as bonuses.",
+          "File for unemployment immediately. Most states have a one-week waiting period and two to three weeks of administrative processing. The CareerOneStop site from the US Department of Labor helps find your state's unemployment office.",
+          "Review non-essential subscriptions. Every dollar not spent extends your runway. Consider consulting or contract work on Upwork or Toptal. Even one to three thousand dollars monthly in consulting income extends your search window significantly.",
+          "The burnout recovery guide at /articles/how-to-recover-from-job-search-burnout discusses the emotional side. Financially, the goal is a buffer that removes the urgency to accept a bad offer."
+        ]
+      },
+      {
+        title: "Tax implications of severance, unemployment, and side income",
+        content: [
+          "Severance is regular income subject to federal and state withholding. Unemployment benefits are taxable at the federal level and in most states. Side income from consulting is subject to self-employment tax.",
+          "The IRS recommends quarterly estimated tax payments if side income exceeds one thousand dollars. Set aside 25 to 30 percent of any side income or unemployment benefits for taxes. Consider contributing to a Traditional IRA or HSA to reduce taxable income and build savings simultaneously."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Compare financial strategies with others in the same position",
+      body: "Join the Discord to share COBRA costs, ACA plan recommendations, and budgeting templates specific to tech layoff scenarios.",
+      label: "Compare Financial Plans",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "Healthcare.gov ACA marketplace", url: "https://www.healthcare.gov" },
+      { label: "US Department of Labor COBRA guidance", url: "https://www.dol.gov/general/topic/health-plans/cobra" },
+      { label: "CareerOneStop unemployment benefits finder", url: "https://www.careeronestop.org" },
+      { label: "IRS estimated tax payment guidance", url: "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes" }
+    ]
+  },
+
+  {
+    slug: "entry-level-tech-job-guide-2026-graduates",
+    category: "ai-job-search",
+    title: "The 2026 Entry Level Tech Job Guide for Graduates & Career Changers",
+    description: "Entry-level hiring remains tight in 2026. Target your search with a portfolio-first strategy, skills-based hiring, AI tools, and structured networking to land your first tech role.",
+    publishedAt: "2026-06-27",
+    readingTime: "9 min read",
+    featured: false,
+    tags: ["Entry Level", "New Grad", "Career Changer", "Portfolio", "Networking", "2026"],
+    sections: [
+      {
+        title: "The 2026 entry-level market is structurally different",
+        content: [
+          "Stanford Digital Economy Lab research published in 2025 found that employment for software developers aged 22 to 25 fell nearly 20 percent from its late 2022 peak. The roles that used to absorb new graduates are the same ones AI tools are best at compressing: generalist coding, basic frontend work, and standard CRUD development.",
+          "Entry-level hiring has not stopped, but the entry point moved. Companies hiring ten junior engineers and training them now hire two and expect faster productivity. The bar for demonstrable skill is higher.",
+          "CompTIA data shows entry-level IT support, cloud operations, and cybersecurity analyst roles continue hiring at stable volumes. The Bureau of Labor Statistics projects above-average growth for web developers, data analysts, and network administrators through 2030. The landscape has shifted but is not closed."
+        ]
+      },
+      {
+        title: "Build a portfolio that replaces experience requirements",
+        content: [
+          "Entry-level job descriptions asking for two to three years of experience are filtering heuristics, not genuine requirements. Companies practicing skills-based hiring at /articles/skills-based-hiring-2026-guide accept portfolios as substitutes for years of experience.",
+          "Build one anchor project demonstrating your target role's core capability. A data analyst candidate should build an end-to-end pipeline: source a real dataset, clean and transform it, analyze, visualize, and write a business summary. Document every step and push to GitHub with a clean README.",
+          "Create a portfolio landing page linked from LinkedIn, GitHub, and your resume. Organize projects by role type so a recruiter evaluating you for a data role sees data projects first."
+        ]
+      },
+      {
+        title: "Use networking to bypass application volume",
+        content: [
+          "Cold applications for entry-level candidates in 2026 convert at roughly one to three percent. Networking, by contrast, converts at 10 to 30 percent for referral-introduced candidates.",
+          "The networking guide at /articles/how-to-network-for-a-job-in-2026 outlines a tiered system. Start with alumni from your university or bootcamp who work in your target field. Send low-pressure messages asking for a 15-minute informational call.",
+          "Track every conversation in a spreadsheet. Note companies hiring, who responded, and open roles. Over two to three months of consistent networking, thirty to fifty contacts produce more opportunities than three hundred cold applications."
+        ]
+      },
+      {
+        title: "Leverage AI tools to level the playing field",
+        content: [
+          "AI tools are especially useful for entry-level candidates because they help with parts of a job search that experience usually teaches: resume tailoring, interview preparation, and industry research.",
+          "Use AI to practice behavioral questions and system design interviews. Use it to review project documentation for clarity. Research companies before interviews. Do not use it to fabricate experience or submit AI-generated take-home assignments.",
+          "The candidates who succeed in 2026 build visible proof of their abilities, network strategically, and use every tool to accelerate their path to a genuine opportunity."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Connect with other entry-level job seekers",
+      body: "Join the Discord to share portfolio feedback, networking strategies, and which companies are actually hiring entry-level roles in 2026.",
+      label: "Find Your Cohort",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "Stanford Digital Economy Lab: AI employment effects", url: "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/" },
+      { label: "CompTIA tech workforce research", url: "https://www.comptia.org/content/research" },
+      { label: "US Bureau of Labor Statistics Occupational Outlook", url: "https://www.bls.gov/ooh/" }
+    ]
+  },
+
+  {
+    slug: "career-pivot-pathways-2026-cloud-ai-security",
+    category: "career-pivot",
+    title: "5 Career Pivot Pathways for 2026: Cloud, Security, AI, Data & DevOps",
+    description: "Five realistic career transition paths for tech professionals in 2026. Compare cloud engineering, cybersecurity, AI and ML, data analytics, and DevOps across demand, training timeline, certification cost, and median salary.",
+    publishedAt: "2026-06-27",
+    readingTime: "10 min read",
+    featured: false,
+    tags: ["Career Pivot", "Cloud Computing", "Cybersecurity", "AI", "DevOps", "Data Analytics"],
+    sections: [
+      {
+        title: "Why a structured pivot beats a blind jump in 2026",
+        content: [
+          "The two-tier job market means some role families are hiring fast while others are glutted. KORE1 data from June 2026 shows senior cloud, security, and AI infrastructure roles close in two to four weeks while generalist mid-level postings sit open for sixty-plus days.",
+          "A career pivot is a resource allocation decision trading your current position for time, money, and effort building new credentials. The jobs AI will not replace guide at /articles/jobs-ai-wont-replace-in-2026 explains why certain roles resist automation. This guide builds on that by comparing five pivot paths with concrete numbers.",
+          "BLS projections, CompTIA, and Robert Half data all point to the same conclusion: cloud infrastructure, cybersecurity, AI and ML engineering, data analytics, and DevOps are the top transition targets for 2026."
+        ]
+      },
+      {
+        title: "Pathway one: Cloud engineering and operations",
+        content: [
+          "Cloud engineering consistently ranks as the highest-demand pivot path. The BLS projects 25 percent growth for cloud architects through 2031. Median salaries range from $120,000 for operations roles to $170,000 for senior architecture positions.",
+          "Training timeline: three to six months for a foundational certification like AWS Solutions Architect Associate. Certification cost is approximately $150 to $300 plus training materials. Familiarity with Linux, networking basics, and scripting is expected.",
+          "The market is strongest for AWS-certified professionals at mid-market companies migrating from on-premise infrastructure. Interview formats lean on scenario-based questions about architecture design, cost optimization, and incident response."
+        ]
+      },
+      {
+        title: "Pathway two: Cybersecurity analysis and engineering",
+        content: [
+          "CompTIA estimates 750,000 unfilled cybersecurity positions in the US. Median salaries range from $95,000 for analysts to $155,000 for engineers and architects.",
+          "Training timeline: four to eight months for certifications like CompTIA Security+ followed by CISSP or CEH. Certification costs range from $400 to $750. Existing IT experience reduces the bootcamp need.",
+          "The most accessible entry point is a SOC analyst role valuing analytical thinking over deep expertise. After one to two years, internal mobility to engineering roles is common."
+        ]
+      },
+      {
+        title: "Pathway three: AI and machine learning engineering",
+        content: [
+          "AI and ML engineering is the highest-salary pivot path at $140,000 to $220,000, but has the highest entry barrier requiring strong programming, mathematics foundations, and practical ML framework experience.",
+          "Training timeline: six to twelve months minimum. Requires Python, SQL, linear algebra, probability, and statistics. Platforms like Coursera offer deep learning specializations from top universities. A quantitative degree helps but is not mandatory with strong project evidence.",
+          "Most successful pivots come from adjacent backgrounds like data engineering, backend engineering, or quantitative analysis. This path rewards patience and depth over speed."
+        ]
+      },
+      {
+        title: "Pathway four: Data analytics and engineering",
+        content: [
+          "Data roles offer the broadest entry points. Analysts need SQL, a visualization tool, and basic statistics. Engineers need stronger programming skills but command higher salaries.",
+          "Median salaries range from $80,000 to $110,000 for analysts to $120,000 to $160,000 for engineers. BLS projects 23 percent growth through 2031. Training timeline: two to four months for analytics, four to eight months for engineering.",
+          "The 30-day post-layoff guide at /articles/30-day-post-layoff-action-plan suggests using the first month to assess options. Data analytics is one of the fastest paths from zero to interview-ready due to its narrow and well-defined skill set."
+        ]
+      },
+      {
+        title: "Pathway five: DevOps and platform engineering",
+        content: [
+          "DevOps and platform engineering roles command median salaries of $130,000 to $175,000. The role focuses on infrastructure, deployment pipelines, and monitoring rather than application code.",
+          "Training timeline: three to six months. Key skills include Docker, Kubernetes, CI/CD tools, Terraform, cloud platforms, and monitoring. Certifications like CKAD and Terraform Associate cost $200 to $400 each.",
+          "Strongest candidates come from operations, system administration, or backend engineering backgrounds. An optimized LinkedIn profile at /articles/linkedin-profile-optimization-2026 with DevOps keywords is especially effective since recruiters search by tool-specific terms."
+        ]
+      },
+      {
+        title: "How to choose between the five paths",
+        content: [
+          "The best path is where your current background gives the shortest ramp to interview-ready. Do not choose based on salary alone. Cloud has the broadest demand but requires infrastructure thinking. Cybersecurity has more entry points but lower ceilings. AI and ML has the highest salary but steepest learning curve.",
+          "Map each path against your current skills, available time, risk tolerance, and financial runway. Run small experiments: complete one module, talk to two people working in that field, build one small project. The market tells you which path fits faster than any analysis.",
+          "Every path requires sustained effort. The 2026 market rewards specialization. Pick one path, commit for 90 days, then evaluate. Structured iteration beats six months of indecision."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Compare pivot path experiences with other transitioners",
+      body: "Inside the Discord, members share certification costs, interview experiences, salary outcomes, and timeline data for each of the five pivot paths.",
+      label: "Explore Pivot Paths",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "KORE1 Senior SWE Glut vs AI Infra Drought 2026", url: "https://www.kore1.com/senior-swe-glut-ai-infra-drought-2026/" },
+      { label: "CompTIA cybersecurity workforce research", url: "https://www.comptia.org/content/research" },
+      { label: "Coursera AI and ML specializations", url: "https://www.coursera.org" },
+      { label: "AWS certification paths", url: "https://aws.amazon.com/certification/" },
+      { label: "Robert Half 2026 Technology Salary Guide", url: "https://www.roberthalf.com/us/en/insights/salary-guide/technology" }
+    ]  },
+
+  {
     slug: "how-to-spot-ghost-jobs",
     category: "ai-job-search",
     title: "How To Spot Ghost Jobs Before They Waste Your Week",
