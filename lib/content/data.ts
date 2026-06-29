@@ -1432,5 +1432,283 @@ export const articles: Article[] = [
       },
     ],
   }
+,
+  {
+    slug: "layoff-boomerang-rehire-negotiation-2026",
+    category: "career-pivot",
+    title: "The 'Layoff Boomerang': How to Handle a Rehire Offer After an AI-Driven Layoff",
+    description: "Companies are laying off workers for 'AI efficiency gains' and quietly rehiring them at 40% less. Learn how to evaluate a layoff boomerang offer, negotiate better terms, and protect your career trajectory without accepting a permanent pay cut.",
+    publishedAt: "2026-06-29",
+    readingTime: "9 min read",
+    featured: true,
+    tags: ["Layoff Boomerang", "Rehire", "Salary Negotiation", "Career Pivot"],
+    sections: [
+      {
+        title: "The layoff boomerang is real and growing",
+        content: [
+          "In June 2026, a viral Stackademic post described something that career coaches and recruiters had been watching in private channels for months: a FAANG engineer laid off for 'AI efficiency gains' was rehired six weeks later by the same company at a 40 percent lower salary. The post triggered widespread discussion on Reddit, Blind, and LinkedIn, with hundreds of commenters sharing similar experiences at companies ranging from mid-market SaaS firms to Fortune 500 enterprises.",
+          "Lowdown Today reported that Q1 2026 global tech layoffs reached 45,363, with a fifth explicitly citing AI. More striking: approximately half of those cuts could eventually be reversed as rehires, according to their analysis. Built In reported on June 22, 2026 that legal scholars are beginning to question whether the pattern of layoff-then-rehire-at-lower-pay constitutes a constructive form of wage discrimination.",
+          "The layoff boomerang presents a brutal calculus: accept a lower salary and return to familiar work, or refuse and restart your search in a market where 66 percent of CEOs have frozen or reduced hiring. Neither option is obviously better. The goal of this article is to give you a framework for making that decision with your eyes open."
+        ]
+      },
+      {
+        title: "Why companies are using the boomerang tactic in 2026",
+        content: [
+          "The economic logic behind the boomerang is straightforward but unpleasant. Companies face pressure to show AI-driven efficiency gains to investors. Laying off senior workers achieves that narrative. Six to twelve weeks later, they realize that AI did not replace the unstated parts of the role: institutional knowledge, cross-team coordination, client relationships, judgment calls under ambiguity, and the tribal knowledge of how internal systems actually work.",
+          "Rather than admit the layoff was premature or rebuild knowledge from scratch by hiring externally at market rates, some companies reach back to the same employees they let go, now at a lower salary band. The former employee's leverage has structurally weakened because they are already unemployed, and the employer knows exactly how long they have been searching.",
+          "The CEO survey data from LayoffReady shows that 66 percent of CEOs froze or reduced hiring in 2026, but that same survey found many were quietly approving 'critical backfills' — a euphemism for rehiring key roles they should never have cut. The boomerang is not a sign of benevolence. It is a consequence of rushed workforce planning."
+        ]
+      },
+      {
+        title: "The three-question test before accepting a boomerang offer",
+        content: [
+          "When the recruiter or former manager calls with a 'reconnect' pitch, the emotional pull is powerful. Familiarity. Reduced risk. Shortened search. But accepting a boomerang offer without structure risks locking you into a lower salary trajectory for years. Apply this three-question test before deciding.",
+          "Question one: What is the real salary gap? Compare the new offer against your previous total compensation, adjusted for market changes. If the gap is more than 20 percent, ask yourself whether this company values your work or is simply extracting a discount from your current vulnerability. Use the salary negotiation framework from /articles/salary-negotiation-weak-market-2026 to benchmark what a fair offer looks like.",
+          "Question two: Is the role functionally the same or meaningfully different? If the title, scope, and expectations are identical, the company is asking you to do the same work for less. If the role has shifted to a genuinely different problem set, the lower pay is more defensible, and the upside case is stronger: you are investing in a new capability.",
+          "Question three: What is your next leverage point? If you accept, when can you renegotiate? A six-month performance review is better than twelve. A clear milestone-based salary adjustment clause in the offer letter is better than a vague promise. If the company is unwilling to discuss future renegotiation terms, they are signaling that this discount is structural, not temporary."
+        ]
+      },
+      {
+        title: "How to negotiate a boomerang offer without losing it",
+        content: [
+          "Boomerang negotiation is unique because you know the internal dynamics, the budget constraints, and often the exact person who will advocate for you. Use that knowledge, but avoid an adversarial tone. The person calling you is probably embarrassed about how the layoff was handled.",
+          "Start with gratitude for the reach-out, then shift to specifics. 'I am genuinely interested in returning to the team. The offer is below what I was earning before. Can we discuss what flexibility exists?' Frame the gap in terms of market data, not personal grievance. Reference published salary benchmarks. Companies in 2026 are still bound by market pay bands even if they try to exploit your leverage gap.",
+          "If base salary is truly non-negotiable, push hard on signing bonus, equity refresh, performance review timing, and role scope. A $15,000 signing bonus and a six-month review window can close the total compensation gap significantly. The salary negotiation guide at /articles/salary-negotiation-weak-market-2026 covers specific tactics for each of these levers.",
+          "Be prepared to walk away. If the offer is 30 or 40 percent below your previous compensation with no path to recovery within 12 months, the boomerang has locked you into a backwards career step. The financial survival guide at /articles/financially-survive-tech-layoff-guide-2026 can help you calculate whether your runway supports a longer search."
+        ]
+      },
+      {
+        title: "When to say no to the boomerang",
+        content: [
+          "Refusing a boomerang offer is not failure. It is a strategic decision that the discount demanded exceeds the value of familiarity and reduced search friction. Three conditions make a 'no' the right call: first, the salary gap exceeds 30 percent with no renegotiation path. Second, the role scope has actually narrowed rather than evolved. Third, your runway from the layoff financial plan supports at least 8 to 12 more weeks of searching.",
+          "If you say no, do it cleanly and professionally. 'I really appreciate the offer and enjoyed working with the team. The current terms are not where I need them to be to make this work long-term, but I am open to staying in touch for future opportunities.' This keeps the relationship warm without accepting a bad deal.",
+          "If you do accept, document everything. The salary, the renegotiation timeline, and performance milestones in writing. The layoff boomerang can be a stepping stone back to stability, but only if you treat it as a bridge, not a destination."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Compare boomerang offers and negotiation strategies",
+      body: "Inside the Discord, members share their layoff boomerang experiences, offer terms, and what worked in negotiation. Join to arm yourself with real data before your next offer call.",
+      label: "Join The Boomerang Discussion",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "Stackademic: I Got Laid Off From a FAANG… Six Weeks Later They Hired Me Back at 40% Less", url: "https://medium.com/@devcommando/i-got-laid-off-from-a-faang-after-ai-efficiency-gains-e3d3933e26df" },
+      { label: "Built In: Will Companies Pay Later for Today's AI-Driven Layoffs?", url: "https://builtin.com/articles/ai-driven-layoffs-rehiring" },
+      { label: "Lowdown Today: 45,000 tech layoffs, half may be reversed", url: "https://lowdown.today/t/ai-jobs-power-money/2/" },
+      { label: "Rework.com: The AI Layoff Boomerang", url: "https://resources.rework.com/news/ai-jobs-skills/ai-layoff-boomerang-rehire-chro" },
+      { label: "LayoffReady: AI hiring freeze and silent layoff 2026", url: "https://layoffready.co/blog/ai-hiring-freeze-2026-why-job-applications-arent-getting-responses" }
+    ]
+  },
+
+  {
+    slug: "negotiate-remote-work-2026-rto",
+    category: "ai-job-search",
+    title: "How to Negotiate Remote Work in 2026 (When RTO Pressure Is Real)",
+    description: "62% of tech companies still offer remote options, but RTO mandates are tightening. Learn five evidence-backed strategies to negotiate remote work in 2026, from offer-stage leverage to performance-based renegotiation.",
+    publishedAt: "2026-06-29",
+    readingTime: "8 min read",
+    featured: true,
+    tags: ["Remote Work", "RTO", "Salary Negotiation", "Work Flexibility"],
+    sections: [
+      {
+        title: "The 2026 remote work landscape is more complex than headlines suggest",
+        content: [
+          "ApplyGlide's June 2026 analysis of over 100,000 job postings found that 62 percent of tech companies still offer fully remote or hybrid options. The 'return to office' narrative was louder in 2025 than the data justified, and 2026 has settled into a more nuanced reality: some companies are aggressively enforcing RTO, but many others are quietly expanding remote flexibility to compete for specialized talent.",
+          "The jobsbyculture.com engineer's playbook for negotiating remote work points out that 80 percent of software engineers will work fully or partially remotely by the end of 2026. But how they got those arrangements varies wildly. Some negotiated remote at the offer stage. Others earned it through performance over six months. A growing number are in RTO standoffs, weighing resignations against return mandates.",
+          "The key insight for 2026 is that remote work is no longer a binary yes-or-no. It is a negotiation continuum with multiple points: fully remote, hybrid with flexible days, hybrid with fixed days, remote with periodic travel, and remote with a strict location policy. Your strategy depends on where you are in the hiring process and what leverage you have."
+        ]
+      },
+      {
+        title: "Strategy 1: Negotiate remote at the offer stage",
+        content: [
+          "The offer stage is when you have maximum leverage. The company has already decided you are the right candidate. They have invested weeks in interviews and evaluation. Rescinding an offer over a remote work request is rare, especially if the role can technically be done remotely.",
+          "Frame your remote request as a performance advantage, not a personal preference. 'I work best in a focused, interruption-minimized environment, and my past three projects — each delivered on time — were completed remotely. I am open to periodic travel for key meetings and onboarding.' This signals flexibility while establishing remote as the baseline.",
+          "If the company has a formal RTO policy but is willing to make exceptions, the 90-day trial is your best opening move. Propose a three-month remote trial with clear deliverables and checkpoints. After 90 days of demonstrated performance, request a permanent arrangement. This lowers the company's perceived risk and gives you time to prove the model works.",
+          "Document every agreement in writing. If a verbal promise of remote flexibility is made, follow up with an email summary: 'Per our conversation, the role's work arrangement will be fully remote with quarterly travel to headquarters.' Written confirmation prevents scope creep when management changes.",
+          "The networking article at /articles/how-to-network-for-a-job-in-2026 can help you find insiders at target companies who can tell you whether remote requests succeed there before you apply."
+        ]
+      },
+      {
+        title: "Strategy 2: Convert a hybrid offer to remote",
+        content: [
+          "Many companies post hybrid roles as a default but are willing to negotiate. The difference between a hybrid posting and a remote arrangement is often just a conversation. Recruiters may post hybrid because hiring managers expect it, without having tested whether candidates would prefer remote.",
+          "Start by asking about the team's current working pattern. 'What does the team's current remote policy look like in practice?' Some teams that are officially hybrid actually operate mostly remote. If the team is already distributed or asynchronous, your case for remote is stronger.",
+          "If the company resists full remote, propose a specific schedule that addresses their concerns. 'I can commit to being in the office two days per week for the first month to build relationships, then evaluate whether the full remote arrangement works.' This compromise often gets a yes because it demonstrates good faith and gives the manager a concrete plan to defend to HR.",
+          "Data from Damongo's 2026 work model analysis shows that companies with written remote policies are less flexible than those without formal policies, ironically. If the company has no formal remote policy, you have more room to negotiate because there is no rule to override."
+        ]
+      },
+      {
+        title: "Strategy 3: Use performance as your renegotiation lever",
+        content: [
+          "If you are already in a role and RTO pressure is increasing, your strongest card is demonstrated performance. An employee who has delivered measurable results — ship dates met, revenue impacted, incidents reduced — has a much stronger argument for remote than someone who just joined.",
+          "Schedule a conversation with your manager focused on output, not hours. 'Over the past X months, my remote work arrangement has produced Y results. I would like to discuss how we can maintain this performance level if an RTO mandate comes through.' Frame it as a shared goal: the company wants results, remote enables those results.",
+          "If leadership is rigid on RTO, explore partial solutions: a formal accommodation request, a desk-sharing arrangement that reduces commute frequency, or a role restructuring that shifts your responsibilities to remote-appropriate work. The negotiation guide at /articles/salary-negotiation-weak-market-2026 includes tactics for non-salary components that apply to work arrangements as well.",
+          "The LinkedIn profile guide at /articles/linkedin-profile-optimization-2026 is worth updating even if you stay: a strong LinkedIn presence keeps your options open if the RTO mandate becomes a dealbreaker."
+        ]
+      },
+      {
+        title: "The five red flags that mean remote negotiation will fail",
+        content: [
+          "Not every company can be negotiated with. Some have structural constraints that make remote impossible. Recognize these signals early to avoid wasting effort.",
+          "Red flag one: The job description explicitly states 'must be in office 5 days per week' and the company has enforced this for existing employees. Red flag two: The hiring manager mentions 'visibility' or 'face time' as a requirement for advancement. This indicates a culture that equates presence with productivity, and remote workers will be at a systematic disadvantage. Red flag three: The company recently underwent an RTO mandate that caused visible attrition. A company that lost talent over RTO is unlikely to make exceptions for new hires.",
+          "Red flag four: Compensation is tied to a specific geographic location with no flexibility. If the company adjusts pay to a lower-cost area and enforces that adjustment, they are likely serious about location policy. Red flag five: The recruiter deflects or avoids questions about remote policy. Evasiveness usually means the policy exists but is not competitive, and they are hoping you do not ask.",
+          "If three or more flags are present, the remote negotiation will probably fail. In that case, either accept the in-office terms if the role is worth it, or look for companies with proven remote cultures. The job platforms guide will help identify companies that are genuinely remote-friendly."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Share remote negotiation tactics that actually work",
+      body: "Inside the Discord, members compare which companies are truly remote-friendly, share script templates for RTO negotiations, and track enforcement trends across industries.",
+      label: "Join Remote Work Discussion",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "ApplyGlide: Remote vs Hybrid vs In-Office Job Postings — 2026 Data", url: "https://applyglide.com/blog/remote-hybrid-in-office-job-postings-2026-data" },
+      { label: "JobsByCulture: How to Negotiate Remote Work in 2026", url: "https://jobsbyculture.com/blog/negotiating-remote-work-2026" },
+      { label: "Damongo: Remote vs Hybrid vs In-Office — 2026 Work Model Debate", url: "https://damongo.com/remote-vs-hybrid-vs-in-office-2026-work-model-debate-career-options/" },
+      { label: "Remote AI Jobs: Where to Find Them and How to Land Them in 2026", url: "https://agenticcareers.co/blog/remote-ai-jobs-where-to-find-them-how-to-land-them" }
+    ]
+  },
+
+  {
+    slug: "best-job-search-platforms-2026",
+    category: "ai-job-search",
+    title: "Best Job Search Platforms in 2026: Where to Actually Find Jobs",
+    description: "LinkedIn and Indeed are no longer enough. Evaluate 10+ job search platforms for 2026 across quality, response rate, role type fit, and AI features to decide where your search time generates the highest return.",
+    publishedAt: "2026-06-29",
+    readingTime: "9 min read",
+    featured: false,
+    tags: ["Job Platforms", "Job Boards", "Job Search Tools", "2026"],
+    sections: [
+      {
+        title: "The job board landscape has fragmented in 2026",
+        content: [
+          "For years, the standard advice was simple: use LinkedIn, Indeed, and maybe Glassdoor. That advice is increasingly insufficient. The 2026 job market has fragmented across dozens of platforms, each with a different focus, signal quality, and response rate. Using the wrong platform for your role type is like fishing in an empty lake.",
+          "Built In's June 23, 2026 roundup of top job boards lists 20 platforms worth considering. VentureBurn's June 27 analysis identifies 10 search platforms that matter in 2026. Newer AI-powered tools like Scowter (which searches 150+ boards with a single query), ShouldApply (which scores your fit against every listing), and Workzil (AI job matching engine) are changing how candidates find opportunities.",
+          "This guide evaluates each platform across four dimensions: role type fit (which platforms work for which roles), signal quality (are the listings real or ghost jobs?), response rate (how often do applications convert?), and AI features (does the platform help or hinder your search?). The goal is to help you allocate your limited search time to the platforms that actually produce results for your profile."
+        ]
+      },
+      {
+        title: "Platform category 1: Generalist aggregators",
+        content: [
+          "LinkedIn remains the most important platform for professional roles, but its useful sources require strategy. The job board itself is increasingly noisy with ghost jobs and recruiter spam. The highest-leverage use of LinkedIn is not the job board but the networking and profile features. The LinkedIn optimization guide at /articles/linkedin-profile-optimization-2026 covers how to make your profile rank in recruiter search.",
+          "Indeed is the volume leader but has the worst signal-to-noise ratio. Ghost jobs are rampant on Indeed. Use Indeed for market research — see what roles exist and what keywords are common — but do not rely on it as your primary application channel.",
+          "Glassdoor offers salary data and company reviews that help with application targeting and interview preparation. Its job board is secondary to its intelligence features. Check Glassdoor for interview reviews and compensation benchmarks before applying anywhere.",
+          "Newer aggregators like Scowter (150+ boards in one search) and Workzil (AI matching from 50+ boards) are worth testing if your search is broad. The risk is that 'aggregating more listings' also aggregates more noise. Use their AI filtering features to narrow results by fit score rather than keyword."
+        ]
+      },
+      {
+        title: "Platform category 2: Role-specific platforms",
+        content: [
+          "Role-specific platforms often have higher signal density because they attract candidates and employers who are serious about a specific function.",
+          "For engineering roles: GitHub Jobs, Stack Overflow Jobs, and Hacker News Who Is Hiring threads offer direct access to tech employers. The HN monthly thread, in particular, has a higher ratio of real, decision-maker-posted listings than any other board. Apply from a personal website or GitHub profile link — resume-only applications often get overlooked here.",
+          "For design and product roles: Dribbble, Behance, and Authentic Jobs are strong. These platforms are portfolio-first, which aligns with the skills-based hiring trend. Having a polished portfolio visible before you apply significantly increases callback rates.",
+          "For data and analytics roles: Kaggle competitions and community job boards, KDNuggets, and Analytics Vidhya attract data-specific employers. A strong Kaggle profile or published analysis is an attention magnet for data-specific recruiters.",
+          "For executive and senior IC roles: Wellfound, Ladders, and Hired focus on pre-vetted candidates. These platforms ask you to submit a profile that employers browse rather than you applying to listings. A well-crafted profile on these platforms can generate inbound recruiter interest that bypasses application volume entirely."
+        ]
+      },
+      {
+        title: "Platform category 3: AI-powered matching tools",
+        content: [
+          "2026 has seen an explosion of AI-powered tools that promise to match you to the right roles automatically. Some are genuinely useful. Others add noise to an already noisy process.",
+          "ShouldApply evaluates your resume against every job listing and scores your fit, flagging skill gaps and alerting you when a strong match drops. This is genuinely useful because it helps you prioritize which applications to invest in. The danger is over-reliance: the scoring engine may miss cultural fit, company reputation, or whether a listing is a ghost job.",
+          "Workzil pulls jobs from 50+ boards and uses AI to score each one against your profile, then explains why it made the cut. The explanation feature is useful because it helps you understand what keywords and signals are driving matches, which improves your targeting over time.",
+          "The caveat with all AI matching tools is that they optimize for keyword match, not opportunity quality. A 95 percent match to a dead-end role is worse than a 60 percent match to a role with real growth. Use AI tools to surface candidates, but apply human judgment to evaluate which ones deserve your time."
+        ]
+      },
+      {
+        title: "Platform category 4: Community and direct sourcing",
+        content: [
+          "The highest-conversion job sources in 2026 are not job boards at all. They are communities and direct sourcing channels. Discord servers for specific tech stacks, Slack groups for industry transitions, and curated forums for career changers all have channels where opportunities appear before they reach job boards.",
+          "The networking guide at /articles/how-to-network-for-a-job-in-2026 explains why community-based sourcing outperforms cold applications: someone who has seen your name in a community context is far more likely to respond to an application or recommend you internally.",
+          "Direct sourcing through company career pages and employee referral programs remains the highest-conversion channel overall. If you know which companies you want to target, bypass the job boards entirely and focus on building referral relationships.",
+          "The skills-based hiring guide at /articles/skills-based-hiring-2026-guide covers how to position yourself for direct sourcing by building visible proof of your abilities before you need to apply. A strong portfolio and community presence create inbound opportunities that no job board can match."
+        ]
+      },
+      {
+        title: "How to build your platform portfolio for 2026",
+        content: [
+          "Rather than using all platforms equally, build a platform portfolio aligned with your role type and search stage. A recommended allocation for a typical tech job seeker: 40 percent of application time on role-specific platforms, 30 percent on community and direct sourcing, 20 percent on generalist aggregators, and 10 percent testing AI matching tools.",
+          "Track your conversion rate by platform. After 20 applications per platform, check which produced responses, interviews, and offers. Drop platforms with below-average response rates and double down on the ones that work for your specific profile.",
+          "The layoff financial survival guide at /articles/financially-survive-tech-layoff-guide-2026 can help you calculate how much search time you have. With that number, optimize your platform allocation to maximize interview yield per unit of search time. A targeted platform strategy beats a broad, unfocused one every time."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Compare platform experiences and response data",
+      body: "Inside the Discord, members track which platforms generate real interviews, share ghost job warnings, and compare AI matching tool effectiveness across role types.",
+      label: "Compare Platforms",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "Built In: 20 Top Job Boards for Finding Your Next Role (2026)", url: "https://builtin.com/articles/top-job-boards" },
+      { label: "VentureBurn: Where to Find Jobs Online — Top 10 Search Platforms in 2026", url: "https://ventureburn.com/where-to-find-jobs-online/" },
+      { label: "Scowter: AI Job Search Engine — Search 150+ Boards", url: "https://scowter.com/ai-job-search" },
+      { label: "ShouldApply: Know Your Fit Score Before You Apply", url: "https://shouldapply.com/" },
+      { label: "Workzil: AI Job Search & AI Job Matching", url: "https://www.workzil.com/features/ai-job-matching" }
+    ]
+  },
+
+  {
+    slug: "senior-engineer-job-search-struggles-2026",
+    category: "job-search-mindset",
+    title: "Why Senior Engineers Are Struggling to Find Jobs in 2026",
+    description: "183,966 tech workers laid off in 2026 — and senior engineers with 10+ years of experience are facing unexpected rejection. Learn why experience cuts both ways and how to reframe your search strategy for the two-tier job market.",
+    publishedAt: "2026-06-29",
+    readingTime: "8 min read",
+    featured: false,
+    tags: ["Senior Engineer", "Layoffs", "Job Search", "Two-Tier Market"],
+    sections: [
+      {
+        title: "The senior engineer paradox: too experienced to hire",
+        content: [
+          "In June 2026, a viral story spread across LinkedIn and Twitter: a senior software engineer with 18 years of experience, laid off from a tech company, was working at McDonald's. The story was extreme but resonated because it captured a structural shift that many senior engineers are experiencing but few are talking about openly.",
+          "The IBTimes reported on a 7-year Amazon veteran who spent eight months searching after his layoff, despite receiving calls from Google, Uber, Agoda, and American Express. The calls came, but offers did not. KORE1's June 2026 analysis put numbers behind the anecdotes: the senior generalist software engineering market is glutted, with mid-to-senior generalist postings sitting open for 60-plus days while AI infrastructure and specialized senior roles close in two to four weeks.",
+          "The contradiction is real. Senior engineers are simultaneously in high demand for specialized roles and locked out of generalist positions. The market no longer rewards 10-plus years of broad experience. It rewards deep, domain-specific expertise that is hard to automate or outsource. If you have been a generalist for your entire career, 2026 is the year that strategy stops working."
+        ]
+      },
+      {
+        title: "Three specific barriers senior engineers face in 2026",
+        content: [
+          "Barrier one: compensation expectations. Companies tightening budgets in 2026 are reluctant to hire at senior salary bands unless the role clearly requires that level of expertise. A senior engineer who commands $180,000-plus in total compensation competes against mid-level candidates at $130,000 who can do 80 percent of the same work with AI assistance. For budget-constrained hiring managers, the premium for the last 20 percent of capability is increasingly hard to justify.",
+          "Barrier two: the 'overqualified' label. Recruiters and hiring managers worry that senior engineers will be bored, leave quickly, or challenge decisions. Whether or not this concern is fair, it affects callback rates. A resume with 15-plus years of experience applied to a senior IC role that asks for 5 to 7 years often gets filtered out before a conversation happens.",
+          "Barrier three: skills obsolescence perception. A senior engineer whose last deep technical work was four years ago, who has been managing teams or doing architecture reviews without writing production code, is competing against engineers who are actively coding with the latest frameworks and tools. The perception that your hands-on skills are stale is a real barrier, even if your judgment and system-level thinking are far stronger.",
+          "The layoff landscape analysis at /articles/2026-tech-layoffs-landscape-analysis explains more about the structural divide between saturated and scarce role categories."
+        ]
+      },
+      {
+        title: "How to reframe your search as a senior engineer",
+        content: [
+          "The most effective reframe is to stop marketing yourself as 'experienced' and start marketing yourself as specialized. Replace '15 years of software engineering' with a specific problem statement: 'I build real-time data pipelines that process 50 TB daily with 99.99 percent uptime.' The more specific your positioning, the more you stand out from the generalist senior pool.",
+          "If your deep specialization is outdated, invest in a focused skill update for your target role. Three months of concentrated learning — a certification, a portfolio project, an open-source contribution — can change how recruiters perceive your profile. The 30-day post-layoff action plan at /articles/30-day-post-layoff-action-plan provides a structure for this kind of targeted skill investment.",
+          "Network differently. Senior engineers benefit most from connecting with hiring managers and directors, not recruiters. A director of engineering who remembers the quality of your work from a past interaction is worth 50 cold applications. Use the networking guide at /articles/how-to-network-for-a-job-in-2026 to build a tiered outreach plan that targets decision-makers.",
+          "Consider a strategic title downgrade. If your last title was 'VP of Engineering,' and you are targeting IC roles, list yourself as 'Principal Engineer' or 'Staff Engineer' on LinkedIn and your resume. The title downgrade signals that you are ready for hands-on work, not management, and removes the 'overqualified' filter from recruiter searches."
+        ]
+      },
+      {
+        title: "When to pivot instead of pushing through",
+        content: [
+          "The career pivot pathways guide at /articles/career-pivot-pathways-2026-cloud-ai-security outlines five transition paths for tech professionals. For senior engineers struggling to find equivalent roles, pivoting into a related but higher-demand specialization often produces faster results than grinding through generalist applications.",
+          "Cloud engineering is the most natural pivot for senior engineers with infrastructure or operations experience. Cybersecurity is accessible for engineers with security-adjacent backgrounds. AI and ML engineering is the highest-salary pivot but requires the steepest learning curve.",
+          "If you have been searching for three to six months with fewer than two real interview processes, the market is telling you something. That signal does not mean you are unemployable. It means the market has reclassified your old role category. The best response is not to try harder. It is to reposition into a category where your skills are scarce enough to command attention.",
+          "The 2026 tech layoffs landscape analysis explains that 113,000-plus layoffs are concentrated in specific role families. Senior engineers in saturated categories need to either deepen specialization to the point of scarcity or pivot into a category where their background is rare. Stubbornly repeating the same search strategy is not persistence. It is the definition of insanity."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Connect with other senior engineers navigating the same market",
+      body: "Inside the Discord, senior engineers share role reframing strategies, which specializations are actually hiring, and how they are navigating the two-tier job market in 2026.",
+      label: "Join Senior Engineer Discussion",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "KORE1: Senior SWE Glut vs. $250K AI Infra Drought 2026", url: "https://www.kore1.com/senior-swe-glut-ai-infra-drought-2026/" },
+      { label: "IBTimes: 7-Year Amazon Veteran Reveals Nightmare 8-Month Job Hunt After Layoff", url: "https://www.ibtimes.co.uk/7-year-amazon-veteran-reveals-nightmare-8-month-job-hunt-after-layoff-1800133" },
+      { label: "LinkedIn: Katie Brooks on 183,966 Tech Workers Laid Off in 2026", url: "https://www.linkedin.com/posts/katiered_jobsearch-careerpositioning-techlayoffs-activity-7471690178097479680-0iAn" },
+      { label: "Lowdown Today: 45,000 tech layoffs Q1 2026", url: "https://lowdown.today/t/ai-jobs-power-money/2/" },
+      { label: "Robert Half 2026 Technology Salary Guide", url: "https://www.roberthalf.com/us/en/insights/salary-guide/technology" }
+    ]
+  }
 
 ];
