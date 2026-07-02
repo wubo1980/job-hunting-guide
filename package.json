@@ -7,23 +7,25 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint .",
-    "check": "tsc --noEmit && eslint ."
+    "check": "tsc --noEmit && eslint .",
+    "prebuild": "tailwindcss -i app/globals.css -o app/globals.generated.css"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.0",
     "lucide-react": "^0.542.0",
     "next": "16.2.6",
     "react": "19.2.4",
-    "react-dom": "19.2.4",
-    "@vercel/analytics": "^2.0.0"
+    "react-dom": "19.2.4"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "autoprefixer": "^10.5.2",
     "eslint": "^9",
     "eslint-config-next": "16.2.6",
-    "tailwindcss": "^4",
+    "postcss": "^8.5.16",
+    "tailwindcss": "^3.4.19",
     "typescript": "^5"
   }
 }

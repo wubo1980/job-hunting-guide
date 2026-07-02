@@ -5,6 +5,7 @@ import { Analytics } from "@vercel/analytics/next";
 import { siteConfig, sharedKeywords } from "@/lib/site-config";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
+import "./globals.generated.css";
 import Script from "next/script";
 
 
