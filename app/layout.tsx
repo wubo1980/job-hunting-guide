@@ -55,13 +55,13 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full">
-        <Script src={"https://www.googletagmanager.com/gtag/js?id=G-H7SMRPGP9E"} strategy="afterInteractive" />
+        <Script src={"https://www.googletagmanager.com/gtag/js?id=G-8ZG0XNWBYW"} strategy="afterInteractive" />
         <Script id="google-analytics" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag("js", new Date());
-            gtag("config", "G-H7SMRPGP9E");
+            gtag("config", "G-8ZG0XNWBYW");
           `}
         </Script>
         <meta name="google-site-verification" content="N21K5VoxWUyIIwGf5NZjvhvU2Ty_JC2EoVhMWPL-iro" />
