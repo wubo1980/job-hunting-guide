@@ -1709,7 +1709,7 @@ export const articles: Article[] = [
       { label: "Lowdown Today: 45,000 tech layoffs Q1 2026", url: "https://lowdown.today/t/ai-jobs-power-money/2/" },
       { label: "Robert Half 2026 Technology Salary Guide", url: "https://www.roberthalf.com/us/en/insights/salary-guide/technology" }
     ]
-  }
+  },
 
 
   {
@@ -1872,4 +1872,5 @@ export const articles: Article[] = [
       { label: "LinkedIn Salary insights tool", url: "https://www.linkedin.com/salary/" }
     ]
   }
+
   ];
