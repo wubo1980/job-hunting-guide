@@ -1711,4 +1711,165 @@ export const articles: Article[] = [
     ]
   }
 
-];
+
+  {
+    slug: "linkedin-profile-optimization-2026",
+    category: "ai-job-search",
+    title: "LinkedIn Profile Optimization for the 2026 Job Market",
+    description: "Recruiters search LinkedIn differently in 2026. Improve your headline, summary, experience, and keywords so both AI filters and human recruiters find you first — before you even apply.",
+    publishedAt: "2026-07-04",
+    readingTime: "9 min read",
+    featured: true,
+    tags: ["LinkedIn", "Profile Optimization", "Personal Branding", "Job Search", "Recruiter Outreach"],
+    sections: [
+      {
+        title: "Why your LinkedIn profile matters more in 2026 than ever",
+        content: [
+          "The job market in 2026 produces 113,000-plus tech layoffs, ghost listings that waste candidate attention, and ATS filters that reject 75 percent of applications before a human ever sees them. In that environment, the highest-build action you can take is making your LinkedIn profile discoverable before you apply.",
+          "LinkedIn reports that recruiters spend an average of 7.4 seconds scanning a profile before deciding to send a message. In 2026, with AI-assisted recruiter tools scanning profiles at scale, that attention window is even shorter. Your profile either signals fit in those seconds or it does not.",
+          "A strong profile does not just help inbound. It changes the power dynamic of your job search. When a recruiter finds you before you apply, you are no longer a commodity applicant. You are a candidate who was identified for demonstrated capability. The salary negotiation guide at /articles/salary-negotiation-weak-market-2026 explains how inbound-recruited candidates command 10 to 20 percent higher starting offers than cold applicants."
+        ]
+      },
+      {
+        title: "Step one: Improve your headline for recruiter search queries",
+        content: [
+          "The headline is the most indexed field on LinkedIn. Recruiters search by headline keywords first, then scan profiles. If your headline says 'Unemployed and Looking for Opportunities,' you are optimizing for pity, not discovery. Replace it with a role-specific value statement that contains the exact title and keywords recruiters use.",
+          "A strong headline follows this format: [Target Title] | [Key Skill] | [Industry/Domain] | [Value Metric or Differentiator]. For example: Cloud Infrastructure Engineer | AWS, Kubernetes, Terraform | Reduced deployment time by 60 percent at Series B SaaS companies.",
+          "Avoid buzzword-only headlines like 'Results-driven leader with a passion for innovation.' These contain zero search value. Every word in your headline should be an indexable keyword or a credible differentiator. Update your headline every time you shift target role families.",
+          "LinkedIn allows 220 characters for headlines. Use every character. Test different headlines by monitoring InMail response rates for two weeks per variant. The headline that produces the most recruiter outreach is the one to keep."
+        ]
+      },
+      {
+        title: "Step two: Rewrite your About section around problems, not titles",
+        content: [
+          "The About section is the second most important SEO field on a LinkedIn profile. Most profiles waste this space with a first-person career summary. A better approach is a problem-led summary that mirrors how companies hire: they have a problem, and they are looking for someone who has solved it before.",
+          "Structure your About section as: opening hook (one sentence defining the problem you solve), evidence block (three bullet points showing specific outcomes with metrics), and closing call to action (what type of opportunity you are exploring). Aim for 150 to 250 words. Longer summaries lose skimmers.",
+          "For example: 'I help SaaS companies reduce cloud infrastructure costs without sacrificing reliability. At my previous company, I cut AWS spending by 35 percent ($1.2M annual savings) while improving p99 latency by 40 percent. Currently exploring senior cloud engineering roles at growth-stage companies.'",
+          "Avoid phrases like 'I am passionate about' or 'I am looking for new challenges.' These are filler. Replace them with domain-specific language that shows depth. The AI resume optimization framework at /articles/ai-resume-optimization-5-step-framework provides additional guidance on translating your career story into keyword-rich professional writing."
+        ]
+      },
+      {
+        title: "Step three: Improve your experience section for scanning, not reading",
+        content: [
+          "Recruiters scan experience sections in seconds. Write each role as a scannable evidence block: one line for company and title, followed by three to four bullet points. Each bullet point should start with a strong action verb and end with a quantified result.",
+          "Include keywords from your target job descriptions in your bullet points. If the target role asks for 'Kubernetes cluster management' and your current bullet says 'managed cloud infrastructure,' rewrite it to 'Managed Kubernetes clusters across 12 production namespaces serving 500K daily active users.'",
+          "Do not list responsibilities. List outcomes. 'Responsible for the team's release process' is a responsibility. 'Reduced release cycle from two weeks to three days by implementing CI/CD pipeline with automated testing' is an outcome. The resume guide at /articles/ai-resume-optimization-5-step-framework has detailed frameworks for converting responsibilities into impact statements.",
+          "Set your experience section to show the last 10 to 15 years. Anything older becomes noise. Create a 'Earlier Career' section for roles before 2016 to preserve context without cluttering recruiter scan time."
+        ]
+      },
+      {
+        title: "Step four: Build LinkedIn features that boost discoverability",
+        content: [
+          "Several LinkedIn features directly impact your search ranking but are underused by most job seekers. Enable #OpenToWork but set it to 'Recruiters Only' visibility — this signals availability to recruiters without broadcasting desperation to your current network.",
+          "Add all relevant skills to your Skills section and ask for endorsements from former colleagues. LinkedIn's algorithm uses skill endorsements as a ranking signal. Prioritize skills that appear in your target job descriptions rather than generic skills like 'Microsoft Office.'",
+          "Set your location and industry filters to match target opportunities. If you are willing to relocate, list both current and target locations. Publish or repost content weekly — even a short comment on an industry article — to signal active engagement. The networking guide at /articles/how-to-network-for-a-job-in-2026 includes a content-sharing strategy specifically designed to attract recruiter attention.",
+          "Request recommendations from former managers and peers. A strong recommendation that mentions specific project outcomes is one of the highest trust signals on a LinkedIn profile. Space out recommendations over several weeks rather than requesting all at once."
+        ]
+      },
+      {
+        title: "Step five: Run a monthly profile audit",
+        content: [
+          "The job market changes, and your LinkedIn profile should change with it. Run a monthly audit checking: headline alignment with current target role, keyword density matching recent job descriptions, recent activity visible (comments, posts, or articles), and recruiter InMail volume trending up or down.",
+          "If InMail volume has dropped, your profile may be falling out of search results. Refresh keywords, add a new skill, publish a post, or request new endorsements to signal recency to LinkedIn's algorithm. Profile recency is a known ranking factor.",
+          "The career pivot pathways guide at /articles/career-pivot-pathways-2026-cloud-ai-security outlines how to reposition your profile for a transition into cloud, security, AI, or data roles. The reframing strategy applies the same principles at the level of career identity rather than just keyword placement.",
+          "A well-maintained LinkedIn profile is not vanity. It is the most cost-effective job search tool available in 2026. If you spend five hours building it right and another thirty minutes per month maintaining it, the return on that time exceeds any other single job search investment you can make."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Get real LinkedIn feedback from people who hire",
+      body: "Inside the Discord, members share their LinkedIn profiles for review, swap headline experiments, and track which optimization tactics actually increase recruiter outreach.",
+      label: "Review Profiles",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "LinkedIn official profile optimization guidance", url: "https://www.linkedin.com/help/linkedin/answer/a522906" },
+      { label: "Jobscan ATS and LinkedIn optimization blog", url: "https://www.jobscan.co/blog/" },
+      { label: "Monster Resume Trends 2026", url: "https://www.monster.com/career-advice/resume/resume-trends" },
+      { label: "Huntr: 6 Data-Backed Job Search Strategies 2026", url: "https://huntr.co/blog/job-search-tips" }
+    ]
+  },
+
+  {
+    slug: "salary-negotiation-weak-market-2026",
+    category: "interview-prep",
+    title: "How to Negotiate a Job Offer in a Weak Job Market (2026 Guide)",
+    description: "Can you still negotiate when 63 percent of CEOs are freezing hiring? Yes — if you negotiate differently. Learn a data-backed framework for pricing, positioning, and preserving offers in a buyer's market.",
+    publishedAt: "2026-07-04",
+    readingTime: "8 min read",
+    featured: true,
+    tags: ["Salary Negotiation", "Job Offer", "Compensation", "Interview Prep", "2026 Job Market"],
+    sections: [
+      {
+        title: "Yes, you can still negotiate in a weak market — but not the same way",
+        content: [
+          "Most salary negotiation advice was written between 2015 and 2021, when companies competed for talent and candidates had build. In 2026, 113,000-plus tech layoffs have shifted the build balance. LayoffReady reported that 63 percent of CEOs said they froze or reduced hiring through late 2025 and into 2026. The question is not whether you can negotiate. The question is how.",
+          "The old playbook said: always counter, never give the first number, and walk away if they lowball you. The 2026 playbook is different. You can still negotiate, but your build comes from data and positioning, not from scarcity. A well-researched counteroffer with market data is respected. A demand without evidence is a risk.",
+          "This guide covers a three-phase framework: pre-offer positioning (building build before the number appears), offer evaluation (pricing your value accurately in a soft market), and thoughtful negotiation (knowing when to push and when to accept). The LinkedIn profile guide at /articles/linkedin-profile-optimization-2026 explains how inbound recruiter outreach changes your negotiation starting point before you even enter the process.",
+          "Data from the Job Search Strategies 2026 report shows job seekers who negotiate using market data achieve offers 8 to 15 percent higher than their initial offer, even in weak markets. Candidates who do not negotiate leave that value on the table. The key is to negotiate in a way that strengthens the relationship rather than threatening it."
+        ]
+      },
+      {
+        title: "Phase one: Build build before the offer arrives",
+        content: [
+          "Negotiation does not start when you receive an offer letter. It starts the moment a recruiter learns your name. Every interaction during the interview process is a negotiation data point. Strong performance, clear communication, and subject matter depth signal a candidate who has options.",
+          "The best build in a weak market is having multiple active processes. Even one additional interview pipeline changes your framing. Instead of 'I really need this job,' you can say 'I am considering multiple options and want to make the best decision.' The more you genuinely have options, the more confident you sound.",
+          "Another source of build is positioning. If the recruiter reached out to you first (via LinkedIn InMail or a referral), your build is higher than if you submitted a cold application. Inbound-recruited candidates are perceived as pre-vetted, which raises the starting offer by an estimated 10 to 20 percent according to recruiter surveys.",
+          "During the interview process, ask questions about the role's budget range, team size, and impact expectations. These questions signal that you evaluate offers thoughtfulally. They also give you data for later. The interview preparation guide at /articles/how-to-prepare-for-any-2026-interview-format provides scripts for asking compensation-related questions naturally during interviews."
+        ]
+      },
+      {
+        title: "Phase two: Evaluate the offer accurately before responding",
+        content: [
+          "When an offer arrives, do not respond immediately. A standard ask is 24 to 48 hours to review. Use that time to research. Start with Levels.fyi for role-specific compensation data at your target company size and location. Cross-reference with Glassdoor, LinkedIn Salary, and the Robert Half 2026 Technology Salary Guide.",
+          "Evaluate the total compensation package, not just base salary. In 2026, many companies are compressing base salaries but offering signing bonuses, performance bonuses, equity refreshes, or flexible work arrangements that have real cash value. A $10,000 signing bonus is equivalent to a $5,000 annual base salary increase over two years.",
+          "Calculate your walk-away number before you start negotiating. This is the minimum total compensation you would accept. Without a walk-away number, every negotiation is vulnerable to emotional pressure. Your walk-away should be based on your financial runway from the 30-day post-layoff plan, not on what you earned before.",
+          "List the non-salary factors that could tip the decision: remote flexibility, learning opportunities, title, team quality, commute time, and stability. In a weak market, a lower offer at a stable company may be better than a higher offer at a company with layoff risk. The career pivot pathways guide at /articles/career-pivot-pathways-2026-cloud-ai-security provides a framework for evaluating long-term role value beyond the immediate offer."
+        ],
+        checklist: [
+          "Research comps on Levels.fyi, Glassdoor, and LinkedIn Salary.",
+          "Calculate total package value: base + bonus + equity + one-time payments.",
+          "Determine your walk-away number before any conversation.",
+          "List non-salary factors that affect your decision.",
+        ]
+      },
+      {
+        title: "Phase three: Negotiate thoughtfulally without risking the offer",
+        content: [
+          "The biggest fear in a weak market is that negotiating will cause the offer to be rescinded. In practice, offers are rarely rescinded for negotiation unless the candidate is aggressive or disrespectful. Data from 2026 recruiter surveys shows fewer than 3 percent of offers are rescinded due to candidate negotiation, and most of those cases involved confrontational behavior rather than a reasonable counter.",
+          "Start the negotiation conversation with gratitude and enthusiasm. A script that works: 'I am very excited about this role and your team. I have been reviewing the offer and would love to see if we can adjust the compensation to better reflect the market value I have seen for this level of responsibility.'",
+          "Support your counter with specific data. 'Based on my research on Levels.fyi, the median total compensation for a Senior Cloud Engineer at a Series B company in New York is $195,000, which is about 12 percent above your base offer. Is there flexibility in the range?' Data-backed asks are perceived as professional, not greedy.",
+          "If total compensation cannot move, negotiate on other dimensions: signing bonus, performance bonus target, equity refresh eligibility, start date (for severance continuation), professional development budget, or flexible work schedule. Many hiring managers have more discretion on one-time items than on base salary bands.",
+          "When the offer improves, confirm in writing and express enthusiasm again. The goal is not to win the negotiation. It is to reach your walk-away number while preserving a positive relationship with your future manager. Top performers negotiate and then deliver. Hiring managers who see a well-executed negotiation often view it as a sign of professional competence."
+        ],
+        bullets: [
+          "Start with gratitude and enthusiasm before asking for changes.",
+          "Support every ask with market data from verifiable sources.",
+          "If base salary is fixed, negotiate signing bonus, equity, or flexibility.",
+          "Accept with professionalism and reconfirm enthusiasm.",
+        ]
+      },
+      {
+        title: "Special considerations for 2026 market conditions",
+        content: [
+          "Some companies in 2026 are offering what recruiters call 'silver medal packages' — competitive offers designed as backup candidates for roles they are still actively interviewing. If the offer feels too easy or the timeline is unusually fast, the company may be hedging. Accepting a silver medal package carries risk of rescission if the primary candidate accepts.",
+          "Ask about team stability directly. 'How long has the current team been together, and has there been recent turnover?' In a market with silent layoffs, a team that has already lost people is at higher risk of further cuts. The financial survival guide at /articles/financially-survive-tech-layoff-guide-2026 provides questions to ask about company financial health during the offer stage.",
+          "Consider asking for a start-date delay if you have severance runway. Every two weeks of delay is two more weeks of severance plus two fewer weeks of salary owed, which well increases your financial buffer. Some companies can accommodate a three to four week start delay without changing the offer terms.",
+          "If the offer is genuinely below your walk-away number and the company cannot increase, do not accept out of desperation. A job that pays below your minimum creates financial stress that compounds over time. It is better to continue searching than to accept a role that sets back your financial recovery. The burnout recovery guide at /articles/how-to-recover-from-job-search-burnout has tools for maintaining mental health during extended searches."
+        ]
+      }
+    ],
+    cta: {
+      heading: "Practice your negotiation script with real feedback",
+      body: "Inside the Discord, members share offer details, negotiation outcomes, and which strategies worked in actual 2026 hiring loops.",
+      label: "Practice Negotiation",
+      href: siteConfig.discordUrl
+    },
+    sources: [
+      { label: "Levels.fyi salary comparison platform", url: "https://www.levels.fyi" },
+      { label: "Robert Half 2026 Technology Salary Guide", url: "https://www.roberthalf.com/us/en/insights/salary-guide/technology" },
+      { label: "Glassdoor salary and company reviews", url: "https://www.glassdoor.com" },
+      { label: "LinkedIn Salary insights tool", url: "https://www.linkedin.com/salary/" }
+    ]
+  }
+  ];
