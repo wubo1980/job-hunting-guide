@@ -54,7 +54,7 @@ export const homeHeroContent: HomeHeroContent = {
   eyebrow: "2026 survival guide for job seekers in tech",
   title: "The job market got colder. Your strategy has to get sharper.",
   description:
-    "More than 113,000 tech layoffs in 2026. More AI screening. More ghost listings. This guide helps laid-off workers, anxious professionals, and new graduates focus on what still works.",
+    "More than 113,000 tech layoffs in 2026. More AI screening. More ghost listings. This guide helps laid-off workers, anxious professionals, and new graduates focus on what still works. Research from the <a href="https://blog.linkedin.com/">LinkedIn Official Blog</a> supports this approach with real employment data.",
   primaryCta: {
     label: "Read The Latest Guides",
     href: "#latest-articles",
