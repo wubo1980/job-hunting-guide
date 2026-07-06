@@ -54,7 +54,7 @@ export const homeHeroContent: HomeHeroContent = {
   eyebrow: "2026 survival guide for job seekers in tech",
   title: "The job market got colder. Your strategy has to get sharper.",
   description:
-    "More than 113,000 tech layoffs in 2026. More AI screening. More ghost listings. This guide helps laid-off workers, anxious professionals, and new graduates focus on what still works. Research from the <a href="https://blog.linkedin.com/">LinkedIn Official Blog</a> supports this approach with real employment data.",
+    "More than 113,000 tech layoffs in 2026. More AI screening. More ghost listings. This guide helps laid-off workers, anxious professionals, and new graduates focus on what still works. Research from the <a href='https://blog.linkedin.com/'>LinkedIn Official Blog</a> supports this approach with real employment data.",
   primaryCta: {
     label: "Read The Latest Guides",
     href: "#latest-articles",
@@ -1431,8 +1431,7 @@ export const articles: Article[] = [
         url: "https://www.kore1.com/tech-job-market-forecast-q3-2026/",
       },
     ],
-  }
-,
+  },
   {
     slug: "layoff-boomerang-rehire-negotiation-2026",
     category: "career-pivot",
@@ -1871,9 +1870,8 @@ export const articles: Article[] = [
       { label: "Glassdoor salary and company reviews", url: "https://www.glassdoor.com" },
       { label: "LinkedIn Salary insights tool", url: "https://www.linkedin.com/salary/" }
     ]
-  }
+  },
 
-  ],
 
   {
     slug: "ai-career-pivot-non-technical-2026",
@@ -1969,6 +1967,6 @@ export const articles: Article[] = [
       { label: "Robert Half 2026 Technology Salary Guide", url: "https://www.roberthalf.com/us/en/insights/salary-guide/technology" },
       { label: "Challenger, Gray & Christmas layoff and hiring reports", url: "https://www.challengergray.com/" }
     ]
-  }
+  },
 
   ];
