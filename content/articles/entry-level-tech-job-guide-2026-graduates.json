@@ -1,0 +1,71 @@
+{
+  "slug": "entry-level-tech-job-guide-2026-graduates",
+  "category": "ai-job-search",
+  "title": "The 2026 Entry Level Tech Job Guide for Graduates & Career Changers",
+  "description": "Entry-level hiring remains tight in 2026. Target your search with a portfolio-first strategy, skills-based hiring, AI tools, and structured networking to land your first tech role.",
+  "publishedAt": "2026-06-27",
+  "readingTime": "9 min read",
+  "featured": false,
+  "tags": [
+    "Entry Level",
+    "New Grad",
+    "Career Changer",
+    "Portfolio",
+    "Networking",
+    "2026"
+  ],
+  "sections": [
+    {
+      "title": "The 2026 entry-level market is structurally different",
+      "content": [
+        "Stanford Digital Economy Lab research published in 2025 found that employment for software developers aged 22 to 25 fell nearly 20 percent from its late 2022 peak. The roles that used to absorb new graduates are the same ones AI tools are best at compressing: generalist coding, basic frontend work, and standard CRUD development.",
+        "Entry-level hiring has not stopped, but the entry point moved. Companies hiring ten junior engineers and training them now hire two and expect faster productivity. The bar for demonstrable skill is higher.",
+        "CompTIA data shows entry-level IT support, cloud operations, and cybersecurity analyst roles continue hiring at stable volumes. The Bureau of Labor Statistics projects above-average growth for web developers, data analysts, and network administrators through 2030. The landscape has shifted but is not closed."
+      ]
+    },
+    {
+      "title": "Build a portfolio that replaces experience requirements",
+      "content": [
+        "Entry-level job descriptions asking for two to three years of experience are filtering heuristics, not genuine requirements. Companies practicing skills-based hiring at /articles/skills-based-hiring-2026-guide accept portfolios as substitutes for years of experience.",
+        "Build one anchor project demonstrating your target role's core capability. A data analyst candidate should build an end-to-end pipeline: source a real dataset, clean and transform it, analyze, visualize, and write a business summary. Document every step and push to GitHub with a clean README.",
+        "Create a portfolio landing page linked from LinkedIn, GitHub, and your resume. Organize projects by role type so a recruiter evaluating you for a data role sees data projects first."
+      ]
+    },
+    {
+      "title": "Use networking to bypass application volume",
+      "content": [
+        "Cold applications for entry-level candidates in 2026 convert at roughly one to three percent. Networking, by contrast, converts at 10 to 30 percent for referral-introduced candidates.",
+        "The networking guide at /articles/how-to-network-for-a-job-in-2026 outlines a tiered system. Start with alumni from your university or bootcamp who work in your target field. Send low-pressure messages asking for a 15-minute informational call.",
+        "Track every conversation in a spreadsheet. Note companies hiring, who responded, and open roles. Over two to three months of consistent networking, thirty to fifty contacts produce more opportunities than three hundred cold applications."
+      ]
+    },
+    {
+      "title": "Leverage AI tools to level the playing field",
+      "content": [
+        "AI tools are especially useful for entry-level candidates because they help with parts of a job search that experience usually teaches: resume tailoring, interview preparation, and industry research.",
+        "Use AI to practice behavioral questions and system design interviews. Use it to review project documentation for clarity. Research companies before interviews. Do not use it to fabricate experience or submit AI-generated take-home assignments.",
+        "The candidates who succeed in 2026 build visible proof of their abilities, network strategically, and use every tool to accelerate their path to a genuine opportunity."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Connect with other entry-level job seekers",
+    "body": "Join the Discord to share portfolio feedback, networking strategies, and which companies are actually hiring entry-level roles in 2026.",
+    "label": "Find Your Cohort",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Stanford Digital Economy Lab: AI employment effects",
+      "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence/"
+    },
+    {
+      "label": "CompTIA tech workforce research",
+      "url": "https://www.comptia.org/content/research"
+    },
+    {
+      "label": "US Bureau of Labor Statistics Occupational Outlook",
+      "url": "https://www.bls.gov/ooh/"
+    }
+  ]
+}

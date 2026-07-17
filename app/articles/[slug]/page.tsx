@@ -4,12 +4,7 @@ import { notFound } from "next/navigation";
 import { ArticleContent } from "@/components/article-content";
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { GuideCard } from "@/components/guide-card";
-import {
-  getArticleBySlug,
-  getArticles,
-  getCategoryBySlug,
-  getRelatedArticles,
-} from "@/lib/content/queries";
+import { getCategories, getArticles, getArticleBySlugAsync, getRelatedArticles } from "@/lib/content/queries";
 import { getArticleMetadata } from "@/lib/content/seo";
 
 type ArticlePageProps = {
@@ -21,8 +16,9 @@ type ArticlePageProps = {
 export const dynamicParams = false;
 
 /** Generates all article detail routes for static export. */
-export function generateStaticParams() {
-  return getArticles().map((article) => ({
+export async function generateStaticParams() {
+  const articles = await getArticles();
+  return articles.map((article) => ({
     slug: article.slug,
   }));
 }
@@ -32,13 +28,13 @@ export async function generateMetadata({
   params,
 }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params;
-  const article = getArticleBySlug(slug);
+  const article = await getArticleBySlugAsync(slug);
 
   if (!article) {
     notFound();
   }
 
-  const category = getCategoryBySlug(article.category);
+  const category = (await getCategories()).find(c => c.slug === article.category);
 
   if (!category) {
     notFound();
@@ -50,19 +46,20 @@ export async function generateMetadata({
 /** Renders the article page with meta details, sources, and related guides. */
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const { slug } = await params;
-  const article = getArticleBySlug(slug);
+  const article = await getArticleBySlugAsync(slug);
 
   if (!article) {
     notFound();
   }
 
-  const category = getCategoryBySlug(article.category);
+  const categories = await getCategories();
+  const category = categories.find(c => c.slug === article.category);
 
   if (!category) {
     notFound();
   }
 
-  const relatedArticles = getRelatedArticles(article, 3);
+  const relatedArticles = await getRelatedArticles(article, 3);
 
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-col gap-10 px-4 py-8 sm:px-6 lg:px-8 lg:py-10">
@@ -109,7 +106,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <GuideCard
               key={relatedArticle.slug}
               article={relatedArticle}
-              category={getCategoryBySlug(relatedArticle.category) ?? category}
+              category={categories.find(c => c.slug === relatedArticle.category) ?? category}
             />
           ))}
         </aside>

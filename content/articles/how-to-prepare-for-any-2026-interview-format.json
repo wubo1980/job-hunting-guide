@@ -1,0 +1,102 @@
+{
+  "slug": "how-to-prepare-for-any-2026-interview-format",
+  "category": "interview-prep",
+  "title": "How to Prepare for Every Type of 2026 Interview (Behavioral, Case, Take-Home, and Portfolio Review)",
+  "description": "Employers use four distinct interview formats in 2026. Learn what each tests, how to prepare, and common traps that quietly lower your score across every format.",
+  "publishedAt": "2026-06-20",
+  "readingTime": "9 min read",
+  "tags": [
+    "Interview Prep",
+    "Behavioral Interview",
+    "Portfolio Review",
+    "Case Interview"
+  ],
+  "sections": [
+    {
+      "title": "Why you need a format-specific strategy in 2026",
+      "content": [
+        "Job interviews used to follow a reliable pattern: a phone screen, a behavioral round, and a hiring manager conversation. That uniformity has broken down in 2026. Companies now mix four distinct formats depending on role seniority, hiring urgency, and how much they trust skill-signaling proxies like degrees or years of experience.",
+        "The shift toward skills-based hiring has accelerated format fragmentation. Employers who no longer trust resume keywords as a signal of ability need other ways to assess candidates. Some use live coding or case studies. Others use portfolio reviews or timed work samples. Many combine two or three formats in a single pipeline. The problem for candidates is that preparing for one format does not prepare you for the others.",
+        "A behavioral STAR framework, for example, is almost useless in a case interview where the entire point is to watch your thinking unfold in real time. Similarly, a polished take-home assignment does not help you sell your work in a portfolio review. To clear modern hiring pipelines, you need a format-aware preparation strategy that shifts depending on what the employer is testing."
+      ]
+    },
+    {
+      "title": "Behavioral interviews: evidence density beats charisma",
+      "content": [
+        "Behavioral interviews remain the most common format, but their weight has shifted. Interviewers in 2026 are less impressed by confident storytelling and more interested in evidence density. The question behind every question is: can you prove you did what you claim?",
+        "Use the STAR format with one modification: lead with the result. Instead of starting with the situation, start with the metric or outcome. I reduced CI pipeline time by 40 percent, which cut our deployment cycle from two weeks to four days. Then backfill the context. This signals that you value outcomes over process and keeps your answer tight.",
+        "Prepare five reusable stories that cover: a difficult technical or business problem, a conflict you resolved, a project with measurable impact, a failure you recovered from, and a high-pressure decision. Each story should be adaptable to different prompts. Practice delivering them in 60 seconds and in 3 minutes. The first proves you can be concise. The second proves you have depth.",
+        "One trap to avoid: generic leadership language. I am a strategic thinker who collaborates across teams communicates almost nothing. Replace self-description with specific evidence. Every sentence should either describe an action you took or a result you produced. If it does neither, cut it."
+      ],
+      "checklist": [
+        "Lead every answer with the outcome or metric.",
+        "Prepare five reusable stories with specific, verifiable results.",
+        "Practice delivering each story in 60 seconds and 3 minutes.",
+        "Eliminate any sentence that does not describe an action or a result."
+      ]
+    },
+    {
+      "title": "Case interviews: the format tests thinking, not knowledge",
+      "content": [
+        "Case interviews are less common in pure engineering roles but standard in product management, consulting-adjacent positions, and senior individual contributor roles where strategic judgment matters. The key insight is that case interviews do not test your domain knowledge. They test your thinking process under uncertainty.",
+        "A strong case performance follows a repeatable structure. First, clarify the question. Restate the problem in your own words and confirm with the interviewer. Second, scope the problem. Identify what is in bounds and what is out of bounds. Third, build a framework. It does not need to be perfect. It needs to be organized. Fourth, do the math or analysis out loud. Fifth, state a conclusion with supporting reasoning.",
+        "The most common point loss in case interviews comes from jumping to a conclusion too fast. Interviewers want to see your structure, your assumptions, and how you handle missing information. If you do not know a number, estimate and state your assumption. That signals judgment, not guessing.",
+        "Practice with realistic prompts. Public case interview prep resources exist for product management and consulting roles. For engineering cases, a common format is: We need to build X. How would you approach it? Your job is to show a systematic evaluation of constraints, tradeoffs, team capacity, and timeline before proposing an approach."
+      ],
+      "bullets": [
+        "Restate the problem to confirm scope before diving into analysis.",
+        "Build a visible framework even if it is imperfect.",
+        "State assumptions when data is missing instead of guessing silently.",
+        "End every case with a clear conclusion and supporting reasoning."
+      ]
+    },
+    {
+      "title": "Take-home assignments: design for evaluation, not for perfection",
+      "content": [
+        "Take-home assignments have become more common as companies shift to skills-based assessment. The trap is spending too much time on the deliverable and not enough on making it easy to evaluate. A take-home that is technically perfect but poorly documented will score worse than a solid submission with clear documentation.",
+        "Start by understanding the evaluation criteria. If the prompt says build an API, confirm whether they care about code structure, test coverage, documentation, deployment, or all four. Then prioritize accordingly. A README that explains your decisions, tradeoffs, and how to run the code is often worth more than an extra test.",
+        "Set a time budget before you start. Take-home assignments are not supposed to consume your week. If the prompt says it should take four hours, spend at most six. Use the remaining time to polish documentation, clean up code formatting, and write a short summary of what you built and why.",
+        "One often-missed opportunity: include a short retrospective in your submission. Describe what you would improve with more time, what assumptions you made, and what edge cases you did not handle. This demonstrates professional maturity and often converts a neutral submission into a strong pass."
+      ]
+    },
+    {
+      "title": "Portfolio reviews: the format that rewards judgment over volume",
+      "content": [
+        "Portfolio reviews are increasingly common for design, engineering, and product roles where past work is the strongest signal of future performance. The rules are different from a behavioral interview because the interviewer has already seen your output. They want to know how you arrived at it.",
+        "For every project in your portfolio, be ready to explain three things: the problem, your specific role, and the key decisions you made. Do not describe features. Describe tradeoffs. We chose React over Svelte because our team had existing React expertise and the product timeline did not allow for a framework migration. That shows engineering judgment.",
+        "Prepare a 30-second elevator pitch and a 5-minute deep dive for your strongest project. Most portfolio reviews start with an open-ended prompt: Walk me through something you built. Your ability to tightly summarize before diving deep signals communication skill and self-awareness.",
+        "One common trap: presenting everything as a success. Interviewers value candidates who can analyze their own failures. If a project had technical debt, missed deadlines, or design flaws, acknowledge them honestly and explain what you learned. A portfolio that only shows wins is less credible than one that shows learning."
+      ],
+      "checklist": [
+        "For each project, prepare: the problem, your role, key decisions, and tradeoffs.",
+        "Have a 30-second summary and a 5-minute deep dive ready.",
+        "Include at least one failure or learning experience.",
+        "Organize portfolio by role type, not chronologically."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Practice interviews with people in similar pipelines",
+    "body": "Inside the Discord, members share company-specific interview formats, take-home assignment tips, and portfolio review feedback from real hiring loops.",
+    "label": "Find Interview Partners",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Jobscan: ATS and interview prep guidance",
+      "url": "https://www.jobscan.co/blog/"
+    },
+    {
+      "label": "HireVue candidate preparation resources",
+      "url": "https://www.hirevue.com/resources"
+    },
+    {
+      "label": "SHRM recruiting technology and interview format research",
+      "url": "https://www.shrm.org/topics-tools/topics/technology"
+    },
+    {
+      "label": "Harvard Business Review on interview design",
+      "url": "https://hbr.org/search?term=interview%20design"
+    }
+  ]
+}

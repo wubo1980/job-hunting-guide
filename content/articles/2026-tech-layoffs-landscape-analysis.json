@@ -1,0 +1,64 @@
+{
+  "slug": "2026-tech-layoffs-landscape-analysis",
+  "category": "job-search-mindset",
+  "title": "2026 Tech Layoffs: What 113,000 Cuts Actually Tell Job Seekers",
+  "description": "The layoff headline matters less than where cuts cluster and where hiring remains active. Use the 2026 data to decide how to position, pivot, and prioritize.",
+  "publishedAt": "2026-05-31",
+  "readingTime": "8 min read",
+  "tags": [
+    "Layoff Analysis",
+    "Market Trends",
+    "2026"
+  ],
+  "sections": [
+    {
+      "title": "The headline number is only the starting point",
+      "content": [
+        "More than 113,000 tech layoffs in 2026 is a useful signal, but it does not tell you how to search. The better question is where cuts are concentrated. Are they hitting recruiting, internal tooling, middle management, entry-level software roles, or speculative AI-adjacent bets that failed to monetize? Those distinctions matter because they shape how crowded each applicant pool becomes.",
+        "Challenger, Gray & Christmas reporting has repeatedly shown that AI is now being cited directly as a reason for some workforce reductions. That does not mean AI replaced every affected worker one-for-one. It means leaders are using AI adoption, efficiency pressure, and investor expectations to justify smaller teams and tighter hiring.",
+        "For job seekers, the implication is practical: if you stay in a role family where employers think AI already lowered headcount needs, your positioning must be sharper. General competence is no longer enough when companies believe software can absorb part of the workload."
+      ]
+    },
+    {
+      "title": "Where opportunities still exist",
+      "content": [
+        "Even in a weak market, hiring does not stop everywhere. Roles linked to revenue, security, compliance, customer retention, and high-accountability operations often hold up better because the cost of failure is visible. The same is true for roles where AI increases workload supervision rather than removing the need for humans.",
+        "This is why job seekers should track not just layoffs but organizational priorities. A company cutting broad product teams may still hire for infrastructure reliability, enterprise sales engineering, implementation, trust and safety, or governance. The macro story is down, but the micro story is uneven.",
+        "That unevenness creates an opening for candidates who can reposition. If your old title is saturated, do not cling to it purely for identity reasons. Translate your background into the problem areas companies still fund."
+      ],
+      "bullets": [
+        "Map your past work to revenue protection, cost control, risk reduction, or customer retention.",
+        "Study job titles one layer adjacent to your old role instead of only exact matches.",
+        "Use layoff data to avoid crowded pools, not just to confirm your fear."
+      ]
+    },
+    {
+      "title": "What job seekers should do with the data this month",
+      "content": [
+        "First, stop treating the market as a single mood. Break it into segments: geography, industry, company stage, and function. Second, update your resume and LinkedIn around business outcomes that survive austerity. Third, prioritize channels that bypass volume, especially referrals and informed outreach.",
+        "The people who adapt fastest in a contraction are rarely the ones who know the most headlines. They are the ones who convert headlines into a narrower search strategy. If AI is compressing some parts of the market, your answer is not despair. It is better targeting, better positioning, and faster feedback loops.",
+        "Data should reduce confusion, not increase doom. Use it to decide where not to spend your next twenty hours."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Make sense of the market with other candidates",
+    "body": "The Discord community tracks hiring pockets, layoff patterns, and role shifts so you can adapt faster than generic job-board advice allows.",
+    "label": "Track The Market Together",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Challenger, Gray & Christmas monthly job cuts reports",
+      "url": "https://www.challengergray.com/blog/"
+    },
+    {
+      "label": "CompTIA state of the tech workforce resources",
+      "url": "https://www.comptia.org/content/research"
+    },
+    {
+      "label": "LinkedIn workforce and hiring trend data",
+      "url": "https://economicgraph.linkedin.com/"
+    }
+  ]
+}

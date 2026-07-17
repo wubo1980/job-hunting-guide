@@ -6,7 +6,7 @@ import { siteConfig } from "@/lib/site-config";
 export const dynamic = "force-static";
 
 /** Generates a sitemap from local categories and article routes. */
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: siteConfig.url,
@@ -16,14 +16,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ];
 
-  const categoryRoutes: MetadataRoute.Sitemap = getCategories().map((category) => ({
+  const categories = await getCategories();
+  const articles = await getArticles();
+
+  const categoryRoutes: MetadataRoute.Sitemap = categories.map((category) => ({
     url: `${siteConfig.url}/${category.slug}`,
     lastModified: new Date("2026-06-01"),
     changeFrequency: "weekly",
     priority: 0.8,
   }));
 
-  const articleRoutes: MetadataRoute.Sitemap = getArticles().map((article) => ({
+  const articleRoutes: MetadataRoute.Sitemap = articles.map((article) => ({
     url: `${siteConfig.url}/articles/${article.slug}`,
     lastModified: new Date(article.publishedAt),
     changeFrequency: "monthly",

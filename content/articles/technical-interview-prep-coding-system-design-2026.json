@@ -1,0 +1,76 @@
+{
+  "slug": "technical-interview-prep-coding-system-design-2026",
+  "category": "interview-prep",
+  "title": "How to Prepare for Coding & System Design Interviews in 2026",
+  "description": "Fifteen thousand tech professionals face coding interviews weekly. Use a structured framework combining LeetCode strategy, system design fundamentals, and behavioral preparation aligned with 2026 hiring trends.",
+  "publishedAt": "2026-06-27",
+  "readingTime": "10 min read",
+  "featured": true,
+  "tags": [
+    "Technical Interview",
+    "Coding Interview",
+    "System Design",
+    "Interview Prep"
+  ],
+  "sections": [
+    {
+      "title": "Why a structure-first approach beats hours-based preparation",
+      "content": [
+        "Many candidates prepare by volume alone: grind 200 LeetCode problems, watch system design videos passively, and hope the interview matches what they studied. Market data from KORE1 shows that senior cloud, security, and AI infrastructure roles close in two to four weeks in 2026, meaning interview windows are compressed and preparation must be targeted.",
+        "A structure-first approach asks different questions. Instead of how many problems did you solve, it asks what patterns did you cover. Instead of reading system design primers linearly, it builds a reusable framework adaptable to any prompt. This guide walks through a four-phase preparation cycle aligned with the latest interview trends and hiring data."
+      ]
+    },
+    {
+      "title": "Phase one: Map the interview landscape before you code",
+      "content": [
+        "Not all technical interviews test the same things. A startup round may focus on practical architecture and shipping speed. A FAANG loop emphasizes algorithmic depth, behavioral density, and system design breadth. Before writing code, understand which type you are preparing for.",
+        "Search recent interview experiences on Blind and Levels.fyi filtered by company and level. The format mix changes quickly. Use the job-hunting Discord where candidates share real-time interview format updates from current hiring loops.",
+        "Once you know the format mix, allocate your preparation proportionally. If three of four rounds are system design, do not spend 80 percent of your time on LeetCode. A targeted allocation is more efficient than a generic one."
+      ]
+    },
+    {
+      "title": "Phase two: Build a coding pattern library, not a problem count",
+      "content": [
+        "The 2026 interview market still relies heavily on algorithmic problem-solving for mid-to-senior roles. But the scoring has shifted. Interviewers now value clarity of thought over speed of completion. A candidate who solves a medium problem in 30 minutes with clean explanations often scores higher than someone who finishes fast with an unreadable solution.",
+        "Build a pattern library around core data structure families: arrays and strings, hash maps, two pointers, sliding window, trees and graphs, dynamic programming, and intervals. For each family, learn one or two canonical problems deeply. The ability to recognize which pattern a new problem belongs to is more valuable than memorizing specific solutions.",
+        "Practice explaining your approach aloud before writing code. Read the problem, restate it, state your approach and time complexity, write code, then test with examples. This sequence mirrors what interviewers expect and builds structured communication muscle memory."
+      ]
+    },
+    {
+      "title": "Phase three: System design is a conversation, not a presentation",
+      "content": [
+        "System design rounds carry the highest weight at most senior-level loops yet are the least practiced. The common mistake is treating them as one-way presentations with candidate drawing boxes and waiting for the next prompt.",
+        "A stronger approach treats system design as a collaborative conversation. Start by clarifying requirements: scale, non-functional requirements, acceptable tradeoffs. Propose a high-level design before diving into components. The interviewer wants to see your process for handling ambiguity and identifying bottlenecks.",
+        "Resources like the System Design Primer on GitHub and Grokking courses provide structured frameworks. Build a reusable mental model covering DNS, load balancers, API gateways, service architecture, caching layers, database choices, async processing, and monitoring. Rehearse it across different prompts."
+      ]
+    },
+    {
+      "title": "Phase four: Integrate behavioral answers with technical evidence",
+      "content": [
+        "The companies that run separate behavioral rounds still evaluate you on technical judgment. A strong behavioral answer connects a past situation to a measurable technical outcome.",
+        "Prepare five stories linking a decision to a result. For example: I chose DynamoDB over PostgreSQL for a time-series workload because read patterns were write-heavy and we needed single-digit millisecond latency at 20K writes per second, cutting p99 latency by 60 percent. That demonstrates technical judgment and outcome awareness in one frame.",
+        "The interview format guide at /articles/how-to-prepare-for-any-2026-interview-format covers additional detail on tailoring preparation to each format type. The salary negotiation guide at /articles/salary-negotiation-weak-market-2026 explains how strong offer leverage starts with how you frame past impact."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Practice interviews with peers who know the 2026 market",
+    "body": "Join the Discord to share interview experiences, format changes, and company-specific prep tips from active hiring loops.",
+    "label": "Join Interview Prep",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "KORE1 tech job market forecast Q3 2026",
+      "url": "https://www.kore1.com/tech-job-market-forecast-q3-2026/"
+    },
+    {
+      "label": "LeetCode interview preparation platform",
+      "url": "https://leetcode.com"
+    },
+    {
+      "label": "System Design Primer on GitHub",
+      "url": "https://github.com/donnemartin/system-design-primer"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "ai-job-search",
+    "name": "AI Job Search",
+    "shortDescription": "Beat ATS filters, identify ghost listings, and adapt your search to AI-heavy hiring funnels.",
+    "heroTitle": "Compete Smarter In An AI-Filtered Job Market",
+    "heroDescription": "Use practical tactics to survive automated screening, fake listings, and low-signal hiring pipelines without wasting your best hours.",
+    "accent": "from-emerald-400 to-cyan-400",
+    "icon": "cpu"
+  },
+  {
+    "slug": "career-pivot",
+    "name": "Career Pivot",
+    "shortDescription": "Plan a realistic transition after layoffs, skill shifts, or AI disruption.",
+    "heroTitle": "Build A Career Pivot That Pays Bills, Not Just Hope",
+    "heroDescription": "Translate your experience into safer roles, shorter transition paths, and clearer positioning for a market that no longer rewards generic resumes.",
+    "accent": "from-cyan-400 to-sky-400",
+    "icon": "refreshCcw"
+  },
+  {
+    "slug": "job-search-mindset",
+    "name": "Job Search Mindset",
+    "shortDescription": "Stay functional under rejection, uncertainty, and financial pressure.",
+    "heroTitle": "Protect Your Judgment While The Search Gets Personal",
+    "heroDescription": "Use evidence-based routines and emotional safeguards to stop job search stress from destroying momentum, confidence, and decision quality.",
+    "accent": "from-emerald-400 to-teal-400",
+    "icon": "brain"
+  },
+  {
+    "slug": "interview-prep",
+    "name": "Interview Prep",
+    "shortDescription": "Prepare for AI interviewers, behavioral rounds, and remote hiring loops.",
+    "heroTitle": "Train For Interviews That Feel Less Human Than Ever",
+    "heroDescription": "Handle AI screens, remote panels, and behavior-heavy interviews with structured preparation that works under pressure.",
+    "accent": "from-blue-400 to-emerald-400",
+    "icon": "briefcaseBusiness"
+  }
+]

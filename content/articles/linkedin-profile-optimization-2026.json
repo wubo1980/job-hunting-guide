@@ -1,0 +1,95 @@
+{
+  "slug": "linkedin-profile-optimization-2026",
+  "category": "ai-job-search",
+  "title": "LinkedIn Profile Optimization for the 2026 Job Market",
+  "description": "Recruiters search LinkedIn differently in 2026. Improve your headline, summary, experience, and keywords so both AI filters and human recruiters find you first — before you even apply.",
+  "publishedAt": "2026-07-04",
+  "readingTime": "9 min read",
+  "featured": true,
+  "tags": [
+    "LinkedIn",
+    "Profile Optimization",
+    "Personal Branding",
+    "Job Search",
+    "Recruiter Outreach"
+  ],
+  "sections": [
+    {
+      "title": "Why your LinkedIn profile matters more in 2026 than ever",
+      "content": [
+        "The job market in 2026 produces 113,000-plus tech layoffs, ghost listings that waste candidate attention, and ATS filters that reject 75 percent of applications before a human ever sees them. In that environment, the highest-build action you can take is making your LinkedIn profile discoverable before you apply.",
+        "LinkedIn reports that recruiters spend an average of 7.4 seconds scanning a profile before deciding to send a message. In 2026, with AI-assisted recruiter tools scanning profiles at scale, that attention window is even shorter. Your profile either signals fit in those seconds or it does not.",
+        "A strong profile does not just help inbound. It changes the power dynamic of your job search. When a recruiter finds you before you apply, you are no longer a commodity applicant. You are a candidate who was identified for demonstrated capability. The salary negotiation guide at /articles/salary-negotiation-weak-market-2026 explains how inbound-recruited candidates command 10 to 20 percent higher starting offers than cold applicants."
+      ]
+    },
+    {
+      "title": "Step one: Improve your headline for recruiter search queries",
+      "content": [
+        "The headline is the most indexed field on LinkedIn. Recruiters search by headline keywords first, then scan profiles. If your headline says 'Unemployed and Looking for Opportunities,' you are optimizing for pity, not discovery. Replace it with a role-specific value statement that contains the exact title and keywords recruiters use.",
+        "A strong headline follows this format: [Target Title] | [Key Skill] | [Industry/Domain] | [Value Metric or Differentiator]. For example: Cloud Infrastructure Engineer | AWS, Kubernetes, Terraform | Reduced deployment time by 60 percent at Series B SaaS companies.",
+        "Avoid buzzword-only headlines like 'Results-driven leader with a passion for innovation.' These contain zero search value. Every word in your headline should be an indexable keyword or a credible differentiator. Update your headline every time you shift target role families.",
+        "LinkedIn allows 220 characters for headlines. Use every character. Test different headlines by monitoring InMail response rates for two weeks per variant. The headline that produces the most recruiter outreach is the one to keep."
+      ]
+    },
+    {
+      "title": "Step two: Rewrite your About section around problems, not titles",
+      "content": [
+        "The About section is the second most important SEO field on a LinkedIn profile. Most profiles waste this space with a first-person career summary. A better approach is a problem-led summary that mirrors how companies hire: they have a problem, and they are looking for someone who has solved it before.",
+        "Structure your About section as: opening hook (one sentence defining the problem you solve), evidence block (three bullet points showing specific outcomes with metrics), and closing call to action (what type of opportunity you are exploring). Aim for 150 to 250 words. Longer summaries lose skimmers.",
+        "For example: 'I help SaaS companies reduce cloud infrastructure costs without sacrificing reliability. At my previous company, I cut AWS spending by 35 percent ($1.2M annual savings) while improving p99 latency by 40 percent. Currently exploring senior cloud engineering roles at growth-stage companies.'",
+        "Avoid phrases like 'I am passionate about' or 'I am looking for new challenges.' These are filler. Replace them with domain-specific language that shows depth. The AI resume optimization framework at /articles/ai-resume-optimization-5-step-framework provides additional guidance on translating your career story into keyword-rich professional writing."
+      ]
+    },
+    {
+      "title": "Step three: Improve your experience section for scanning, not reading",
+      "content": [
+        "Recruiters scan experience sections in seconds. Write each role as a scannable evidence block: one line for company and title, followed by three to four bullet points. Each bullet point should start with a strong action verb and end with a quantified result.",
+        "Include keywords from your target job descriptions in your bullet points. If the target role asks for 'Kubernetes cluster management' and your current bullet says 'managed cloud infrastructure,' rewrite it to 'Managed Kubernetes clusters across 12 production namespaces serving 500K daily active users.'",
+        "Do not list responsibilities. List outcomes. 'Responsible for the team's release process' is a responsibility. 'Reduced release cycle from two weeks to three days by implementing CI/CD pipeline with automated testing' is an outcome. The resume guide at /articles/ai-resume-optimization-5-step-framework has detailed frameworks for converting responsibilities into impact statements.",
+        "Set your experience section to show the last 10 to 15 years. Anything older becomes noise. Create a 'Earlier Career' section for roles before 2016 to preserve context without cluttering recruiter scan time."
+      ]
+    },
+    {
+      "title": "Step four: Build LinkedIn features that boost discoverability",
+      "content": [
+        "Several LinkedIn features directly impact your search ranking but are underused by most job seekers. Enable #OpenToWork but set it to 'Recruiters Only' visibility — this signals availability to recruiters without broadcasting desperation to your current network.",
+        "Add all relevant skills to your Skills section and ask for endorsements from former colleagues. LinkedIn's algorithm uses skill endorsements as a ranking signal. Prioritize skills that appear in your target job descriptions rather than generic skills like 'Microsoft Office.'",
+        "Set your location and industry filters to match target opportunities. If you are willing to relocate, list both current and target locations. Publish or repost content weekly — even a short comment on an industry article — to signal active engagement. The networking guide at /articles/how-to-network-for-a-job-in-2026 includes a content-sharing strategy specifically designed to attract recruiter attention.",
+        "Request recommendations from former managers and peers. A strong recommendation that mentions specific project outcomes is one of the highest trust signals on a LinkedIn profile. Space out recommendations over several weeks rather than requesting all at once."
+      ]
+    },
+    {
+      "title": "Step five: Run a monthly profile audit",
+      "content": [
+        "The job market changes, and your LinkedIn profile should change with it. Run a monthly audit checking: headline alignment with current target role, keyword density matching recent job descriptions, recent activity visible (comments, posts, or articles), and recruiter InMail volume trending up or down.",
+        "If InMail volume has dropped, your profile may be falling out of search results. Refresh keywords, add a new skill, publish a post, or request new endorsements to signal recency to LinkedIn's algorithm. Profile recency is a known ranking factor.",
+        "The career pivot pathways guide at /articles/career-pivot-pathways-2026-cloud-ai-security outlines how to reposition your profile for a transition into cloud, security, AI, or data roles. The reframing strategy applies the same principles at the level of career identity rather than just keyword placement.",
+        "A well-maintained LinkedIn profile is not vanity. It is the most cost-effective job search tool available in 2026. If you spend five hours building it right and another thirty minutes per month maintaining it, the return on that time exceeds any other single job search investment you can make."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Get real LinkedIn feedback from people who hire",
+    "body": "Inside the Discord, members share their LinkedIn profiles for review, swap headline experiments, and track which optimization tactics actually increase recruiter outreach.",
+    "label": "Review Profiles",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "LinkedIn official profile optimization guidance",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a522906"
+    },
+    {
+      "label": "Jobscan ATS and LinkedIn optimization blog",
+      "url": "https://www.jobscan.co/blog/"
+    },
+    {
+      "label": "Monster Resume Trends 2026",
+      "url": "https://www.monster.com/career-advice/resume/resume-trends"
+    },
+    {
+      "label": "Huntr: 6 Data-Backed Job Search Strategies 2026",
+      "url": "https://huntr.co/blog/job-search-tips"
+    }
+  ]
+}

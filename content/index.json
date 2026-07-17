@@ -1,0 +1,380 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-07-17",
+  "articles": [
+    {
+      "slug": "technical-interview-prep-coding-system-design-2026",
+      "category": "interview-prep",
+      "title": "How to Prepare for Coding & System Design Interviews in 2026",
+      "description": "Fifteen thousand tech professionals face coding interviews weekly. Use a structured framework combining LeetCode strategy, system design fundamentals, and behavioral preparation aligned with 2026 hiring trends.",
+      "publishedAt": "2026-06-27",
+      "readingTime": "10 min read",
+      "tags": [
+        "Technical Interview",
+        "Coding Interview",
+        "System Design",
+        "Interview Prep"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "ai-tools-job-search-chatgpt-claude-2026",
+      "category": "ai-job-search",
+      "title": "How to Use ChatGPT & Claude to Accelerate Your 2026 Job Search",
+      "description": "Job seekers who use AI tools effectively shorten their search cycle by weeks. Learn which parts of a job search AI can accelerate and where human judgment still decides the outcome.",
+      "publishedAt": "2026-06-27",
+      "readingTime": "9 min read",
+      "tags": [
+        "AI Tools",
+        "ChatGPT",
+        "Claude",
+        "Job Search",
+        "Resume Optimization"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "financially-survive-tech-layoff-guide-2026",
+      "category": "job-search-mindset",
+      "title": "How to Financially Survive a Tech Layoff: COBRA, Cash Flow & Insurance",
+      "description": "A seven-day financial survival plan for laid-off tech workers covering severance negotiation, COBRA insurance decisions, unemployment benefits, cash flow budgeting, and smart side income strategies.",
+      "publishedAt": "2026-06-27",
+      "readingTime": "8 min read",
+      "tags": [
+        "Layoff",
+        "Financial Planning",
+        "COBRA",
+        "Unemployment",
+        "Side Income"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "entry-level-tech-job-guide-2026-graduates",
+      "category": "ai-job-search",
+      "title": "The 2026 Entry Level Tech Job Guide for Graduates & Career Changers",
+      "description": "Entry-level hiring remains tight in 2026. Target your search with a portfolio-first strategy, skills-based hiring, AI tools, and structured networking to land your first tech role.",
+      "publishedAt": "2026-06-27",
+      "readingTime": "9 min read",
+      "tags": [
+        "Entry Level",
+        "New Grad",
+        "Career Changer",
+        "Portfolio",
+        "Networking",
+        "2026"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "career-pivot-pathways-2026-cloud-ai-security",
+      "category": "career-pivot",
+      "title": "5 Career Pivot Pathways for 2026: Cloud, Security, AI, Data & DevOps",
+      "description": "Five realistic career transition paths for tech professionals in 2026. Compare cloud engineering, cybersecurity, AI and ML, data analytics, and DevOps across demand, training timeline, certification cost, and median salary.",
+      "publishedAt": "2026-06-27",
+      "readingTime": "10 min read",
+      "tags": [
+        "Career Pivot",
+        "Cloud Computing",
+        "Cybersecurity",
+        "AI",
+        "DevOps",
+        "Data Analytics"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "how-to-spot-ghost-jobs",
+      "category": "ai-job-search",
+      "title": "How To Spot Ghost Jobs Before They Waste Your Week",
+      "description": "One in four listings may not represent an active hire. Learn how to read the signals from job descriptions, hiring flow, and company behavior before you invest time.",
+      "publishedAt": "2026-05-14",
+      "readingTime": "7 min read",
+      "tags": [
+        "Ghost Jobs",
+        "Hiring Signals",
+        "Job Search"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "ai-resume-optimization-5-step-framework",
+      "category": "ai-job-search",
+      "title": "AI Resume Optimization: A 5-Step Framework That Survives ATS Filters",
+      "description": "ATS systems decide which resumes a recruiter sees first. Use a five-step framework to improve keyword match, readability, quantified impact, and AI-assisted editing.",
+      "publishedAt": "2026-05-18",
+      "readingTime": "8 min read",
+      "tags": [
+        "ATS",
+        "Resume",
+        "AI Tools"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "30-day-post-layoff-action-plan",
+      "category": "career-pivot",
+      "title": "A 30-Day Post-Layoff Action Plan For Regaining Stability",
+      "description": "The first month after a layoff is chaotic and high-leverage. Use a four-week action plan to stabilize cash, routines, messaging, and search momentum.",
+      "publishedAt": "2026-05-22",
+      "readingTime": "8 min read",
+      "tags": [
+        "Layoffs",
+        "Recovery Plan",
+        "Career Pivot"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "jobs-ai-wont-replace-in-2026",
+      "category": "career-pivot",
+      "title": "10 Job Categories AI Still Struggles To Replace In 2026",
+      "description": "AI removes task bundles, not every full role. Focus on job categories where physical presence, trust, judgment, or relationship labor remain hard to automate.",
+      "publishedAt": "2026-05-25",
+      "readingTime": "7 min read",
+      "tags": [
+        "Career Safety",
+        "AI Disruption",
+        "Labor Market"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "how-to-pass-an-ai-interview",
+      "category": "interview-prep",
+      "title": "When The First Interviewer Is AI: How To Prepare Without Sounding Robotic",
+      "description": "AI screening interviews are becoming normal. Learn what these tools actually measure, how to structure answers, and where candidates usually fail.",
+      "publishedAt": "2026-05-27",
+      "readingTime": "7 min read",
+      "tags": [
+        "AI Interview",
+        "Behavioral Interview",
+        "Preparation"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "breaking-down-job-search-anxiety",
+      "category": "job-search-mindset",
+      "title": "Breaking Down Job Search Anxiety Before It Becomes Self-Sabotage",
+      "description": "Extended job searching creates fear, avoidance, and identity strain. Use five practical tools to restore structure, reduce spirals, and keep momentum.",
+      "publishedAt": "2026-05-29",
+      "readingTime": "7 min read",
+      "tags": [
+        "Anxiety",
+        "Routine",
+        "Mental Health"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "2026-tech-layoffs-landscape-analysis",
+      "category": "job-search-mindset",
+      "title": "2026 Tech Layoffs: What 113,000 Cuts Actually Tell Job Seekers",
+      "description": "The layoff headline matters less than where cuts cluster and where hiring remains active. Use the 2026 data to decide how to position, pivot, and prioritize.",
+      "publishedAt": "2026-05-31",
+      "readingTime": "8 min read",
+      "tags": [
+        "Layoff Analysis",
+        "Market Trends",
+        "2026"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "skills-based-hiring-2026-guide",
+      "category": "ai-job-search",
+      "title": "Skills-Based Hiring in 2026: Prove Your Value Without a Degree",
+      "description": "Employers are moving past degrees. Use a three-phase framework to find skills-based roles, build verifiable portfolios, and sell your abilities in 2026 interviews.",
+      "publishedAt": "2026-06-13",
+      "readingTime": "7 min read",
+      "tags": [
+        "Skills-Based Hiring",
+        "Portfolio Strategy",
+        "2026 Job Market"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "how-to-network-for-a-job-in-2026",
+      "category": "ai-job-search",
+      "title": "How to Network for a Job in 2026 (When Cold Applying Stopped Working)",
+      "description": "Cold applications are failing more than ever. Use a structured networking system to reach the right people, earn referrals, and skip the volume game in a market where inbound is cooked.",
+      "publishedAt": "2026-06-20",
+      "readingTime": "8 min read",
+      "tags": [
+        "Networking",
+        "Referrals",
+        "2026 Job Market"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "how-to-prepare-for-any-2026-interview-format",
+      "category": "interview-prep",
+      "title": "How to Prepare for Every Type of 2026 Interview (Behavioral, Case, Take-Home, and Portfolio Review)",
+      "description": "Employers use four distinct interview formats in 2026. Learn what each tests, how to prepare, and common traps that quietly lower your score across every format.",
+      "publishedAt": "2026-06-20",
+      "readingTime": "9 min read",
+      "tags": [
+        "Interview Prep",
+        "Behavioral Interview",
+        "Portfolio Review",
+        "Case Interview"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "how-to-recover-from-job-search-burnout",
+      "category": "job-search-mindset",
+      "title": "How to Recover From Job Search Burnout (Without Stopping Your Search)",
+      "description": "Extended job searching causes mental exhaustion that compounds over time. Use five evidence-based strategies to recover decision quality, restore confidence, and keep moving without collapsing.",
+      "publishedAt": "2026-06-20",
+      "readingTime": "7 min read",
+      "tags": [
+        "Burnout",
+        "Job Search",
+        "Mental Health",
+        "Recovery"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "salary-negotiation-weak-market-2026",
+      "category": "interview-prep",
+      "title": "Salary Negotiation in a Weak Market: Counter Offers in 2026",
+      "description": "Tech professionals who negotiate earn $24,479 more annually. Learn to counter offers when leverage is lower and base salaries have dropped below 2022 peak levels.",
+      "publishedAt": "2026-06-24",
+      "readingTime": "8 min read",
+      "tags": [
+        "Salary Negotiation",
+        "Offer Strategy",
+        "Compensation"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "linkedin-profile-optimization-2026",
+      "category": "ai-job-search",
+      "title": "LinkedIn Profile Optimization 2026: How Recruiters Find You",
+      "description": "Recruiters source 87% of candidates via LinkedIn search. Optimize your headline, about section, and skills to rank first when recruiters look for candidates.",
+      "publishedAt": "2026-06-24",
+      "readingTime": "7 min read",
+      "tags": [
+        "LinkedIn",
+        "Profile Optimization",
+        "Recruiter Search"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "layoff-boomerang-rehire-negotiation-2026",
+      "category": "career-pivot",
+      "title": "The 'Layoff Boomerang': How to Handle a Rehire Offer After an AI-Driven Layoff",
+      "description": "Companies are laying off workers for 'AI efficiency gains' and quietly rehiring them at 40% less. Learn how to evaluate a layoff boomerang offer, negotiate better terms, and protect your career trajectory without accepting a permanent pay cut.",
+      "publishedAt": "2026-06-29",
+      "readingTime": "9 min read",
+      "tags": [
+        "Layoff Boomerang",
+        "Rehire",
+        "Salary Negotiation",
+        "Career Pivot"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "negotiate-remote-work-2026-rto",
+      "category": "ai-job-search",
+      "title": "How to Negotiate Remote Work in 2026 (When RTO Pressure Is Real)",
+      "description": "62% of tech companies still offer remote options, but RTO mandates are tightening. Learn five evidence-backed strategies to negotiate remote work in 2026, from offer-stage leverage to performance-based renegotiation.",
+      "publishedAt": "2026-06-29",
+      "readingTime": "8 min read",
+      "tags": [
+        "Remote Work",
+        "RTO",
+        "Salary Negotiation",
+        "Work Flexibility"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "best-job-search-platforms-2026",
+      "category": "ai-job-search",
+      "title": "Best Job Search Platforms in 2026: Where to Actually Find Jobs",
+      "description": "LinkedIn and Indeed are no longer enough. Evaluate 10+ job search platforms for 2026 across quality, response rate, role type fit, and AI features to decide where your search time generates the highest return.",
+      "publishedAt": "2026-06-29",
+      "readingTime": "9 min read",
+      "tags": [
+        "Job Platforms",
+        "Job Boards",
+        "Job Search Tools",
+        "2026"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "senior-engineer-job-search-struggles-2026",
+      "category": "job-search-mindset",
+      "title": "Why Senior Engineers Are Struggling to Find Jobs in 2026",
+      "description": "183,966 tech workers laid off in 2026 — and senior engineers with 10+ years of experience are facing unexpected rejection. Learn why experience cuts both ways and how to reframe your search strategy for the two-tier job market.",
+      "publishedAt": "2026-06-29",
+      "readingTime": "8 min read",
+      "tags": [
+        "Senior Engineer",
+        "Layoffs",
+        "Job Search",
+        "Two-Tier Market"
+      ],
+      "featured": false
+    },
+    {
+      "slug": "linkedin-profile-optimization-2026",
+      "category": "ai-job-search",
+      "title": "LinkedIn Profile Optimization for the 2026 Job Market",
+      "description": "Recruiters search LinkedIn differently in 2026. Improve your headline, summary, experience, and keywords so both AI filters and human recruiters find you first — before you even apply.",
+      "publishedAt": "2026-07-04",
+      "readingTime": "9 min read",
+      "tags": [
+        "LinkedIn",
+        "Profile Optimization",
+        "Personal Branding",
+        "Job Search",
+        "Recruiter Outreach"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "salary-negotiation-weak-market-2026",
+      "category": "interview-prep",
+      "title": "How to Negotiate a Job Offer in a Weak Job Market (2026 Guide)",
+      "description": "Can you still negotiate when 63 percent of CEOs are freezing hiring? Yes — if you negotiate differently. Learn a data-backed framework for pricing, positioning, and preserving offers in a buyer's market.",
+      "publishedAt": "2026-07-04",
+      "readingTime": "8 min read",
+      "tags": [
+        "Salary Negotiation",
+        "Job Offer",
+        "Compensation",
+        "Interview Prep",
+        "2026 Job Market"
+      ],
+      "featured": true
+    },
+    {
+      "slug": "ai-career-pivot-non-technical-2026",
+      "category": "career-pivot",
+      "title": "How to Pivot Into an AI Career in 2026 Without a CS Degree",
+      "description": "70% of AI-related job postings in 2026 don't require a CS degree. Discover six realistic pathways into AI-adjacent roles, with concrete timelines, salary ranges, and transition plans for non-technical professionals.",
+      "publishedAt": "2026-07-06",
+      "readingTime": "11 min read",
+      "tags": [
+        "AI Career",
+        "Career Pivot",
+        "Non-Technical",
+        "AI PM",
+        "AI Product",
+        "AI Career Change"
+      ],
+      "featured": false
+    }
+  ]
+}

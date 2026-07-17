@@ -1,0 +1,87 @@
+{
+  "slug": "layoff-boomerang-rehire-negotiation-2026",
+  "category": "career-pivot",
+  "title": "The 'Layoff Boomerang': How to Handle a Rehire Offer After an AI-Driven Layoff",
+  "description": "Companies are laying off workers for 'AI efficiency gains' and quietly rehiring them at 40% less. Learn how to evaluate a layoff boomerang offer, negotiate better terms, and protect your career trajectory without accepting a permanent pay cut.",
+  "publishedAt": "2026-06-29",
+  "readingTime": "9 min read",
+  "featured": true,
+  "tags": [
+    "Layoff Boomerang",
+    "Rehire",
+    "Salary Negotiation",
+    "Career Pivot"
+  ],
+  "sections": [
+    {
+      "title": "The layoff boomerang is real and growing",
+      "content": [
+        "In June 2026, a viral Stackademic post described something that career coaches and recruiters had been watching in private channels for months: a FAANG engineer laid off for 'AI efficiency gains' was rehired six weeks later by the same company at a 40 percent lower salary. The post triggered widespread discussion on Reddit, Blind, and LinkedIn, with hundreds of commenters sharing similar experiences at companies ranging from mid-market SaaS firms to Fortune 500 enterprises.",
+        "Lowdown Today reported that Q1 2026 global tech layoffs reached 45,363, with a fifth explicitly citing AI. More striking: approximately half of those cuts could eventually be reversed as rehires, according to their analysis. Built In reported on June 22, 2026 that legal scholars are beginning to question whether the pattern of layoff-then-rehire-at-lower-pay constitutes a constructive form of wage discrimination.",
+        "The layoff boomerang presents a brutal calculus: accept a lower salary and return to familiar work, or refuse and restart your search in a market where 66 percent of CEOs have frozen or reduced hiring. Neither option is obviously better. The goal of this article is to give you a framework for making that decision with your eyes open."
+      ]
+    },
+    {
+      "title": "Why companies are using the boomerang tactic in 2026",
+      "content": [
+        "The economic logic behind the boomerang is straightforward but unpleasant. Companies face pressure to show AI-driven efficiency gains to investors. Laying off senior workers achieves that narrative. Six to twelve weeks later, they realize that AI did not replace the unstated parts of the role: institutional knowledge, cross-team coordination, client relationships, judgment calls under ambiguity, and the tribal knowledge of how internal systems actually work.",
+        "Rather than admit the layoff was premature or rebuild knowledge from scratch by hiring externally at market rates, some companies reach back to the same employees they let go, now at a lower salary band. The former employee's leverage has structurally weakened because they are already unemployed, and the employer knows exactly how long they have been searching.",
+        "The CEO survey data from LayoffReady shows that 66 percent of CEOs froze or reduced hiring in 2026, but that same survey found many were quietly approving 'critical backfills' — a euphemism for rehiring key roles they should never have cut. The boomerang is not a sign of benevolence. It is a consequence of rushed workforce planning."
+      ]
+    },
+    {
+      "title": "The three-question test before accepting a boomerang offer",
+      "content": [
+        "When the recruiter or former manager calls with a 'reconnect' pitch, the emotional pull is powerful. Familiarity. Reduced risk. Shortened search. But accepting a boomerang offer without structure risks locking you into a lower salary trajectory for years. Apply this three-question test before deciding.",
+        "Question one: What is the real salary gap? Compare the new offer against your previous total compensation, adjusted for market changes. If the gap is more than 20 percent, ask yourself whether this company values your work or is simply extracting a discount from your current vulnerability. Use the salary negotiation framework from /articles/salary-negotiation-weak-market-2026 to benchmark what a fair offer looks like.",
+        "Question two: Is the role functionally the same or meaningfully different? If the title, scope, and expectations are identical, the company is asking you to do the same work for less. If the role has shifted to a genuinely different problem set, the lower pay is more defensible, and the upside case is stronger: you are investing in a new capability.",
+        "Question three: What is your next leverage point? If you accept, when can you renegotiate? A six-month performance review is better than twelve. A clear milestone-based salary adjustment clause in the offer letter is better than a vague promise. If the company is unwilling to discuss future renegotiation terms, they are signaling that this discount is structural, not temporary."
+      ]
+    },
+    {
+      "title": "How to negotiate a boomerang offer without losing it",
+      "content": [
+        "Boomerang negotiation is unique because you know the internal dynamics, the budget constraints, and often the exact person who will advocate for you. Use that knowledge, but avoid an adversarial tone. The person calling you is probably embarrassed about how the layoff was handled.",
+        "Start with gratitude for the reach-out, then shift to specifics. 'I am genuinely interested in returning to the team. The offer is below what I was earning before. Can we discuss what flexibility exists?' Frame the gap in terms of market data, not personal grievance. Reference published salary benchmarks. Companies in 2026 are still bound by market pay bands even if they try to exploit your leverage gap.",
+        "If base salary is truly non-negotiable, push hard on signing bonus, equity refresh, performance review timing, and role scope. A $15,000 signing bonus and a six-month review window can close the total compensation gap significantly. The salary negotiation guide at /articles/salary-negotiation-weak-market-2026 covers specific tactics for each of these levers.",
+        "Be prepared to walk away. If the offer is 30 or 40 percent below your previous compensation with no path to recovery within 12 months, the boomerang has locked you into a backwards career step. The financial survival guide at /articles/financially-survive-tech-layoff-guide-2026 can help you calculate whether your runway supports a longer search."
+      ]
+    },
+    {
+      "title": "When to say no to the boomerang",
+      "content": [
+        "Refusing a boomerang offer is not failure. It is a strategic decision that the discount demanded exceeds the value of familiarity and reduced search friction. Three conditions make a 'no' the right call: first, the salary gap exceeds 30 percent with no renegotiation path. Second, the role scope has actually narrowed rather than evolved. Third, your runway from the layoff financial plan supports at least 8 to 12 more weeks of searching.",
+        "If you say no, do it cleanly and professionally. 'I really appreciate the offer and enjoyed working with the team. The current terms are not where I need them to be to make this work long-term, but I am open to staying in touch for future opportunities.' This keeps the relationship warm without accepting a bad deal.",
+        "If you do accept, document everything. The salary, the renegotiation timeline, and performance milestones in writing. The layoff boomerang can be a stepping stone back to stability, but only if you treat it as a bridge, not a destination."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Compare boomerang offers and negotiation strategies",
+    "body": "Inside the Discord, members share their layoff boomerang experiences, offer terms, and what worked in negotiation. Join to arm yourself with real data before your next offer call.",
+    "label": "Join The Boomerang Discussion",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Stackademic: I Got Laid Off From a FAANG… Six Weeks Later They Hired Me Back at 40% Less",
+      "url": "https://medium.com/@devcommando/i-got-laid-off-from-a-faang-after-ai-efficiency-gains-e3d3933e26df"
+    },
+    {
+      "label": "Built In: Will Companies Pay Later for Today's AI-Driven Layoffs?",
+      "url": "https://builtin.com/articles/ai-driven-layoffs-rehiring"
+    },
+    {
+      "label": "Lowdown Today: 45,000 tech layoffs, half may be reversed",
+      "url": "https://lowdown.today/t/ai-jobs-power-money/2/"
+    },
+    {
+      "label": "Rework.com: The AI Layoff Boomerang",
+      "url": "https://resources.rework.com/news/ai-jobs-skills/ai-layoff-boomerang-rehire-chro"
+    },
+    {
+      "label": "LayoffReady: AI hiring freeze and silent layoff 2026",
+      "url": "https://layoffready.co/blog/ai-hiring-freeze-2026-why-job-applications-arent-getting-responses"
+    }
+  ]
+}

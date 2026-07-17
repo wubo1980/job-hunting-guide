@@ -1,19 +1,25 @@
+import type { Metadata } from "next";
+
 import { CategoryOverview } from "@/components/category-overview";
 import { GuideCard } from "@/components/guide-card";
 import { HeroSection } from "@/components/hero-section";
-import { categories, homeHeroContent } from "@/lib/content/data";
-import { getLatestArticles } from "@/lib/content/queries";
+import { getCategories, getLatestArticles } from "@/lib/content/queries";
+import { getHomeHero } from "@/lib/content/content-reader";
 import { getHomeMetadata } from "@/lib/content/seo";
 
-export const metadata = getHomeMetadata();
+export async function generateMetadata(): Promise<Metadata> {
+  return getHomeMetadata();
+}
 
 /** Renders the homepage with hero copy, category navigation, and latest guides. */
-export default function Home() {
-  const latestArticles = getLatestArticles(4);
+export default async function Home() {
+  const categories = await getCategories();
+  const hero = await getHomeHero();
+  const latestArticles = await getLatestArticles(4);
 
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-col gap-14 px-4 py-8 sm:px-6 lg:px-8 lg:py-10">
-      <HeroSection content={homeHeroContent} />
+      <HeroSection content={hero} />
       <CategoryOverview categories={categories} />
       <section id="latest-articles" className="space-y-5">
         <div className="space-y-2">

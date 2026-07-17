@@ -1,0 +1,98 @@
+{
+  "slug": "best-job-search-platforms-2026",
+  "category": "ai-job-search",
+  "title": "Best Job Search Platforms in 2026: Where to Actually Find Jobs",
+  "description": "LinkedIn and Indeed are no longer enough. Evaluate 10+ job search platforms for 2026 across quality, response rate, role type fit, and AI features to decide where your search time generates the highest return.",
+  "publishedAt": "2026-06-29",
+  "readingTime": "9 min read",
+  "featured": false,
+  "tags": [
+    "Job Platforms",
+    "Job Boards",
+    "Job Search Tools",
+    "2026"
+  ],
+  "sections": [
+    {
+      "title": "The job board landscape has fragmented in 2026",
+      "content": [
+        "For years, the standard advice was simple: use LinkedIn, Indeed, and maybe Glassdoor. That advice is increasingly insufficient. The 2026 job market has fragmented across dozens of platforms, each with a different focus, signal quality, and response rate. Using the wrong platform for your role type is like fishing in an empty lake.",
+        "Built In's June 23, 2026 roundup of top job boards lists 20 platforms worth considering. VentureBurn's June 27 analysis identifies 10 search platforms that matter in 2026. Newer AI-powered tools like Scowter (which searches 150+ boards with a single query), ShouldApply (which scores your fit against every listing), and Workzil (AI job matching engine) are changing how candidates find opportunities.",
+        "This guide evaluates each platform across four dimensions: role type fit (which platforms work for which roles), signal quality (are the listings real or ghost jobs?), response rate (how often do applications convert?), and AI features (does the platform help or hinder your search?). The goal is to help you allocate your limited search time to the platforms that actually produce results for your profile."
+      ]
+    },
+    {
+      "title": "Platform category 1: Generalist aggregators",
+      "content": [
+        "LinkedIn remains the most important platform for professional roles, but its useful sources require strategy. The job board itself is increasingly noisy with ghost jobs and recruiter spam. The highest-leverage use of LinkedIn is not the job board but the networking and profile features. The LinkedIn optimization guide at /articles/linkedin-profile-optimization-2026 covers how to make your profile rank in recruiter search.",
+        "Indeed is the volume leader but has the worst signal-to-noise ratio. Ghost jobs are rampant on Indeed. Use Indeed for market research — see what roles exist and what keywords are common — but do not rely on it as your primary application channel.",
+        "Glassdoor offers salary data and company reviews that help with application targeting and interview preparation. Its job board is secondary to its intelligence features. Check Glassdoor for interview reviews and compensation benchmarks before applying anywhere.",
+        "Newer aggregators like Scowter (150+ boards in one search) and Workzil (AI matching from 50+ boards) are worth testing if your search is broad. The risk is that 'aggregating more listings' also aggregates more noise. Use their AI filtering features to narrow results by fit score rather than keyword."
+      ]
+    },
+    {
+      "title": "Platform category 2: Role-specific platforms",
+      "content": [
+        "Role-specific platforms often have higher signal density because they attract candidates and employers who are serious about a specific function.",
+        "For engineering roles: GitHub Jobs, Stack Overflow Jobs, and Hacker News Who Is Hiring threads offer direct access to tech employers. The HN monthly thread, in particular, has a higher ratio of real, decision-maker-posted listings than any other board. Apply from a personal website or GitHub profile link — resume-only applications often get overlooked here.",
+        "For design and product roles: Dribbble, Behance, and Authentic Jobs are strong. These platforms are portfolio-first, which aligns with the skills-based hiring trend. Having a polished portfolio visible before you apply significantly increases callback rates.",
+        "For data and analytics roles: Kaggle competitions and community job boards, KDNuggets, and Analytics Vidhya attract data-specific employers. A strong Kaggle profile or published analysis is an attention magnet for data-specific recruiters.",
+        "For executive and senior IC roles: Wellfound, Ladders, and Hired focus on pre-vetted candidates. These platforms ask you to submit a profile that employers browse rather than you applying to listings. A well-crafted profile on these platforms can generate inbound recruiter interest that bypasses application volume entirely."
+      ]
+    },
+    {
+      "title": "Platform category 3: AI-powered matching tools",
+      "content": [
+        "2026 has seen an explosion of AI-powered tools that promise to match you to the right roles automatically. Some are genuinely useful. Others add noise to an already noisy process.",
+        "ShouldApply evaluates your resume against every job listing and scores your fit, flagging skill gaps and alerting you when a strong match drops. This is genuinely useful because it helps you prioritize which applications to invest in. The danger is over-reliance: the scoring engine may miss cultural fit, company reputation, or whether a listing is a ghost job.",
+        "Workzil pulls jobs from 50+ boards and uses AI to score each one against your profile, then explains why it made the cut. The explanation feature is useful because it helps you understand what keywords and signals are driving matches, which improves your targeting over time.",
+        "The caveat with all AI matching tools is that they optimize for keyword match, not opportunity quality. A 95 percent match to a dead-end role is worse than a 60 percent match to a role with real growth. Use AI tools to surface candidates, but apply human judgment to evaluate which ones deserve your time."
+      ]
+    },
+    {
+      "title": "Platform category 4: Community and direct sourcing",
+      "content": [
+        "The highest-conversion job sources in 2026 are not job boards at all. They are communities and direct sourcing channels. Discord servers for specific tech stacks, Slack groups for industry transitions, and curated forums for career changers all have channels where opportunities appear before they reach job boards.",
+        "The networking guide at /articles/how-to-network-for-a-job-in-2026 explains why community-based sourcing outperforms cold applications: someone who has seen your name in a community context is far more likely to respond to an application or recommend you internally.",
+        "Direct sourcing through company career pages and employee referral programs remains the highest-conversion channel overall. If you know which companies you want to target, bypass the job boards entirely and focus on building referral relationships.",
+        "The skills-based hiring guide at /articles/skills-based-hiring-2026-guide covers how to position yourself for direct sourcing by building visible proof of your abilities before you need to apply. A strong portfolio and community presence create inbound opportunities that no job board can match."
+      ]
+    },
+    {
+      "title": "How to build your platform portfolio for 2026",
+      "content": [
+        "Rather than using all platforms equally, build a platform portfolio aligned with your role type and search stage. A recommended allocation for a typical tech job seeker: 40 percent of application time on role-specific platforms, 30 percent on community and direct sourcing, 20 percent on generalist aggregators, and 10 percent testing AI matching tools.",
+        "Track your conversion rate by platform. After 20 applications per platform, check which produced responses, interviews, and offers. Drop platforms with below-average response rates and double down on the ones that work for your specific profile.",
+        "The layoff financial survival guide at /articles/financially-survive-tech-layoff-guide-2026 can help you calculate how much search time you have. With that number, optimize your platform allocation to maximize interview yield per unit of search time. A targeted platform strategy beats a broad, unfocused one every time."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Compare platform experiences and response data",
+    "body": "Inside the Discord, members track which platforms generate real interviews, share ghost job warnings, and compare AI matching tool effectiveness across role types.",
+    "label": "Compare Platforms",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Built In: 20 Top Job Boards for Finding Your Next Role (2026)",
+      "url": "https://builtin.com/articles/top-job-boards"
+    },
+    {
+      "label": "VentureBurn: Where to Find Jobs Online — Top 10 Search Platforms in 2026",
+      "url": "https://ventureburn.com/where-to-find-jobs-online/"
+    },
+    {
+      "label": "Scowter: AI Job Search Engine — Search 150+ Boards",
+      "url": "https://scowter.com/ai-job-search"
+    },
+    {
+      "label": "ShouldApply: Know Your Fit Score Before You Apply",
+      "url": "https://shouldapply.com/"
+    },
+    {
+      "label": "Workzil: AI Job Search & AI Job Matching",
+      "url": "https://www.workzil.com/features/ai-job-matching"
+    }
+  ]
+}

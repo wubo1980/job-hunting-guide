@@ -1,0 +1,71 @@
+{
+  "slug": "ai-resume-optimization-5-step-framework",
+  "category": "ai-job-search",
+  "title": "AI Resume Optimization: A 5-Step Framework That Survives ATS Filters",
+  "description": "ATS systems decide which resumes a recruiter sees first. Use a five-step framework to improve keyword match, readability, quantified impact, and AI-assisted editing.",
+  "publishedAt": "2026-05-18",
+  "readingTime": "8 min read",
+  "featured": true,
+  "tags": [
+    "ATS",
+    "Resume",
+    "AI Tools"
+  ],
+  "sections": [
+    {
+      "title": "Step 1: Build a target-role resume, not a universal resume",
+      "content": [
+        "Most rejected resumes fail before quality becomes the issue. They fail because the document does not match the language of the role closely enough. ATS tools score titles, skills, tools, certifications, and phrase patterns. A generic 'software leader' resume may look strong to a human but still lose to a more aligned document.",
+        "Start by choosing one role family at a time. For example: backend engineer, data analyst, product operations manager. Then collect 15-20 recent job descriptions and mark repeated nouns and verb phrases. These repeated terms are your vocabulary map. You are not gaming the system with nonsense keywords. You are describing your experience in the language buyers use.",
+        "The output of this step is a role-specific master resume. It should be broad enough to reuse, but narrow enough that each application only needs light tailoring rather than a rewrite from zero."
+      ]
+    },
+    {
+      "title": "Step 2: Fix formatting before you chase wording",
+      "content": [
+        "ATS systems vary, but many still parse plain structures best. Keep the layout simple: one column, standard section headers, and no information hidden in text boxes or decorative tables. Human readers also benefit. A clean document signals credibility faster than a heavily designed one.",
+        "Use standard headings such as Summary, Experience, Skills, Education, and Certifications. Put dates and titles in consistent order. Avoid icons, unusual bullet symbols, headers packed with side-by-side columns, and dense blocks of jargon. If a recruiter has ten seconds, visual clarity is part of performance.",
+        "This is also where many people miss an easy win: include the exact job title you are targeting near the top if it matches your background honestly. Recruiters often scan for title alignment before they read accomplishments."
+      ],
+      "checklist": [
+        "Use one-column layout and standard headings.",
+        "Keep contact details and LinkedIn in normal text, not graphics.",
+        "Limit the resume to the strongest, role-relevant experience.",
+        "Export a clean PDF only if the employer accepts it; otherwise use DOCX when requested."
+      ]
+    },
+    {
+      "title": "Steps 3 to 5: Quantify, tailor, then let AI edit the last 10 percent",
+      "content": [
+        "Step three is impact language. Every bullet should answer one of these questions: what changed, how much, and why it mattered. 'Owned onboarding workflow' is weak. 'Cut onboarding time from 14 days to 9 by rebuilding account provisioning and handoff rules' is stronger because it gives evidence, mechanism, and business value.",
+        "Step four is targeted tailoring. Before each application, adjust your summary, top skills, and the first few bullets under recent roles to reflect the employer's core needs. Do not mirror every keyword blindly. Prioritize the terms that appear in responsibilities, not fluff from brand copy.",
+        "Step five is AI-assisted editing. Use AI to check clarity, consistency, and missing evidence, not to fabricate experience. Good prompts ask the model to compare your resume against a job description, flag weak bullets, and suggest clearer phrasing while preserving truth. Always verify outputs manually. The best use of AI is compression and sharpening, not invention."
+      ],
+      "bullets": [
+        "Quantify outcomes with time, revenue, cost, scale, reliability, or adoption metrics.",
+        "Tailor only the parts that change ranking and first-glance credibility.",
+        "Use AI to improve wording and match, but never outsource factual judgment."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Benchmark your resume against real examples",
+    "body": "Inside the Discord, members compare resume wording, ATS feedback, and role-specific positioning without the usual fluff.",
+    "label": "Compare Resume Tactics",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Jobscan ATS resume guidance and match rate research",
+      "url": "https://www.jobscan.co/blog/"
+    },
+    {
+      "label": "LinkedIn hiring and recruiting insights",
+      "url": "https://www.linkedin.com/business/talent/blog"
+    },
+    {
+      "label": "Indeed resume and applicant tracking system guidance",
+      "url": "https://www.indeed.com/career-advice/resumes-cover-letters"
+    }
+  ]
+}

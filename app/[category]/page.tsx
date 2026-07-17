@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { BriefcaseBusiness, Brain, Cpu, RefreshCcw } from "lucide-react";
 
 import { GuideCard } from "@/components/guide-card";
-import { getArticlesByCategory, getCategories, getCategoryBySlug } from "@/lib/content/queries";
+import { getArticlesByCategory, getCategories } from "@/lib/content/queries";
 import { getCategoryMetadata } from "@/lib/content/seo";
 
 type CategoryPageProps = {
@@ -22,8 +22,9 @@ const iconMap = {
 export const dynamicParams = false;
 
 /** Generates all supported category routes for static export. */
-export function generateStaticParams() {
-  return getCategories().map((category) => ({
+export async function generateStaticParams() {
+  const categories = await getCategories();
+  return categories.map((category) => ({
     category: category.slug,
   }));
 }
@@ -33,7 +34,8 @@ export async function generateMetadata({
   params,
 }: CategoryPageProps): Promise<Metadata> {
   const { category: slug } = await params;
-  const category = getCategoryBySlug(slug);
+  const categories = await getCategories();
+  const category = categories.find(c => c.slug === slug);
 
   if (!category) {
     notFound();
@@ -45,13 +47,14 @@ export async function generateMetadata({
 /** Renders a category landing page with a hero summary and article list. */
 export default async function CategoryPage({ params }: CategoryPageProps) {
   const { category: slug } = await params;
-  const category = getCategoryBySlug(slug);
+  const categories = await getCategories();
+  const category = categories.find(c => c.slug === slug);
 
   if (!category) {
     notFound();
   }
 
-  const categoryArticles = getArticlesByCategory(category.slug);
+  const categoryArticles = await getArticlesByCategory(category.slug);
   const Icon = iconMap[category.icon];
 
   return (

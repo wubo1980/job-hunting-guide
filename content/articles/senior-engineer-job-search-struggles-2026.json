@@ -1,0 +1,80 @@
+{
+  "slug": "senior-engineer-job-search-struggles-2026",
+  "category": "job-search-mindset",
+  "title": "Why Senior Engineers Are Struggling to Find Jobs in 2026",
+  "description": "183,966 tech workers laid off in 2026 — and senior engineers with 10+ years of experience are facing unexpected rejection. Learn why experience cuts both ways and how to reframe your search strategy for the two-tier job market.",
+  "publishedAt": "2026-06-29",
+  "readingTime": "8 min read",
+  "featured": false,
+  "tags": [
+    "Senior Engineer",
+    "Layoffs",
+    "Job Search",
+    "Two-Tier Market"
+  ],
+  "sections": [
+    {
+      "title": "The senior engineer paradox: too experienced to hire",
+      "content": [
+        "In June 2026, a viral story spread across LinkedIn and Twitter: a senior software engineer with 18 years of experience, laid off from a tech company, was working at McDonald's. The story was extreme but resonated because it captured a structural shift that many senior engineers are experiencing but few are talking about openly.",
+        "The IBTimes reported on a 7-year Amazon veteran who spent eight months searching after his layoff, despite receiving calls from Google, Uber, Agoda, and American Express. The calls came, but offers did not. KORE1's June 2026 analysis put numbers behind the anecdotes: the senior generalist software engineering market is glutted, with mid-to-senior generalist postings sitting open for 60-plus days while AI infrastructure and specialized senior roles close in two to four weeks.",
+        "The contradiction is real. Senior engineers are simultaneously in high demand for specialized roles and locked out of generalist positions. The market no longer rewards 10-plus years of broad experience. It rewards deep, domain-specific expertise that is hard to automate or outsource. If you have been a generalist for your entire career, 2026 is the year that strategy stops working."
+      ]
+    },
+    {
+      "title": "Three specific barriers senior engineers face in 2026",
+      "content": [
+        "Barrier one: compensation expectations. Companies tightening budgets in 2026 are reluctant to hire at senior salary bands unless the role clearly requires that level of expertise. A senior engineer who commands $180,000-plus in total compensation competes against mid-level candidates at $130,000 who can do 80 percent of the same work with AI assistance. For budget-constrained hiring managers, the premium for the last 20 percent of capability is increasingly hard to justify.",
+        "Barrier two: the 'overqualified' label. Recruiters and hiring managers worry that senior engineers will be bored, leave quickly, or challenge decisions. Whether or not this concern is fair, it affects callback rates. A resume with 15-plus years of experience applied to a senior IC role that asks for 5 to 7 years often gets filtered out before a conversation happens.",
+        "Barrier three: skills obsolescence perception. A senior engineer whose last deep technical work was four years ago, who has been managing teams or doing architecture reviews without writing production code, is competing against engineers who are actively coding with the latest frameworks and tools. The perception that your hands-on skills are stale is a real barrier, even if your judgment and system-level thinking are far stronger.",
+        "The layoff landscape analysis at /articles/2026-tech-layoffs-landscape-analysis explains more about the structural divide between saturated and scarce role categories."
+      ]
+    },
+    {
+      "title": "How to reframe your search as a senior engineer",
+      "content": [
+        "The most effective reframe is to stop marketing yourself as 'experienced' and start marketing yourself as specialized. Replace '15 years of software engineering' with a specific problem statement: 'I build real-time data pipelines that process 50 TB daily with 99.99 percent uptime.' The more specific your positioning, the more you stand out from the generalist senior pool.",
+        "If your deep specialization is outdated, invest in a focused skill update for your target role. Three months of concentrated learning — a certification, a portfolio project, an open-source contribution — can change how recruiters perceive your profile. The 30-day post-layoff action plan at /articles/30-day-post-layoff-action-plan provides a structure for this kind of targeted skill investment.",
+        "Network differently. Senior engineers benefit most from connecting with hiring managers and directors, not recruiters. A director of engineering who remembers the quality of your work from a past interaction is worth 50 cold applications. Use the networking guide at /articles/how-to-network-for-a-job-in-2026 to build a tiered outreach plan that targets decision-makers.",
+        "Consider a strategic title downgrade. If your last title was 'VP of Engineering,' and you are targeting IC roles, list yourself as 'Principal Engineer' or 'Staff Engineer' on LinkedIn and your resume. The title downgrade signals that you are ready for hands-on work, not management, and removes the 'overqualified' filter from recruiter searches."
+      ]
+    },
+    {
+      "title": "When to pivot instead of pushing through",
+      "content": [
+        "The career pivot pathways guide at /articles/career-pivot-pathways-2026-cloud-ai-security outlines five transition paths for tech professionals. For senior engineers struggling to find equivalent roles, pivoting into a related but higher-demand specialization often produces faster results than grinding through generalist applications.",
+        "Cloud engineering is the most natural pivot for senior engineers with infrastructure or operations experience. Cybersecurity is accessible for engineers with security-adjacent backgrounds. AI and ML engineering is the highest-salary pivot but requires the steepest learning curve.",
+        "If you have been searching for three to six months with fewer than two real interview processes, the market is telling you something. That signal does not mean you are unemployable. It means the market has reclassified your old role category. The best response is not to try harder. It is to reposition into a category where your skills are scarce enough to command attention.",
+        "The 2026 tech layoffs landscape analysis explains that 113,000-plus layoffs are concentrated in specific role families. Senior engineers in saturated categories need to either deepen specialization to the point of scarcity or pivot into a category where their background is rare. Stubbornly repeating the same search strategy is not persistence. It is the definition of insanity."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Connect with other senior engineers navigating the same market",
+    "body": "Inside the Discord, senior engineers share role reframing strategies, which specializations are actually hiring, and how they are navigating the two-tier job market in 2026.",
+    "label": "Join Senior Engineer Discussion",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "KORE1: Senior SWE Glut vs. $250K AI Infra Drought 2026",
+      "url": "https://www.kore1.com/senior-swe-glut-ai-infra-drought-2026/"
+    },
+    {
+      "label": "IBTimes: 7-Year Amazon Veteran Reveals Nightmare 8-Month Job Hunt After Layoff",
+      "url": "https://www.ibtimes.co.uk/7-year-amazon-veteran-reveals-nightmare-8-month-job-hunt-after-layoff-1800133"
+    },
+    {
+      "label": "LinkedIn: Katie Brooks on 183,966 Tech Workers Laid Off in 2026",
+      "url": "https://www.linkedin.com/posts/katiered_jobsearch-careerpositioning-techlayoffs-activity-7471690178097479680-0iAn"
+    },
+    {
+      "label": "Lowdown Today: 45,000 tech layoffs Q1 2026",
+      "url": "https://lowdown.today/t/ai-jobs-power-money/2/"
+    },
+    {
+      "label": "Robert Half 2026 Technology Salary Guide",
+      "url": "https://www.roberthalf.com/us/en/insights/salary-guide/technology"
+    }
+  ]
+}

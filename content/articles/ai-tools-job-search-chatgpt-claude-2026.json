@@ -1,0 +1,68 @@
+{
+  "slug": "ai-tools-job-search-chatgpt-claude-2026",
+  "category": "ai-job-search",
+  "title": "How to Use ChatGPT & Claude to Accelerate Your 2026 Job Search",
+  "description": "Job seekers who use AI tools effectively shorten their search cycle by weeks. Learn which parts of a job search AI can accelerate and where human judgment still decides the outcome.",
+  "publishedAt": "2026-06-27",
+  "readingTime": "9 min read",
+  "featured": true,
+  "tags": [
+    "AI Tools",
+    "ChatGPT",
+    "Claude",
+    "Job Search",
+    "Resume Optimization"
+  ],
+  "sections": [
+    {
+      "title": "The right way to use AI in a job search",
+      "content": [
+        "The wrong way is to let AI write everything for you. AI-generated cover letters are increasingly easy to spot, and recruiters report rejecting candidates whose materials clearly came from a generic prompt. The right way is to use AI as an accelerator for tasks that benefit from speed: keyword matching, resume tailoring, practice conversation, and market research.",
+        "The five-step AI resume optimization framework at /articles/ai-resume-optimization-5-step-framework walks through how to use AI to improve clarity and keyword alignment while preserving factual accuracy. The principle is simple: AI handles formatting and compression, while you own the truth, judgment, and final output."
+      ]
+    },
+    {
+      "title": "Use AI for resume tailoring, not resume generation",
+      "content": [
+        "A generic resume sent to fifty companies underperforms a tailored resume sent to ten. But manual tailoring of an entire resume for each application is unsustainable. AI is useful in the middle ground: maintain one comprehensive master resume and use AI to select and rephrase relevant bullets for each target role.",
+        "A practical workflow: paste the job description and your master resume into ChatGPT or Claude. Ask the model to recommend the top five to seven bullets to highlight for that specific application. Review each recommendation. Accept accurate and well-phrased ones. Reject or rewrite anything that exaggerates or distorts.",
+        "Never fabricate experience. AI can sharpen phrasing, but no amount of language polish survives a technical interview or reference check. Use Jobscan to verify ATS match rate after tailoring."
+      ]
+    },
+    {
+      "title": "Use AI for interview practice with feedback loops",
+      "content": [
+        "Human interview practice is the gold standard, but scheduling multiple rounds per week is hard. AI interview simulators fill the gap by playing the interviewer role and providing structured feedback.",
+        "A good practice session: share the job description and interview format with the AI, ask it to ask real questions in that format, answer verbally or by typing, then request feedback on structure, evidence density, and clarity. AI practice is judgment-free and available at any hour.",
+        "Update your LinkedIn profile at /articles/linkedin-profile-optimization-2026 before interview season begins. Many recruiters check your profile immediately after an interview, and an optimized presence reinforces the narrative you built during the conversation."
+      ]
+    },
+    {
+      "title": "When AI hurts more than it helps",
+      "content": [
+        "AI is not useful for every task. Cover letters written entirely by AI are easily detected. Cold outreach messages generated without human editing feel robotic and reduce response rates. Take-home assignments must be your own work.",
+        "Use AI for speed in draft tasks where you will edit the output. Trust your own judgment when authenticity is the evaluation criteria. The networking guide at /articles/how-to-network-for-a-job-in-2026 explains that human relationships, not AI-generated text, drive the highest-conversion job search outcomes."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Swap AI prompts and workflows with other job seekers",
+    "body": "Inside the Discord, members share the prompts that actually work for resume tailoring, interview practice, and networking message drafting.",
+    "label": "Join The AI Search Lab",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "ChatGPT by OpenAI",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "label": "Claude by Anthropic",
+      "url": "https://claude.ai"
+    },
+    {
+      "label": "Jobscan ATS resume scanner",
+      "url": "https://www.jobscan.co"
+    }
+  ]
+}

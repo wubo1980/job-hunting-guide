@@ -1,0 +1,74 @@
+{
+  "slug": "financially-survive-tech-layoff-guide-2026",
+  "category": "job-search-mindset",
+  "title": "How to Financially Survive a Tech Layoff: COBRA, Cash Flow & Insurance",
+  "description": "A seven-day financial survival plan for laid-off tech workers covering severance negotiation, COBRA insurance decisions, unemployment benefits, cash flow budgeting, and smart side income strategies.",
+  "publishedAt": "2026-06-27",
+  "readingTime": "8 min read",
+  "featured": true,
+  "tags": [
+    "Layoff",
+    "Financial Planning",
+    "COBRA",
+    "Unemployment",
+    "Side Income"
+  ],
+  "sections": [
+    {
+      "title": "Day one: Understand your runway before making decisions",
+      "content": [
+        "After a layoff, the first instinct is to scramble: update LinkedIn, message every contact, start applying. That instinct is wrong. The highest-leverage action in the first 24 hours is a clear-headed audit of your financial runway. Without that number, every decision is based on fear rather than data.",
+        "Calculate total cash available from checking, savings, severance, unused PTO payout, and liquid investments. Calculate monthly fixed expenses including rent, utilities, groceries, transportation, insurance, and loan payments. Divide cash by expenses to get your runway in months.",
+        "The 30-day post-layoff plan at /articles/30-day-post-layoff-action-plan covers emotional and career planning. This article focuses purely on financial mechanics, because cash buys you time, and time buys you good decisions."
+      ]
+    },
+    {
+      "title": "COBRA versus ACA marketplace: the decision that costs or saves thousands",
+      "content": [
+        "COBRA lets you keep your employer health plan for up to 18 months, but you pay the full premium plus a two percent administrative fee. In 2026, average COBRA premiums run six hundred to eight hundred dollars monthly for individuals and eighteen hundred to twenty-five hundred for families. ACA marketplace plans with subsidies are often cheaper.",
+        "The ACA offers subsidies based on projected annual income. If laid off mid-year, your remaining income is lower than your W-2 shows, qualifying you for significant premium tax credits. Silver plans with subsidies can cost as little as one hundred to three hundred dollars monthly.",
+        "If you have a pre-existing condition or complex healthcare needs, COBRA may be worth the premium to keep your provider network. If generally healthy, ACA is almost certainly cheaper. The healthcare.gov website shows marketplace plans available in your area, and the US Department of Labor provides a comprehensive COBRA rights guide."
+      ]
+    },
+    {
+      "title": "Cash flow strategies for the search window",
+      "content": [
+        "Severance is not a blank check. The median tech job search in 2026 runs three to six months for mid-level roles and six to twelve months for saturated senior categories. Plan for the longer end and treat faster outcomes as bonuses.",
+        "File for unemployment immediately. Most states have a one-week waiting period and two to three weeks of administrative processing. The CareerOneStop site from the US Department of Labor helps find your state's unemployment office.",
+        "Review non-essential subscriptions. Every dollar not spent extends your runway. Consider consulting or contract work on Upwork or Toptal. Even one to three thousand dollars monthly in consulting income extends your search window significantly.",
+        "The burnout recovery guide at /articles/how-to-recover-from-job-search-burnout discusses the emotional side. Financially, the goal is a buffer that removes the urgency to accept a bad offer."
+      ]
+    },
+    {
+      "title": "Tax implications of severance, unemployment, and side income",
+      "content": [
+        "Severance is regular income subject to federal and state withholding. Unemployment benefits are taxable at the federal level and in most states. Side income from consulting is subject to self-employment tax.",
+        "The IRS recommends quarterly estimated tax payments if side income exceeds one thousand dollars. Set aside 25 to 30 percent of any side income or unemployment benefits for taxes. Consider contributing to a Traditional IRA or HSA to reduce taxable income and build savings simultaneously."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Compare financial strategies with others in the same position",
+    "body": "Join the Discord to share COBRA costs, ACA plan recommendations, and budgeting templates specific to tech layoff scenarios.",
+    "label": "Compare Financial Plans",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Healthcare.gov ACA marketplace",
+      "url": "https://www.healthcare.gov"
+    },
+    {
+      "label": "US Department of Labor COBRA guidance",
+      "url": "https://www.dol.gov/general/topic/health-plans/cobra"
+    },
+    {
+      "label": "CareerOneStop unemployment benefits finder",
+      "url": "https://www.careeronestop.org"
+    },
+    {
+      "label": "IRS estimated tax payment guidance",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+    }
+  ]
+}

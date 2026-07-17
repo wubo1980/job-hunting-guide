@@ -1,0 +1,66 @@
+{
+  "slug": "how-to-pass-an-ai-interview",
+  "category": "interview-prep",
+  "title": "When The First Interviewer Is AI: How To Prepare Without Sounding Robotic",
+  "description": "AI screening interviews are becoming normal. Learn what these tools actually measure, how to structure answers, and where candidates usually fail.",
+  "publishedAt": "2026-05-27",
+  "readingTime": "7 min read",
+  "featured": true,
+  "tags": [
+    "AI Interview",
+    "Behavioral Interview",
+    "Preparation"
+  ],
+  "sections": [
+    {
+      "title": "What AI interview screens usually care about",
+      "content": [
+        "Despite the branding, most AI interview platforms are not reading your soul. They are looking for consistency, relevance, clarity, and evidence density. That means your answer needs a visible structure, enough role-specific language to show match, and concrete examples instead of vague confidence.",
+        "Many candidates lose points because they answer like they are on a networking call: too broad, too long, and too narrative-heavy before getting to the result. AI tools are often better than rushed humans at spotting whether you actually answered the prompt. If the question asks about conflict, and your answer becomes a general career story, your score can suffer.",
+        "Treat the tool like a strict but literal first screen. It rewards concise structure. It often punishes rambling, weak audio, poor lighting, and long pauses that signal low preparation rather than thoughtful judgment."
+      ]
+    },
+    {
+      "title": "Use a repeatable answer framework",
+      "content": [
+        "A practical format is STAR with compression: Situation, Task, Action, Result, then one short line on what changed because of your action. Keep each answer to the problem, your role, and a measurable outcome. If the role is technical, mention tools only when they clarify the result.",
+        "Prepare five reusable stories in advance: a difficult problem, a conflict, a project with measurable impact, a failure with learning, and a high-pressure decision. Those five stories can cover a surprising share of prompts. Then tailor the language so each story surfaces the skills the role demands.",
+        "Also practice speaking to a camera. The goal is not charisma theater. The goal is stable delivery. Record yourself answering three prompts and check whether you front-load the answer, whether your microphone is clean, and whether your examples actually contain proof."
+      ],
+      "checklist": [
+        "Prepare five role-relevant stories with results and metrics.",
+        "Answer the prompt in the first sentence before adding context.",
+        "Keep most responses under two minutes unless the platform instructs otherwise.",
+        "Test camera, framing, lighting, and audio before the session starts."
+      ]
+    },
+    {
+      "title": "Common traps that quietly lower your score",
+      "content": [
+        "The biggest trap is generic language. 'I am passionate, adaptable, and collaborative' communicates almost nothing. Replace self-description with evidence. Another trap is reading from a script. A heavily memorized answer sounds flat and can drift off prompt when you panic. Use bullet anchors, not full paragraphs.",
+        "Be careful with filler and unfinished sentences. AI systems may tolerate some natural speech, but high filler density can reduce clarity. More importantly, it makes you sound underprepared. Slow down instead of filling silence.",
+        "Finally, remember that the AI round is not the whole process. Its purpose is often to reduce volume before a human conversation. Your job is not to impress with brilliance. Your job is to get through the gate cleanly, clearly, and credibly."
+      ]
+    }
+  ],
+  "cta": {
+    "heading": "Practice with sharper feedback",
+    "body": "Inside the Discord, members swap mock questions, answer frameworks, and real AI screen experiences from current hiring loops.",
+    "label": "Practice With Others",
+    "href": "https://discord.gg/RdHhdgRhbc"
+  },
+  "sources": [
+    {
+      "label": "Harvard Business Review on AI hiring and interviews",
+      "url": "https://hbr.org/search?term=AI%20hiring"
+    },
+    {
+      "label": "Society for Human Resource Management recruiting technology resources",
+      "url": "https://www.shrm.org/topics-tools/topics/technology"
+    },
+    {
+      "label": "HireVue candidate preparation resources",
+      "url": "https://www.hirevue.com/resources"
+    }
+  ]
+}
